@@ -1,0 +1,285 @@
+{
+    "category": "Transactional",
+    "templates": [
+        {
+            "id": 2001,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Subscription is Expiring Soon",
+            "slug": "subscription-is-expiring-soon",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1899,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Dispute Resolution",
+            "slug": "dispute-resolution",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 12,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 1896,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Disclaimer",
+            "slug": "disclaimer",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 1,
+                "4": 6,
+                "5": 53
+            },
+            "type": "email"
+        },
+        {
+            "id": 1682,
+            "premium": false,
+            "rating": 4.1,
+            "previewUrl": null,
+            "name": "Honoring Our Veterans",
+            "slug": "honoring-our-veterans",
+            "votes": {
+                "1": 2,
+                "2": 3,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1668,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Investor Update",
+            "slug": "investor-update",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 14,
+                "5": 85
+            },
+            "type": "email"
+        },
+        {
+            "id": 1665,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Sweet Treat",
+            "slug": "sweet-treat",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 1364,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Marketing Agency Invoice",
+            "slug": "marketing-agency-invoice",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 10,
+                "5": 57
+            },
+            "type": "email"
+        },
+        {
+            "id": 1360,
+            "premium": false,
+            "rating": 4.17,
+            "previewUrl": null,
+            "name": "Cafe Invoice",
+            "slug": "cafe-invoice",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 1357,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Stock Invoice",
+            "slug": "stock-invoice",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 46
+            },
+            "type": "email"
+        },
+        {
+            "id": 1316,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Consulting Service Invoice ",
+            "slug": "consulting-service-invoice",
+            "votes": {
+                "1": 6,
+                "2": 3,
+                "3": 5,
+                "4": 25,
+                "5": 200
+            },
+            "type": "email"
+        },
+        {
+            "id": 1306,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Appliances Purchase Invoice",
+            "slug": "real-estate-commission-invoice",
+            "votes": {
+                "1": 6,
+                "2": 1,
+                "3": 4,
+                "4": 15,
+                "5": 154
+            },
+            "type": "email"
+        },
+        {
+            "id": 1160,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Food Items Delivery Notification",
+            "slug": "food-items-delivery-notification",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 2,
+                "4": 14,
+                "5": 97
+            },
+            "type": "email"
+        },
+        {
+            "id": 822,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Banking Credit Card Experience",
+            "slug": "banking-credit-card-experience",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 7,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 817,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "You Just Received Money!",
+            "slug": "you-just-received-money",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 15,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 675,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Invoice Payment Reminder ",
+            "slug": "invoice-payment-reminder",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 16,
+                "4": 33,
+                "5": 177
+            },
+            "type": "email"
+        },
+        {
+            "id": 552,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Payment Reminder",
+            "slug": "payment-reminder",
+            "votes": {
+                "3": 5,
+                "4": 7,
+                "5": 67
+            },
+            "type": "email"
+        },
+        {
+            "id": 551,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Past Due Invoice",
+            "slug": "past-due-invoice",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 22,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 454,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": " Reset Password",
+            "slug": "reset-password",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        }
+    ]
+}

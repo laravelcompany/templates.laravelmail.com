@@ -1,0 +1,98 @@
+{
+    "category": "World Tourism Day",
+    "templates": [
+        {
+            "id": 2793,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Time For a Journey",
+            "slug": "time-for-a-journey",
+            "votes": {
+                "5": 2
+            },
+            "type": "email"
+        },
+        {
+            "id": 2792,
+            "premium": false,
+            "rating": null,
+            "previewUrl": null,
+            "name": "Mountain View",
+            "slug": "mountain-view",
+            "votes": [],
+            "type": "email"
+        },
+        {
+            "id": 1427,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Mountain Bikes Tourism Day Deal",
+            "slug": "mountain-bikes-tourism-day-deal",
+            "votes": {
+                "4": 7,
+                "5": 60
+            },
+            "type": "email"
+        },
+        {
+            "id": 1425,
+            "premium": false,
+            "rating": 4.44,
+            "previewUrl": null,
+            "name": "Hiking Boots Discount ",
+            "slug": "hiking-boots-discount",
+            "votes": {
+                "1": 1,
+                "4": 5,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 1187,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "World Tourism Day Event Invitation",
+            "slug": "world-tourism-day-event-invitation",
+            "votes": {
+                "1": 6,
+                "2": 1,
+                "3": 3,
+                "4": 7,
+                "5": 67
+            },
+            "type": "email"
+        },
+        {
+            "id": 1185,
+            "premium": false,
+            "rating": 4.3,
+            "previewUrl": null,
+            "name": "Trekking Equipment Sale On Tourism Day",
+            "slug": "trekking-equipment-sale-on-tourism-day",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1178,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Vacation Tour Discount On Tourism Day",
+            "slug": "vacation-tour-discount-on-tourism-day",
+            "votes": {
+                "4": 4,
+                "5": 20
+            },
+            "type": "email"
+        }
+    ]
+}

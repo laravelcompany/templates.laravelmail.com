@@ -1,0 +1,18 @@
+{
+    "category": "Legal",
+    "templates": [
+        {
+            "id": 2220,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Quality Assurance Documentation",
+            "slug": "quality-assurance-documentation",
+            "votes": {
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        }
+    ]
+}

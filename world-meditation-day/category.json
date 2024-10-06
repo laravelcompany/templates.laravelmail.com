@@ -1,0 +1,34 @@
+{
+    "category": "World Meditation Day",
+    "templates": [
+        {
+            "id": 1847,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Meditation Day Acupuncture Promotion",
+            "slug": "meditation-day-acupuncture-promotion",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 5,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1073,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Meditation Day Chiropractor Promotion",
+            "slug": "meditation-day-chiropractor-promotion",
+            "votes": {
+                "3": 2,
+                "4": 11,
+                "5": 52
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "category": "Thanksgiving",
+    "templates": [
+        {
+            "id": 2404,
+            "premium": false,
+            "rating": 4.22,
+            "previewUrl": null,
+            "name": "Gravy Training",
+            "slug": "gravy-training",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2403,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Thanksgiving Giveaway",
+            "slug": "thanksgiving-giveaway",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2402,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Thanksgiving Dessert",
+            "slug": "thanksgiving-dessert",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2400,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Thanksgiving Dinner",
+            "slug": "thanksgiving-dinner",
+            "votes": {
+                "4": 2,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2399,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Thanksgiving Food",
+            "slug": "thanksgiving-food",
+            "votes": {
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 1704,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Happy Thanksgiving",
+            "slug": "happy-thanksgiving",
+            "votes": {
+                "1": 3,
+                "3": 2,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1702,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Employees",
+            "slug": "thanksgiving-email-to-employees",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 8,
+                "4": 6,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1701,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Your Subscribers",
+            "slug": "thanksgiving-email-to-your-subscribers",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 7,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 529,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "Thanksgiving Deals",
+            "slug": "thanksgiving-deals",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 5,
+                "4": 4,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 884,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Thanksgiving Special Furniture Sale",
+            "slug": "thanksgiving-special-furniture-sale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 5,
+                "4": 31,
+                "5": 99
+            },
+            "type": "email"
+        },
+        {
+            "id": 873,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Thanksgiving Footwear Sale",
+            "slug": "thanksgiving-footwear-sale",
+            "votes": {
+                "1": 4,
+                "3": 2,
+                "4": 23,
+                "5": 157
+            },
+            "type": "email"
+        },
+        {
+            "id": 888,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Thanksgiving Hotel Discount",
+            "slug": "thanksgiving-hotel-discount",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 3,
+                "4": 10,
+                "5": 38
+            },
+            "type": "email"
+        }
+    ]
+}

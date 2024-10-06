@@ -1,0 +1,66 @@
+{
+    "category": "Birthday",
+    "templates": [
+        {
+            "id": 1848,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Birthday Special Surprise",
+            "slug": "birthday-special-surprise",
+            "votes": {
+                "1": 4,
+                "2": 3,
+                "3": 4,
+                "4": 13,
+                "5": 56
+            },
+            "type": "email"
+        },
+        {
+            "id": 1413,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Birthday Discounts",
+            "slug": "birthday-discounts",
+            "votes": {
+                "1": 2,
+                "3": 6,
+                "4": 4,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 645,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Birthday Photography",
+            "slug": "birthday-photography",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 245,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Happy Birthday",
+            "slug": "happy-birthday",
+            "votes": {
+                "1": 7,
+                "2": 2,
+                "3": 5,
+                "4": 24,
+                "5": 122
+            },
+            "type": "email"
+        }
+    ]
+}

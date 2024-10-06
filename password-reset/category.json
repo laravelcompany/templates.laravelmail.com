@@ -1,0 +1,144 @@
+{
+    "category": "Password Reset",
+    "templates": [
+        {
+            "id": 2507,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Password Expiry Reminder",
+            "slug": "password-expiry-reminder",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 17,
+                "5": 100
+            },
+            "type": "email"
+        },
+        {
+            "id": 2506,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Account Recovery",
+            "slug": "account-recovery",
+            "votes": {
+                "3": 4,
+                "4": 9,
+                "5": 60
+            },
+            "type": "email"
+        },
+        {
+            "id": 2504,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Two-Factor Authentication Reset",
+            "slug": "two-factor-authentication-reset",
+            "votes": {
+                "3": 5,
+                "4": 7,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 2502,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Security Challenge ",
+            "slug": "security-challenge",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 4,
+                "4": 15,
+                "5": 71
+            },
+            "type": "email"
+        },
+        {
+            "id": 2462,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "One-Time Password",
+            "slug": "one-time-password",
+            "votes": {
+                "1": 10,
+                "2": 1,
+                "3": 5,
+                "4": 16,
+                "5": 111
+            },
+            "type": "email"
+        },
+        {
+            "id": 2456,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Unlock Account",
+            "slug": "unlock-account",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 8,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 1860,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Restore the Password",
+            "slug": "restore-the-password",
+            "votes": {
+                "1": 7,
+                "2": 3,
+                "3": 13,
+                "4": 51,
+                "5": 266
+            },
+            "type": "email"
+        },
+        {
+            "id": 1859,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Password Changed",
+            "slug": "password-changed",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 4,
+                "4": 15,
+                "5": 116
+            },
+            "type": "email"
+        },
+        {
+            "id": 41,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Forgot Password",
+            "slug": "notification-forgot-password",
+            "votes": {
+                "1": 23,
+                "2": 15,
+                "3": 64,
+                "4": 244,
+                "5": 1626
+            },
+            "type": "email"
+        }
+    ]
+}

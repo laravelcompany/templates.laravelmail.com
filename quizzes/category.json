@@ -1,0 +1,76 @@
+{
+    "category": "Quizzes",
+    "templates": [
+        {
+            "id": 2235,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Quiz Retake Invitation",
+            "slug": "quiz-retake-invitation",
+            "votes": {
+                "1": 5,
+                "3": 8,
+                "4": 19,
+                "5": 94
+            },
+            "type": "email"
+        },
+        {
+            "id": 2231,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Tech Trivia Quiz",
+            "slug": "tech-trivia-quiz",
+            "votes": {
+                "2": 1,
+                "4": 1,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2228,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Email Marketing Quiz",
+            "slug": "email-marketing-quiz",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2225,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Social Media Quiz",
+            "slug": "social-media-quiz",
+            "votes": {
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2222,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Digital Marketing Quiz",
+            "slug": "digital-marketing-quiz",
+            "votes": {
+                "2": 2,
+                "3": 1,
+                "4": 4,
+                "5": 23
+            },
+            "type": "email"
+        }
+    ]
+}

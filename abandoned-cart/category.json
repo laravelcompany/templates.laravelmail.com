@@ -1,0 +1,128 @@
+{
+    "category": "Abandoned Cart",
+    "templates": [
+        {
+            "id": 1933,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "You Forgot to Order",
+            "slug": "you-forgot-to-order",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 45
+            },
+            "type": "email"
+        },
+        {
+            "id": 1725,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Hanukkah Sale",
+            "slug": "hanukkah-sale",
+            "votes": {
+                "1": 5,
+                "2": 2,
+                "3": 5,
+                "4": 11,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 1609,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "SaaS Cart Abandoned",
+            "slug": "saas-cart-abandoned",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 2,
+                "4": 16,
+                "5": 98
+            },
+            "type": "email"
+        },
+        {
+            "id": 1474,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Customer Feedback",
+            "slug": "customer-feedback",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 6,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1473,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "One Day Offer",
+            "slug": "one-day-offer",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 6,
+                "5": 50
+            },
+            "type": "email"
+        },
+        {
+            "id": 1467,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Abandoned Cart Reminder",
+            "slug": "abandoned-cart-reminder",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "3": 3,
+                "4": 17,
+                "5": 81
+            },
+            "type": "email"
+        },
+        {
+            "id": 25,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Return Product",
+            "slug": "return-product-to-cart",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 10,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 34,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Abandoned Cart",
+            "slug": "abandoned-cart",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 15,
+                "5": 55
+            },
+            "type": "email"
+        }
+    ]
+}

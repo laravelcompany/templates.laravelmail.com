@@ -1,0 +1,379 @@
+{
+    "category": "Beauty & Personal Care",
+    "templates": [
+        {
+            "id": 2511,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Gift List",
+            "slug": "gift-list",
+            "votes": {
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2344,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Happy Hour",
+            "slug": "happy-hour",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1926,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Easter Flash Sale",
+            "slug": "easter-flash-sale",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 4,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 1645,
+            "premium": false,
+            "rating": 4.37,
+            "previewUrl": null,
+            "name": "SPA Offers ",
+            "slug": "spa-offers",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1373,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Beauty Products Back in Stock",
+            "slug": "beauty-products-back-in-stock",
+            "votes": {
+                "1": 5,
+                "2": 3,
+                "3": 4,
+                "4": 11,
+                "5": 61
+            },
+            "type": "email"
+        },
+        {
+            "id": 1314,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Mother's Day Cosmetics Sale",
+            "slug": "mothers-day-cosmetics-sale",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 25,
+                "4": 17,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 1067,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Friendship Day  Jewellery Sale",
+            "slug": "friendship-day-jewellery-sale",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 1029,
+            "premium": false,
+            "rating": 4.21,
+            "previewUrl": null,
+            "name": "Skin Care Earth Day Discount",
+            "slug": "skin-care-earth-day-discount",
+            "votes": {
+                "1": 1,
+                "3": 8,
+                "4": 6,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1014,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Women\u2019s Day Cosmetics Sale",
+            "slug": "womens-day-cosmetics-sale",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 42
+            },
+            "type": "email"
+        },
+        {
+            "id": 920,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Pride Month Makeup Brand Promotion",
+            "slug": "pride-month-makeup-brand-promotion",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 919,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Pride Month Cosmetics Discount",
+            "slug": "pride-month-cosmetics-discount",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 917,
+            "premium": false,
+            "rating": 4.32,
+            "previewUrl": null,
+            "name": "Cyber Monday Cosmetics Sale",
+            "slug": "cyber-monday-cosmetics-sale",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 1,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 726,
+            "premium": false,
+            "rating": 3.58,
+            "previewUrl": null,
+            "name": "Natural Products Promotion",
+            "slug": "natural-products-promotion",
+            "votes": {
+                "3": 16,
+                "4": 2,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 715,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Salon Customer Service",
+            "slug": "salon-customer-service",
+            "votes": {
+                "4": 3,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 702,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Beauty Cosmetics Shop",
+            "slug": "beauty-cosmetics-shop",
+            "votes": {
+                "3": 2,
+                "4": 6,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 532,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Body Care Bestsellers",
+            "slug": "body-care-bestsellers",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 408,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Massage Spa",
+            "slug": "massage-spa",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 396,
+            "premium": false,
+            "rating": 4.94,
+            "previewUrl": null,
+            "name": "Organic Product",
+            "slug": "organic-product",
+            "votes": {
+                "4": 2,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 393,
+            "premium": false,
+            "rating": 4.92,
+            "previewUrl": null,
+            "name": "Nail Care",
+            "slug": "cosmetic-product",
+            "votes": {
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 373,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Makeup Idea",
+            "slug": "blog",
+            "votes": {
+                "4": 2,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 293,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Valentine's Day Promotion",
+            "slug": "valentines-day-promotion",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 281,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Happy Valentines",
+            "slug": "happy-valentine",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 3,
+                "4": 12,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 242,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Barber Shops",
+            "slug": "barber-shops",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 81,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Women's Day Discount",
+            "slug": "womens-day-discount",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 5,
+                "5": 55
+            },
+            "type": "email"
+        },
+        {
+            "id": 75,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Beauty Brand",
+            "slug": "beauty-brand",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 39,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Cosmetics",
+            "slug": "cosmetics",
+            "votes": {
+                "1": 7,
+                "2": 2,
+                "4": 5,
+                "5": 35
+            },
+            "type": "email"
+        }
+    ]
+}

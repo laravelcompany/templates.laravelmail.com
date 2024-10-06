@@ -1,0 +1,105 @@
+{
+    "category": "Social Proof",
+    "templates": [
+        {
+            "id": 2366,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Motivation Retention",
+            "slug": "motivation-retention",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 65
+            },
+            "type": "email"
+        },
+        {
+            "id": 2309,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Voices of Customers",
+            "slug": "voices-of-customers",
+            "votes": {
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2225,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Social Media Quiz",
+            "slug": "social-media-quiz",
+            "votes": {
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2178,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Infographic Promotion Email",
+            "slug": "infographic-promotion-email",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 1944,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Satisfaction Guarantees",
+            "slug": "satisfaction-guarantees",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 21,
+                "5": 80
+            },
+            "type": "email"
+        },
+        {
+            "id": 1941,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Influencer Endorsements",
+            "slug": "influencer-endorsements",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 1940,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Social Media Mentions",
+            "slug": "social-media-mentions",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 16
+            },
+            "type": "email"
+        }
+    ]
+}

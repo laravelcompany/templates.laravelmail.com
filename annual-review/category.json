@@ -1,0 +1,81 @@
+{
+    "category": "Annual Review",
+    "templates": [
+        {
+            "id": 1673,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Finance Annual Report ",
+            "slug": "finance-annual-report",
+            "votes": {
+                "1": 4,
+                "3": 3,
+                "4": 7,
+                "5": 119
+            },
+            "type": "email"
+        },
+        {
+            "id": 1672,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Passenger Review",
+            "slug": "passenger-review",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 13,
+                "5": 67
+            },
+            "type": "email"
+        },
+        {
+            "id": 1669,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "User Review",
+            "slug": "user-review",
+            "votes": {
+                "1": 3,
+                "3": 7,
+                "4": 29,
+                "5": 125
+            },
+            "type": "email"
+        },
+        {
+            "id": 1668,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Investor Update",
+            "slug": "investor-update",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 14,
+                "5": 85
+            },
+            "type": "email"
+        },
+        {
+            "id": 387,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "Annual Review",
+            "slug": "review-template",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 2,
+                "5": 10
+            },
+            "type": "email"
+        }
+    ]
+}

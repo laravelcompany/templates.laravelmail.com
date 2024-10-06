@@ -1,0 +1,182 @@
+{
+    "category": "Halloween",
+    "templates": [
+        {
+            "id": 2382,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Halloween Travel Discount",
+            "slug": "halloween-travel-discount",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 2381,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Halloween Grand Sale",
+            "slug": "halloween-grand-sale",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2359,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Spooky Halloween",
+            "slug": "spooky-halloween",
+            "votes": {
+                "2": 2,
+                "3": 3,
+                "4": 5,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1624,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Halloween Fair Shop",
+            "slug": "halloween-fair-shop",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 6,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 1628,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Halloween Movie Night",
+            "slug": "halloween-movie-night",
+            "votes": {
+                "4": 4,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1625,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Halloween Scary Discount",
+            "slug": "halloween-scary-discount",
+            "votes": {
+                "1": 2,
+                "2": 3,
+                "3": 5,
+                "4": 13,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 883,
+            "premium": false,
+            "rating": 4.36,
+            "previewUrl": null,
+            "name": "Halloween Celebration Announcement",
+            "slug": "halloween-celebration-announcement",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 879,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Halloween Gadgets Sale",
+            "slug": "halloween-gadgets-sale",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 6,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 825,
+            "premium": false,
+            "rating": 4.29,
+            "previewUrl": null,
+            "name": "Halloween Lights Discount",
+            "slug": "halloween-lights-discount",
+            "votes": {
+                "1": 1,
+                "3": 6,
+                "4": 1,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 880,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Halloween Special Jewellery Collection",
+            "slug": "halloween-special-jewellery-collection",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 882,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Halloween Bouquet Sale",
+            "slug": "halloween-bouquet-sale",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 4,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1631,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Sweet or Sour",
+            "slug": "sweet-or-sour",
+            "votes": {
+                "4": 1
+            },
+            "type": "email"
+        }
+    ]
+}

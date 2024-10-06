@@ -1,0 +1,81 @@
+{
+    "category": "Software and Technology",
+    "templates": [
+        {
+            "id": 2759,
+            "premium": false,
+            "rating": 4.22,
+            "previewUrl": null,
+            "name": "AI and Machine Learning Trends",
+            "slug": "ai-and-machine-learning-trends",
+            "votes": {
+                "1": 4,
+                "3": 3,
+                "4": 10,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2725,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Tech Gadgets Showcase",
+            "slug": "tech-gadgets-showcase",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 1660,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Software Product Launch",
+            "slug": "software-product-launch",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 8,
+                "4": 10,
+                "5": 90
+            },
+            "type": "email"
+        },
+        {
+            "id": 1279,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Subscription software re-engagement",
+            "slug": "subscription-software-re-engagement",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 25,
+                "5": 153
+            },
+            "type": "email"
+        },
+        {
+            "id": 624,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "New Software Release",
+            "slug": "new-software-release",
+            "votes": {
+                "3": 3,
+                "4": 18,
+                "5": 64
+            },
+            "type": "email"
+        }
+    ]
+}

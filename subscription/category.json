@@ -1,0 +1,126 @@
+{
+    "category": "Subscription",
+    "templates": [
+        {
+            "id": 2473,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Membership Discount",
+            "slug": "membership-discount",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 5,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 2348,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Special Trial Offer",
+            "slug": "special-trial-offer",
+            "votes": {
+                "2": 1,
+                "4": 10,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2206,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Volunteer Newsletter Subscription Email",
+            "slug": "volunteer-newsletter-subscription-email",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 7,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2070,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Mid-Year Check-In",
+            "slug": "mid-year-check-in",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2001,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Subscription is Expiring Soon",
+            "slug": "subscription-is-expiring-soon",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1701,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Your Subscribers",
+            "slug": "thanksgiving-email-to-your-subscribers",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 7,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 1365,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "News Subscription",
+            "slug": "news-subscription",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 17,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 1362,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Newsletter Subscription",
+            "slug": "newsletter-subscription",
+            "votes": {
+                "2": 1,
+                "3": 3,
+                "4": 7,
+                "5": 66
+            },
+            "type": "email"
+        }
+    ]
+}

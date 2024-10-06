@@ -1,0 +1,119 @@
+{
+    "category": "Veterans Day",
+    "templates": [
+        {
+            "id": 2397,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Employee Appreciation",
+            "slug": "employee-appreciation",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "5": 3
+            },
+            "type": "email"
+        },
+        {
+            "id": 2393,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Gratitude and Appreciation",
+            "slug": "gratitude-and-appreciation",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 6,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 2392,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Donation Request",
+            "slug": "donation-request",
+            "votes": {
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 1682,
+            "premium": false,
+            "rating": 4.1,
+            "previewUrl": null,
+            "name": "Honoring Our Veterans",
+            "slug": "honoring-our-veterans",
+            "votes": {
+                "1": 2,
+                "2": 3,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1678,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Happy Veterans Day ",
+            "slug": "happy-veterans-day",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 1677,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Donation for Veterans",
+            "slug": "donation-for-veterans",
+            "votes": {
+                "1": 1,
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 889,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Veterans Day Remembering Heroes",
+            "slug": "veterans-day-remembering-heroes",
+            "votes": {
+                "3": 4,
+                "4": 6,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 866,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Veterans Day Gadgets Sale",
+            "slug": "veterans-day-gadgets-sale",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 1,
+                "5": 14
+            },
+            "type": "email"
+        }
+    ]
+}

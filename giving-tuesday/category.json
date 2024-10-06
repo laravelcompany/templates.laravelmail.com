@@ -1,0 +1,79 @@
+{
+    "category": "Giving Tuesday",
+    "templates": [
+        {
+            "id": 2418,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Giving Tuesday Stories",
+            "slug": "giving-tuesday-stories",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 2411,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Food Donation",
+            "slug": "food-donation",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 2,
+                "4": 9,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 1633,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "Giving Tuesday Sale",
+            "slug": "giving-tuesday-sale",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 1,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 1606,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Clothing Donation",
+            "slug": "clothing-donation",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 3,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1605,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Donate With Us",
+            "slug": "donate-with-us",
+            "votes": {
+                "1": 1,
+                "4": 2,
+                "5": 23
+            },
+            "type": "email"
+        }
+    ]
+}

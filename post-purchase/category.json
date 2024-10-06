@@ -1,0 +1,114 @@
+{
+    "category": "Post Purchase",
+    "templates": [
+        {
+            "id": 2373,
+            "premium": false,
+            "rating": 4.95,
+            "previewUrl": null,
+            "name": "Product Usage Tips",
+            "slug": "product-usage-tips",
+            "votes": {
+                "4": 2,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 2327,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Product Focused",
+            "slug": "product-focused",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2303,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Curated Picks",
+            "slug": "curated-picks",
+            "votes": {
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2269,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Recommended for You",
+            "slug": "recommended-for-you",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 1,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 2262,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Purchase Confirmation",
+            "slug": "purchase-confirmation",
+            "votes": {
+                "3": 1,
+                "4": 6,
+                "5": 47
+            },
+            "type": "email"
+        },
+        {
+            "id": 2257,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Next Purchase Incentives",
+            "slug": "next-purchase-incentives",
+            "votes": {
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 520,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Post Webinar",
+            "slug": "post-webinar",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 9,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 369,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "New Blog Post",
+            "slug": "new-blog-post",
+            "votes": {
+                "4": 4,
+                "5": 10
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "category": "eBooks",
+    "templates": [
+        {
+            "id": 2416,
+            "premium": false,
+            "rating": 4.24,
+            "previewUrl": null,
+            "name": "Black Friday Books Sale",
+            "slug": "black-friday-books-sale",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2126,
+            "premium": false,
+            "rating": null,
+            "previewUrl": null,
+            "name": "Kindergarten Books",
+            "slug": "kindergarten-books",
+            "votes": [],
+            "type": "email"
+        },
+        {
+            "id": 1685,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Book Lovers",
+            "slug": "book-lovers",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 2,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 1608,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Email Marketing Fundamentals",
+            "slug": "email-marketing-fundamentals",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 9,
+                "5": 43
+            },
+            "type": "email"
+        },
+        {
+            "id": 1596,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Entrepreneur\u2019s Guide",
+            "slug": "entrepreneurs-guide",
+            "votes": {
+                "3": 1,
+                "4": 6,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1594,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Biggest Mistake",
+            "slug": "biggest-mistake",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 1592,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Best Practices ",
+            "slug": "best-practices",
+            "votes": {
+                "2": 1,
+                "4": 3,
+                "5": 6
+            },
+            "type": "email"
+        }
+    ]
+}

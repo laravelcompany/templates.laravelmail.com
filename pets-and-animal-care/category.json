@@ -1,0 +1,90 @@
+{
+    "category": "Pets and Animal Care",
+    "templates": [
+        {
+            "id": 2720,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Pet-Friendly Accommodations",
+            "slug": "pet-friendly-accommodations",
+            "votes": {
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 881,
+            "premium": false,
+            "rating": 4.29,
+            "previewUrl": null,
+            "name": "Halloween Pets Treat Discount",
+            "slug": "halloween-pets-treat-discount",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1509,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Love and Care",
+            "slug": "love-and-care",
+            "votes": {
+                "4": 4,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1508,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "National Pet Day",
+            "slug": "national-pet-day",
+            "votes": {
+                "1": 3,
+                "3": 4,
+                "4": 11,
+                "5": 53
+            },
+            "type": "email"
+        },
+        {
+            "id": 1486,
+            "premium": false,
+            "rating": 4.31,
+            "previewUrl": null,
+            "name": "Pet Insurance",
+            "slug": "pet-insurance",
+            "votes": {
+                "1": 5,
+                "3": 7,
+                "4": 7,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 82,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Apology Email",
+            "slug": "apology-email",
+            "votes": {
+                "2": 1,
+                "4": 4,
+                "5": 27
+            },
+            "type": "email"
+        }
+    ]
+}

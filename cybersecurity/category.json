@@ -1,0 +1,51 @@
+{
+    "category": "Cybersecurity",
+    "templates": [
+        {
+            "id": 1479,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Newsletter for Cybersecurity",
+            "slug": "newsletter-for-cybersecurity",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 4,
+                "4": 6,
+                "5": 84
+            },
+            "type": "email"
+        },
+        {
+            "id": 1477,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Password Tips",
+            "slug": "password-tips",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1429,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Cybersecurity Awareness",
+            "slug": "cybersecurity-awareness",
+            "votes": {
+                "3": 4,
+                "4": 7,
+                "5": 33
+            },
+            "type": "email"
+        }
+    ]
+}

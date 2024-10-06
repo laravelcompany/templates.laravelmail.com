@@ -1,0 +1,18 @@
+{
+    "category": "Retargeting",
+    "templates": [
+        {
+            "id": 2320,
+            "premium": false,
+            "rating": 4.91,
+            "previewUrl": null,
+            "name": "Promo Email",
+            "slug": "promo-email",
+            "votes": {
+                "4": 2,
+                "5": 20
+            },
+            "type": "email"
+        }
+    ]
+}

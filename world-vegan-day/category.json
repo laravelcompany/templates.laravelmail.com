@@ -1,0 +1,50 @@
+{
+    "category": "World Vegan Day",
+    "templates": [
+        {
+            "id": 2396,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Vegan Recipes",
+            "slug": "vegan-recipes",
+            "votes": {
+                "2": 1,
+                "4": 4,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2391,
+            "premium": false,
+            "rating": 4.35,
+            "previewUrl": null,
+            "name": " Vegan Wardrobe",
+            "slug": "vegan-wardrobe",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 10,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2389,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Plant-Based Diet",
+            "slug": "plant-based-diet",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 6,
+                "5": 34
+            },
+            "type": "email"
+        }
+    ]
+}

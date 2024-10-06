@@ -1,0 +1,55 @@
+{
+    "category": "World Cancer Day",
+    "templates": [
+        {
+            "id": 2797,
+            "premium": false,
+            "rating": null,
+            "previewUrl": null,
+            "name": "Join us this October",
+            "slug": "join-us-this-october",
+            "votes": [],
+            "type": "email"
+        },
+        {
+            "id": 952,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Support Cancer Research",
+            "slug": "support-cancer-research",
+            "votes": {
+                "4": 2,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 949,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Fundraising Drive For Cancer Day",
+            "slug": "fundraising-drive-for-cancer-day",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 943,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Donate for Cancer",
+            "slug": "donate-for-cancer",
+            "votes": {
+                "4": 3,
+                "5": 13
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "category": "Product Update",
+    "templates": [
+        {
+            "id": 2708,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Product Updates and New Features",
+            "slug": "product-updates-and-new-features",
+            "votes": {
+                "3": 4,
+                "4": 6,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2628,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Bug Fixes",
+            "slug": "bug-fixes",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2453,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Product Update and New Feature",
+            "slug": "product-update-and-new-feature",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2325,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Personal Shopping Guide",
+            "slug": "personal-shopping-guide",
+            "votes": {
+                "4": 3,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2303,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Curated Picks",
+            "slug": "curated-picks",
+            "votes": {
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1753,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "New Sticker Collection",
+            "slug": "new-sticker-collection",
+            "votes": {
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1751,
+            "premium": false,
+            "rating": 4.27,
+            "previewUrl": null,
+            "name": "Trial Opportunity",
+            "slug": "trial-opportunity",
+            "votes": {
+                "1": 3,
+                "3": 7,
+                "4": 7,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1750,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "New Features",
+            "slug": "new-features",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 2,
+                "5": 67
+            },
+            "type": "email"
+        },
+        {
+            "id": 1660,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Software Product Launch",
+            "slug": "software-product-launch",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 8,
+                "4": 10,
+                "5": 90
+            },
+            "type": "email"
+        },
+        {
+            "id": 1373,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Beauty Products Back in Stock",
+            "slug": "beauty-products-back-in-stock",
+            "votes": {
+                "1": 5,
+                "2": 3,
+                "3": 4,
+                "4": 11,
+                "5": 61
+            },
+            "type": "email"
+        },
+        {
+            "id": 1276,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Music Production Services Discount",
+            "slug": "music-production-services-discount",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 9,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1159,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Product Delivery Update",
+            "slug": "product-delivery-update",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 19,
+                "5": 76
+            },
+            "type": "email"
+        }
+    ]
+}

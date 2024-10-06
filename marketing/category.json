@@ -1,0 +1,2211 @@
+{
+    "category": "Marketing",
+    "templates": [
+        {
+            "id": 2788,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Labor Day Parade",
+            "slug": "labor-day-parade",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 9,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2786,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Labor Day Invitation",
+            "slug": "labor-day-invitation",
+            "votes": {
+                "2": 1,
+                "4": 3,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2783,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Labour Day",
+            "slug": "labour-day",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 5,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2773,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Back to School Party",
+            "slug": "back-to-school-party",
+            "votes": {
+                "4": 1,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 2772,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Customer Engagement Email",
+            "slug": "customer-engagement-email",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 5,
+                "5": 52
+            },
+            "type": "email"
+        },
+        {
+            "id": 2771,
+            "premium": false,
+            "rating": 4.17,
+            "previewUrl": null,
+            "name": "Podcast Outreach",
+            "slug": "podcast-outreach",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 4,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2769,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "PR Outreach Email",
+            "slug": "pr-outreach-email",
+            "votes": {
+                "4": 4,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 2767,
+            "premium": false,
+            "rating": 4.35,
+            "previewUrl": null,
+            "name": "Guest Post Outreach",
+            "slug": "guest-post-outreach",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 5,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2766,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Warm Lead Email",
+            "slug": "warm-lead-email",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 12,
+                "5": 45
+            },
+            "type": "email"
+        },
+        {
+            "id": 2722,
+            "premium": false,
+            "rating": 4.29,
+            "previewUrl": null,
+            "name": "Patient Education Webinars",
+            "slug": "patient-education-webinars",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 6,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2719,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Wellness Workshop Registration",
+            "slug": "wellness-workshop-registration",
+            "votes": {
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2714,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Event Venue Specials",
+            "slug": "event-venue-specials",
+            "votes": {
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 2689,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Memorial Day Weekend",
+            "slug": "memorial-day-weekend",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 2,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2641,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Webinar for Email Marketing",
+            "slug": "webinar-for-email-marketing",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 1,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2629,
+            "premium": false,
+            "rating": 4.31,
+            "previewUrl": null,
+            "name": "Vacation Packages",
+            "slug": "vacation-packages",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 4,
+                "4": 12,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 2619,
+            "premium": false,
+            "rating": 4.26,
+            "previewUrl": null,
+            "name": "Easter Getaways",
+            "slug": "easter-getaways",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 4,
+                "4": 10,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 2618,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Easter Gift Ideas",
+            "slug": "easter-gift-ideas",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 9,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2610,
+            "premium": false,
+            "rating": 4.92,
+            "previewUrl": null,
+            "name": "Eco-friendly Holi",
+            "slug": "eco-friendly-holi",
+            "votes": {
+                "4": 2,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2604,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Flash Sales",
+            "slug": "flash-sales",
+            "votes": {
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2597,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Green-themed Deals",
+            "slug": "green-themed-deals",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2594,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Women's Achievements",
+            "slug": "womens-achievements",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2581,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Storytelling with Infographics",
+            "slug": "storytelling-with-infographics",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 9,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 2579,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Presidential Flash Sale",
+            "slug": "presidential-flash-sale",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 4,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2576,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Celebrate Presidents' Day",
+            "slug": "celebrate-presidents-day",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2539,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Love- Struck Savings",
+            "slug": "love-struck-savings",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2530,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Game Day special",
+            "slug": "game-day-special",
+            "votes": {
+                "3": 2,
+                "4": 5,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2528,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Valentine's Countdown",
+            "slug": "valentines-countdown",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 4,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 2524,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Product Introduction",
+            "slug": "product-introduction",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 5,
+                "4": 10,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 2521,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Networking Introduction Email",
+            "slug": "networking-introduction-email",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 2517,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Recap of the Year",
+            "slug": "recap-of-the-year",
+            "votes": {
+                "1": 1,
+                "5": 3
+            },
+            "type": "email"
+        },
+        {
+            "id": 2516,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Conference Introduction Email",
+            "slug": "conference-introduction-email",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 2501,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Secret Envelop",
+            "slug": "secrete-envelop",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 6,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 2495,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Equality Discounts",
+            "slug": "equality-discounts",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2490,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "New Year Recipe",
+            "slug": "new-year-recipe",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 7,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 2486,
+            "premium": false,
+            "rating": 4.16,
+            "previewUrl": null,
+            "name": "New Year Celebration",
+            "slug": "new-year-celebration",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 4,
+                "4": 9,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 2481,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Ring in The Savings",
+            "slug": "ring-in-the-savings",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 3,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 2474,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Holiday Cheer",
+            "slug": "holiday-cheer",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 2473,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Membership Discount",
+            "slug": "membership-discount",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 5,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 2468,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "Winter Tale",
+            "slug": "winter-tale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 7,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2459,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Webinar Confirmation Reminder",
+            "slug": "webinar-confirmation-reminder",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 5,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 2407,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Black Friday Webinar",
+            "slug": "black-friday-webinar",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 6,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2403,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Thanksgiving Giveaway",
+            "slug": "thanksgiving-giveaway",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2399,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Thanksgiving Food",
+            "slug": "thanksgiving-food",
+            "votes": {
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2396,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Vegan Recipes",
+            "slug": "vegan-recipes",
+            "votes": {
+                "2": 1,
+                "4": 4,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2387,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Halloween Deals",
+            "slug": "halloween-deals",
+            "votes": {
+                "4": 1,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2381,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Halloween Grand Sale",
+            "slug": "halloween-grand-sale",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2378,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Stay Tuned",
+            "slug": "stay-tuned",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 2,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2355,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "New Collection Launch",
+            "slug": "new-collection-launch",
+            "votes": {
+                "3": 4,
+                "4": 9,
+                "5": 42
+            },
+            "type": "email"
+        },
+        {
+            "id": 2352,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Sneak Peek Unlocked",
+            "slug": "sneak-peek-unlocked",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2348,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Special Trial Offer",
+            "slug": "special-trial-offer",
+            "votes": {
+                "2": 1,
+                "4": 10,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2344,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Happy Hour",
+            "slug": "happy-hour",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2342,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Special Occasion",
+            "slug": "special-occasion",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2335,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Easter Sneak Peek",
+            "slug": "easter-sneak-peek",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2329,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Praise and Recognition",
+            "slug": "praise-and-recognition",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2327,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Product Focused",
+            "slug": "product-focused",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2325,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Personal Shopping Guide",
+            "slug": "personal-shopping-guide",
+            "votes": {
+                "4": 3,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2320,
+            "premium": false,
+            "rating": 4.91,
+            "previewUrl": null,
+            "name": "Promo Email",
+            "slug": "promo-email",
+            "votes": {
+                "4": 2,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2319,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Discount Retention",
+            "slug": "discount-retention",
+            "votes": {
+                "4": 7,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2311,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Testimonial Showcase",
+            "slug": "testimonial-showcase",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2309,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Voices of Customers",
+            "slug": "voices-of-customers",
+            "votes": {
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2307,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Free Trial Onboarding",
+            "slug": "free-trial-onboarding",
+            "votes": {
+                "3": 2,
+                "4": 11,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 2259,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Labor Day Long Awaited Rest",
+            "slug": "labor-day-long-awaited-rest",
+            "votes": {
+                "4": 5,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2258,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Travel Announcement",
+            "slug": "travel-announcement",
+            "votes": {
+                "3": 2,
+                "4": 6,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2257,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Next Purchase Incentives",
+            "slug": "next-purchase-incentives",
+            "votes": {
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2254,
+            "premium": false,
+            "rating": 3.94,
+            "previewUrl": null,
+            "name": "Labor Day Decoration Ideas",
+            "slug": "labor-day-decoration-ideas",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 4,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2246,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Labor Day Comfortable Trips",
+            "slug": "labor-day-comfortable-trips",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 2243,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Opening Soon",
+            "slug": "opening-soon",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 6,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 2239,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Labor Day Greetings",
+            "slug": "labor-day-greetings",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 2236,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Labor Day Email to Employees",
+            "slug": "labor-day-email-to-employees",
+            "votes": {
+                "1": 6,
+                "2": 1,
+                "3": 9,
+                "4": 10,
+                "5": 94
+            },
+            "type": "email"
+        },
+        {
+            "id": 2235,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Quiz Retake Invitation",
+            "slug": "quiz-retake-invitation",
+            "votes": {
+                "1": 5,
+                "3": 8,
+                "4": 19,
+                "5": 94
+            },
+            "type": "email"
+        },
+        {
+            "id": 2231,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Tech Trivia Quiz",
+            "slug": "tech-trivia-quiz",
+            "votes": {
+                "2": 1,
+                "4": 1,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2228,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Email Marketing Quiz",
+            "slug": "email-marketing-quiz",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2225,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Social Media Quiz",
+            "slug": "social-media-quiz",
+            "votes": {
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2222,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Digital Marketing Quiz",
+            "slug": "digital-marketing-quiz",
+            "votes": {
+                "2": 2,
+                "3": 1,
+                "4": 4,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2218,
+            "premium": false,
+            "rating": 4.25,
+            "previewUrl": null,
+            "name": "Labor Day for Workers",
+            "slug": "labor-day-for-workers",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2213,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Quality Training Announcement",
+            "slug": "quality-training-announcement",
+            "votes": {
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2193,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Alumni Survey",
+            "slug": "alumni-survey",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 4,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2191,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Mentorship Program Invitation",
+            "slug": "mentorship-program-invitation",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 10,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 2183,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Pitch your Services",
+            "slug": "pitch-your-services",
+            "votes": {
+                "3": 2,
+                "4": 7,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 2178,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Infographic Promotion Email",
+            "slug": "infographic-promotion-email",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 2174,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Link Building Collaboration ",
+            "slug": "link-building-collaboration",
+            "votes": {
+                "4": 3,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2171,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Barbie The Movie Toys",
+            "slug": "barbie-the-movie-toys",
+            "votes": {
+                "1": 1,
+                "4": 2,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 2168,
+            "premium": false,
+            "rating": 4.44,
+            "previewUrl": null,
+            "name": "Public Relation Outreach",
+            "slug": "public-relation-outreach",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 2164,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Influencer Outreach",
+            "slug": "influencer-outreach",
+            "votes": {
+                "1": 1,
+                "4": 8,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 2147,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Change Request Email",
+            "slug": "change-request-email",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "5": 39
+            },
+            "type": "email"
+        },
+        {
+            "id": 2146,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Relationship Consultation",
+            "slug": "relationship-consultation",
+            "votes": {
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2137,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "Career Consultation",
+            "slug": "career-consultation",
+            "votes": {
+                "1": 2,
+                "4": 7,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2128,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Gear Back",
+            "slug": "gear-back",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2121,
+            "premium": false,
+            "rating": 4.25,
+            "previewUrl": null,
+            "name": "Back to School Gifts",
+            "slug": "back-to-school-gifts",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 6,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2062,
+            "premium": false,
+            "rating": 4.93,
+            "previewUrl": null,
+            "name": "National Pet Week",
+            "slug": "national-pet-week",
+            "votes": {
+                "4": 1,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2060,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "How to Start",
+            "slug": "how-to-start",
+            "votes": {
+                "4": 4,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2056,
+            "premium": false,
+            "rating": 4.92,
+            "previewUrl": null,
+            "name": "Typography Tutorial",
+            "slug": "typography-tutorial",
+            "votes": {
+                "4": 1,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 1997,
+            "premium": false,
+            "rating": 4.36,
+            "previewUrl": null,
+            "name": "Client Feedback",
+            "slug": "client-feedback",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 6,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1990,
+            "premium": false,
+            "rating": 4.51,
+            "previewUrl": null,
+            "name": "Mother's Day Discounts",
+            "slug": "mothers-day-discounts",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 4,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 1944,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Satisfaction Guarantees",
+            "slug": "satisfaction-guarantees",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 21,
+                "5": 80
+            },
+            "type": "email"
+        },
+        {
+            "id": 1940,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Social Media Mentions",
+            "slug": "social-media-mentions",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1937,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Customer Support",
+            "slug": "customer-support",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 10,
+                "5": 85
+            },
+            "type": "email"
+        },
+        {
+            "id": 1928,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Easter Home Decor",
+            "slug": "easter-home-decor",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 2,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 1920,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Thought Leadership",
+            "slug": "thought-leadership",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 2,
+                "4": 12,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 1918,
+            "premium": false,
+            "rating": 4.51,
+            "previewUrl": null,
+            "name": "Customer Success Stories",
+            "slug": "customer-success-stories",
+            "votes": {
+                "1": 3,
+                "3": 6,
+                "4": 11,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 1911,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Our New Updates",
+            "slug": "our-new-updates",
+            "votes": {
+                "1": 7,
+                "2": 2,
+                "3": 4,
+                "4": 24,
+                "5": 109
+            },
+            "type": "email"
+        },
+        {
+            "id": 1910,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "B2B Marketing",
+            "slug": "b2b-marketing",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 4,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 1889,
+            "premium": false,
+            "rating": 4.36,
+            "previewUrl": null,
+            "name": "Women's Day Sale",
+            "slug": "womens-day-sale",
+            "votes": {
+                "1": 6,
+                "2": 2,
+                "3": 2,
+                "4": 13,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 1848,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Birthday Special Surprise",
+            "slug": "birthday-special-surprise",
+            "votes": {
+                "1": 4,
+                "2": 3,
+                "3": 4,
+                "4": 13,
+                "5": 56
+            },
+            "type": "email"
+        },
+        {
+            "id": 1783,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Year of the Rabbit",
+            "slug": "year-of-the-rabbit",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 1774,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Building Maintenance",
+            "slug": "building-maintenance",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 6,
+                "4": 11,
+                "5": 120
+            },
+            "type": "email"
+        },
+        {
+            "id": 1753,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "New Sticker Collection",
+            "slug": "new-sticker-collection",
+            "votes": {
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1741,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Happy New Year Email to Customer",
+            "slug": "happy-new-year-email-to-customer",
+            "votes": {
+                "1": 6,
+                "2": 2,
+                "3": 2,
+                "4": 18,
+                "5": 85
+            },
+            "type": "email"
+        },
+        {
+            "id": 1737,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Final Hours Boxing Day",
+            "slug": "final-hours-boxing-day",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 3,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1731,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Boxing Day Extended",
+            "slug": "boxing-day-extended",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1726,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Hanukkah Promotion Discounts",
+            "slug": "hanukkah-promotion-discounts",
+            "votes": {
+                "4": 1,
+                "5": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 1704,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Happy Thanksgiving",
+            "slug": "happy-thanksgiving",
+            "votes": {
+                "1": 3,
+                "3": 2,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1685,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Book Lovers",
+            "slug": "book-lovers",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 2,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 1682,
+            "premium": false,
+            "rating": 4.1,
+            "previewUrl": null,
+            "name": "Honoring Our Veterans",
+            "slug": "honoring-our-veterans",
+            "votes": {
+                "1": 2,
+                "2": 3,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1664,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Hunt for Discount",
+            "slug": "hunt-for-discount",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 8,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1641,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "B2B Newsletter",
+            "slug": "b2b-newsletter",
+            "votes": {
+                "3": 5,
+                "4": 18,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 1639,
+            "premium": false,
+            "rating": 4.34,
+            "previewUrl": null,
+            "name": "Happy Diwali",
+            "slug": "happy-diwali",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "3": 2,
+                "4": 17,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 1632,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Business Outreach",
+            "slug": "business-outreach",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 2,
+                "4": 12,
+                "5": 76
+            },
+            "type": "email"
+        },
+        {
+            "id": 1613,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Black and White Short Survey Invitation",
+            "slug": "black-and-white-short-survey-invitation",
+            "votes": {
+                "1": 2,
+                "3": 5,
+                "4": 16,
+                "5": 55
+            },
+            "type": "email"
+        },
+        {
+            "id": 1608,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Email Marketing Fundamentals",
+            "slug": "email-marketing-fundamentals",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 9,
+                "5": 43
+            },
+            "type": "email"
+        },
+        {
+            "id": 1596,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Entrepreneur\u2019s Guide",
+            "slug": "entrepreneurs-guide",
+            "votes": {
+                "3": 1,
+                "4": 6,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1594,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Biggest Mistake",
+            "slug": "biggest-mistake",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 1591,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Winter Gift Card",
+            "slug": "winter-gift-card",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1585,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Referral Gift Card",
+            "slug": "referral-gift-card",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 14,
+                "5": 82
+            },
+            "type": "email"
+        },
+        {
+            "id": 1582,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Holiday Gift Card",
+            "slug": "holiday-gift-card",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1579,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Mother's Day Gift Card",
+            "slug": "mothers-day-gift-card",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1565,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "50 Test Points",
+            "slug": "50-test-points",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 7,
+                "4": 24,
+                "5": 129
+            },
+            "type": "email"
+        },
+        {
+            "id": 1563,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Gift for You",
+            "slug": "gift-for-you",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 4,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1562,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Free Shipping Discount",
+            "slug": "free-shipping-discount",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 2,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 1559,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Customer Review",
+            "slug": "customer-review",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 8,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 1458,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Thank You For Your Purchase",
+            "slug": "thank-you-for-your-purchase",
+            "votes": {
+                "1": 5,
+                "2": 3,
+                "3": 1,
+                "4": 16,
+                "5": 83
+            },
+            "type": "email"
+        },
+        {
+            "id": 1457,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "One Last Email",
+            "slug": "one-last-email",
+            "votes": {
+                "3": 7,
+                "4": 15,
+                "5": 93
+            },
+            "type": "email"
+        },
+        {
+            "id": 1456,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Sales Follow Up ",
+            "slug": "sales-follow-up",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 4,
+                "4": 21,
+                "5": 84
+            },
+            "type": "email"
+        },
+        {
+            "id": 1455,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Trigger Event",
+            "slug": "trigger-event",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 9,
+                "5": 85
+            },
+            "type": "email"
+        },
+        {
+            "id": 1452,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Sales Introduction",
+            "slug": "sales-introduction",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 3,
+                "4": 12,
+                "5": 106
+            },
+            "type": "email"
+        },
+        {
+            "id": 1450,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Permission Email Template",
+            "slug": "permission-email-template",
+            "votes": {
+                "1": 3,
+                "3": 8,
+                "4": 12,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 1449,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Order Confirmation",
+            "slug": "order-confirmation",
+            "votes": {
+                "1": 18,
+                "2": 4,
+                "3": 22,
+                "4": 50,
+                "5": 321
+            },
+            "type": "email"
+        },
+        {
+            "id": 1364,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Marketing Agency Invoice",
+            "slug": "marketing-agency-invoice",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 10,
+                "5": 57
+            },
+            "type": "email"
+        },
+        {
+            "id": 1151,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Online Event Promotion",
+            "slug": "online-event-promotion",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 826,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Customers Feedback Request",
+            "slug": "customers-feedback-request",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 16,
+                "5": 82
+            },
+            "type": "email"
+        },
+        {
+            "id": 615,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Prize Winner Announcement",
+            "slug": "prize-winner-announcement",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 10,
+                "4": 34,
+                "5": 218
+            },
+            "type": "email"
+        },
+        {
+            "id": 544,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Marketing Agency",
+            "slug": "marketing-agency",
+            "votes": {
+                "1": 7,
+                "2": 3,
+                "3": 4,
+                "4": 26,
+                "5": 120
+            },
+            "type": "email"
+        },
+        {
+            "id": 387,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "Annual Review",
+            "slug": "review-template",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 2,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 245,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Happy Birthday",
+            "slug": "happy-birthday",
+            "votes": {
+                "1": 7,
+                "2": 2,
+                "3": 5,
+                "4": 24,
+                "5": 122
+            },
+            "type": "email"
+        },
+        {
+            "id": 208,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Our List",
+            "slug": "our-list",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 15,
+                "5": 76
+            },
+            "type": "email"
+        },
+        {
+            "id": 204,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Industry Conference",
+            "slug": "industry-conference",
+            "votes": {
+                "3": 2,
+                "4": 5,
+                "5": 42
+            },
+            "type": "email"
+        },
+        {
+            "id": 188,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "New Year Sale",
+            "slug": "new-year-sale",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 8,
+                "5": 47
+            },
+            "type": "email"
+        },
+        {
+            "id": 1,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Branding",
+            "slug": "branding-company-promotional",
+            "votes": {
+                "1": 5,
+                "2": 2,
+                "3": 6,
+                "4": 24,
+                "5": 192
+            },
+            "type": "email"
+        },
+        {
+            "id": 9,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Google Review",
+            "slug": "google-review",
+            "votes": {
+                "1": 10,
+                "2": 6,
+                "3": 18,
+                "4": 83,
+                "5": 596
+            },
+            "type": "email"
+        },
+        {
+            "id": 24,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Cold Email Subscription",
+            "slug": "cold-email-subscription",
+            "votes": {
+                "1": 8,
+                "2": 4,
+                "3": 6,
+                "4": 27,
+                "5": 175
+            },
+            "type": "email"
+        }
+    ]
+}

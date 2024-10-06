@@ -1,0 +1,33 @@
+{
+    "category": "Resume",
+    "templates": [
+        {
+            "id": 2033,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Resume for Photographer",
+            "slug": "resume-for-photographer",
+            "votes": {
+                "1": 2,
+                "4": 1,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 2029,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Resume for HR",
+            "slug": "resume-for-hr",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 16
+            },
+            "type": "email"
+        }
+    ]
+}

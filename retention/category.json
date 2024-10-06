@@ -1,0 +1,124 @@
+{
+    "category": "Retention",
+    "templates": [
+        {
+            "id": 2380,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Customer Retention",
+            "slug": "customer-retention",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 57
+            },
+            "type": "email"
+        },
+        {
+            "id": 2370,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Weekly Update",
+            "slug": "weekly-update",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 4,
+                "4": 19,
+                "5": 147
+            },
+            "type": "email"
+        },
+        {
+            "id": 2369,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Retention Offer",
+            "slug": "retention-offer",
+            "votes": {
+                "3": 1,
+                "4": 9,
+                "5": 58
+            },
+            "type": "email"
+        },
+        {
+            "id": 2368,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Student Retention",
+            "slug": "student-retention",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 9,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2366,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Motivation Retention",
+            "slug": "motivation-retention",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 65
+            },
+            "type": "email"
+        },
+        {
+            "id": 2344,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Happy Hour",
+            "slug": "happy-hour",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2342,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Special Occasion",
+            "slug": "special-occasion",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2319,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Discount Retention",
+            "slug": "discount-retention",
+            "votes": {
+                "4": 7,
+                "5": 29
+            },
+            "type": "email"
+        }
+    ]
+}

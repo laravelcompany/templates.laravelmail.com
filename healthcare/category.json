@@ -1,0 +1,516 @@
+{
+    "category": "Healthcare",
+    "templates": [
+        {
+            "id": 2797,
+            "premium": false,
+            "rating": null,
+            "previewUrl": null,
+            "name": "Join us this October",
+            "slug": "join-us-this-october",
+            "votes": [],
+            "type": "email"
+        },
+        {
+            "id": 2763,
+            "premium": false,
+            "rating": 4.24,
+            "previewUrl": null,
+            "name": "Community Health Events Calendar",
+            "slug": "community-health-events-calendar",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2722,
+            "premium": false,
+            "rating": 4.29,
+            "previewUrl": null,
+            "name": "Patient Education Webinars",
+            "slug": "patient-education-webinars",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 6,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2719,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Wellness Workshop Registration",
+            "slug": "wellness-workshop-registration",
+            "votes": {
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2717,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Appointment Reminders and Follow-ups",
+            "slug": "appointment-reminders-and-follow-ups",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 8,
+                "5": 50
+            },
+            "type": "email"
+        },
+        {
+            "id": 2406,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Cyber Monday Gym Discount",
+            "slug": "cyber-monday-gym-discount",
+            "votes": {
+                "4": 3,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2383,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Screening and Early Detection Reminders",
+            "slug": "screening-and-early-detection-reminders",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2364,
+            "premium": false,
+            "rating": 4.49,
+            "previewUrl": null,
+            "name": "Breast Health Resources",
+            "slug": "breast-health-resources",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2010,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Mental Health Services",
+            "slug": "mental-health-services",
+            "votes": {
+                "4": 10,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 1847,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Meditation Day Acupuncture Promotion",
+            "slug": "meditation-day-acupuncture-promotion",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 5,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1663,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Tasty Discount",
+            "slug": "tasty-discount",
+            "votes": {
+                "4": 3,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 1484,
+            "premium": false,
+            "rating": 4.13,
+            "previewUrl": null,
+            "name": "Dental Checkup Discount Card",
+            "slug": "dental-checkup-discount-card",
+            "votes": {
+                "1": 3,
+                "3": 4,
+                "4": 6,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1482,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Dental Treatment Reminder",
+            "slug": "dental-treatment-reminder",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 3,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1480,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "Dental Implants Discount ",
+            "slug": "dental-implants-discount",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "4": 3,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 1465,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Diabetes Awareness ",
+            "slug": "diabetes-awareness",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 1432,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "SPA Reservation",
+            "slug": "spa-reservation",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 5,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1387,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Customer Anniversary",
+            "slug": "client-anniversary",
+            "votes": {
+                "1": 2,
+                "3": 5,
+                "4": 7,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 1073,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Meditation Day Chiropractor Promotion",
+            "slug": "meditation-day-chiropractor-promotion",
+            "votes": {
+                "3": 2,
+                "4": 11,
+                "5": 52
+            },
+            "type": "email"
+        },
+        {
+            "id": 952,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Support Cancer Research",
+            "slug": "support-cancer-research",
+            "votes": {
+                "4": 2,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 949,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Fundraising Drive For Cancer Day",
+            "slug": "fundraising-drive-for-cancer-day",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 943,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Donate for Cancer",
+            "slug": "donate-for-cancer",
+            "votes": {
+                "4": 3,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 813,
+            "premium": false,
+            "rating": 4.34,
+            "previewUrl": null,
+            "name": "Personal Development Mentor ",
+            "slug": "personal-development-mentor",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 736,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Hospital Medical Care ",
+            "slug": "hospital-medical-care",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 5,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 726,
+            "premium": false,
+            "rating": 3.58,
+            "previewUrl": null,
+            "name": "Natural Products Promotion",
+            "slug": "natural-products-promotion",
+            "votes": {
+                "3": 16,
+                "4": 2,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 703,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Retirement Senior Care",
+            "slug": "retirement-senior-care",
+            "votes": {
+                "4": 2,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 550,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Medical Promotion",
+            "slug": "medical-promotion",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 542,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Personal Trainer",
+            "slug": "personal-trainer",
+            "votes": {
+                "3": 1,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 409,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Body Fitness ",
+            "slug": "body-fitness",
+            "votes": {
+                "4": 5,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 312,
+            "premium": false,
+            "rating": 4.93,
+            "previewUrl": null,
+            "name": "Gymnasium",
+            "slug": "fitness-email",
+            "votes": {
+                "4": 2,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 302,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Exercise",
+            "slug": "exercise",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 283,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Fitness",
+            "slug": "fitness-communication",
+            "votes": {
+                "1": 25,
+                "2": 10,
+                "3": 25,
+                "4": 81,
+                "5": 475
+            },
+            "type": "email"
+        },
+        {
+            "id": 177,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Online Healthcare",
+            "slug": "online-healthcare",
+            "votes": {
+                "1": 11,
+                "2": 3,
+                "3": 11,
+                "4": 30,
+                "5": 136
+            },
+            "type": "email"
+        },
+        {
+            "id": 168,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "House plants",
+            "slug": "house-plants",
+            "votes": {
+                "4": 4,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 135,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Herbal Cosmetics",
+            "slug": "herbal-cosmetics",
+            "votes": {
+                "3": 2,
+                "4": 3,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 34,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Abandoned Cart",
+            "slug": "abandoned-cart",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 15,
+                "5": 55
+            },
+            "type": "email"
+        },
+        {
+            "id": 49,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Medical",
+            "slug": "medical",
+            "votes": {
+                "1": 3,
+                "3": 1,
+                "4": 4,
+                "5": 72
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,383 @@
+{
+    "category": "Sports",
+    "templates": [
+        {
+            "id": 2530,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Game Day special",
+            "slug": "game-day-special",
+            "votes": {
+                "3": 2,
+                "4": 5,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2476,
+            "premium": false,
+            "rating": 4.44,
+            "previewUrl": null,
+            "name": "Membership Reminder",
+            "slug": "membership-reminder",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2455,
+            "premium": false,
+            "rating": 4.05,
+            "previewUrl": null,
+            "name": "Fitness Tips",
+            "slug": "fitness-tips",
+            "votes": {
+                "1": 3,
+                "4": 8,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 2414,
+            "premium": false,
+            "rating": 4.95,
+            "previewUrl": null,
+            "name": "Client Referral",
+            "slug": "client-referral",
+            "votes": {
+                "4": 4,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 2406,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Cyber Monday Gym Discount",
+            "slug": "cyber-monday-gym-discount",
+            "votes": {
+                "4": 3,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2404,
+            "premium": false,
+            "rating": 4.22,
+            "previewUrl": null,
+            "name": "Gravy Training",
+            "slug": "gravy-training",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2352,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Sneak Peek Unlocked",
+            "slug": "sneak-peek-unlocked",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2351,
+            "premium": false,
+            "rating": 4.92,
+            "previewUrl": null,
+            "name": "Sports Event",
+            "slug": "sports-event",
+            "votes": {
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 1797,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Super Bowl Tickets",
+            "slug": "super-bowl-tickets",
+            "votes": {
+                "1": 10,
+                "2": 1,
+                "3": 3,
+                "4": 8,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1793,
+            "premium": false,
+            "rating": 2,
+            "previewUrl": null,
+            "name": "Super Bowl Fun",
+            "slug": "super-bowl-fun",
+            "votes": {
+                "1": 2,
+                "4": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 1720,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "FIFA Player Card",
+            "slug": "FIFA-Player-Card",
+            "votes": {
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1718,
+            "premium": false,
+            "rating": 4.95,
+            "previewUrl": null,
+            "name": "Watch the World Cup With Us",
+            "slug": "watch-the-world-cup-with-us",
+            "votes": {
+                "2": 1,
+                "3": 3,
+                "4": 3,
+                "5": 212
+            },
+            "type": "email"
+        },
+        {
+            "id": 1688,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Men's Day Discounts on Gym",
+            "slug": "mens-day-discounts-on-gym",
+            "votes": {
+                "1": 3,
+                "4": 5,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 1655,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Big Sale",
+            "slug": "big-sale",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 3,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 903,
+            "premium": false,
+            "rating": 4.12,
+            "previewUrl": null,
+            "name": "Super Bowl Football Equipment Sale",
+            "slug": "super-bowl-football-equipment-sale",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 1,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 894,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Super Bowl Sports Goods Discount ",
+            "slug": "super-bowl-sports-goods-discount",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 865,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Boxing Day Gym Membership Discount",
+            "slug": "boxing-day-gym-membership-discount",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 864,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Boxing Day Fitness Costumes sale",
+            "slug": "boxing-day-fitness-costumes-sale",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 4,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 862,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Boxing Equipment On Boxing Day ",
+            "slug": "boxing-equipment-on-boxing-day",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 837,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Easter Egg Hunt Sports",
+            "slug": "easter-egg-hunt-sports",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 7,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 714,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Sports Tournament",
+            "slug": "sports-tournament",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 712,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Sports Equipment Shop",
+            "slug": "sports-equipment-shop",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 709,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Golf Tournament",
+            "slug": "golf-tournament",
+            "votes": {
+                "4": 3,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 463,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Game",
+            "slug": "game",
+            "votes": {
+                "4": 4,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 407,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Sports Equipment",
+            "slug": "sports-equipment",
+            "votes": {
+                "4": 4,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 303,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Game Activation",
+            "slug": "game-activation",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 6,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 44,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Sports Club",
+            "slug": "sports-club",
+            "votes": {
+                "3": 1,
+                "4": 6,
+                "5": 25
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "category": "Internal",
+    "templates": [
+        {
+            "id": 2523,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Progress and Success",
+            "slug": "progress-and-success",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2374,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Team Member Introduction Email",
+            "slug": "team-member-introduction-email",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 10,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 2163,
+            "premium": false,
+            "rating": 4.09,
+            "previewUrl": null,
+            "name": "Stakeholder Communication",
+            "slug": "stakeholder-communication",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 4,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2159,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Request for Project Resources",
+            "slug": "request-for-project-resources",
+            "votes": {
+                "1": 8,
+                "3": 6,
+                "4": 16,
+                "5": 83
+            },
+            "type": "email"
+        },
+        {
+            "id": 2158,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Project Meeting Agenda",
+            "slug": "project-meeting-agenda",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 2156,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Task Assignment",
+            "slug": "task-assignment",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2151,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Project Budget Update Email",
+            "slug": "project-budget-update-email",
+            "votes": {
+                "2": 1,
+                "4": 8,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 1759,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Health and Safety Guidelines",
+            "slug": "health-and-safety-guidelines",
+            "votes": {
+                "1": 2,
+                "2": 4,
+                "3": 1,
+                "4": 17,
+                "5": 69
+            },
+            "type": "email"
+        },
+        {
+            "id": 1756,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "New Employee Announcement",
+            "slug": "new-employee-announcement",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1755,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Pulse Survey",
+            "slug": "pulse-survey",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 7,
+                "4": 47,
+                "5": 200
+            },
+            "type": "email"
+        },
+        {
+            "id": 1747,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Event Announcement",
+            "slug": "event-announcement",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 13,
+                "5": 109
+            },
+            "type": "email"
+        },
+        {
+            "id": 1704,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Happy Thanksgiving",
+            "slug": "happy-thanksgiving",
+            "votes": {
+                "1": 3,
+                "3": 2,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1702,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Employees",
+            "slug": "thanksgiving-email-to-employees",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 8,
+                "4": 6,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1505,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Warning for Not Following Instructions",
+            "slug": "warning-for-not-following-instructions",
+            "votes": {
+                "2": 1,
+                "3": 5,
+                "4": 12,
+                "5": 50
+            },
+            "type": "email"
+        },
+        {
+            "id": 1504,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Warning for Not Wearing Mask ",
+            "slug": "warning-for-not-wearing-mask",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1494,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Warning Email to Employee for Poor Performance",
+            "slug": "warning-email-to-employee-for-poor-performance",
+            "votes": {
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        }
+    ]
+}

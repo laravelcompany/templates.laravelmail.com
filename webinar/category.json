@@ -1,0 +1,155 @@
+{
+    "category": "Webinar",
+    "templates": [
+        {
+            "id": 2641,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Webinar for Email Marketing",
+            "slug": "webinar-for-email-marketing",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 1,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2640,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Limited Spots",
+            "slug": "limited-spots",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 9,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 2634,
+            "premium": false,
+            "rating": 4.06,
+            "previewUrl": null,
+            "name": "Don't Miss Out",
+            "slug": "dont-miss-out",
+            "votes": {
+                "1": 4,
+                "2": 4,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2459,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Webinar Confirmation Reminder",
+            "slug": "webinar-confirmation-reminder",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 5,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 2453,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Product Update and New Feature",
+            "slug": "product-update-and-new-feature",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2407,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Black Friday Webinar",
+            "slug": "black-friday-webinar",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 6,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2356,
+            "premium": false,
+            "rating": 4.27,
+            "previewUrl": null,
+            "name": "Alumni Webinar",
+            "slug": "alumni-webinar",
+            "votes": {
+                "1": 2,
+                "4": 3,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 522,
+            "premium": false,
+            "rating": 4.3,
+            "previewUrl": null,
+            "name": "Webinar Follow Up",
+            "slug": "webinar-follow-up",
+            "votes": {
+                "1": 3,
+                "4": 4,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 520,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Post Webinar",
+            "slug": "post-webinar",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 9,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 249,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Webinar Invite",
+            "slug": "webinar-invite",
+            "votes": {
+                "1": 3,
+                "3": 6,
+                "4": 32,
+                "5": 102
+            },
+            "type": "email"
+        }
+    ]
+}

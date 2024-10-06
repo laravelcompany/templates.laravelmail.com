@@ -1,0 +1,201 @@
+{
+    "category": "Back to School",
+    "templates": [
+        {
+            "id": 2782,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "School Supplies Sale",
+            "slug": "school-supplies-sale",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 2780,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Back to School Deals",
+            "slug": "back-to-school-deals",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 3,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2778,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "School Learning Activities",
+            "slug": "school-learning-activities",
+            "votes": {
+                "4": 2,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2776,
+            "premium": false,
+            "rating": 4.12,
+            "previewUrl": null,
+            "name": "Back To School News",
+            "slug": "back-to-school-news",
+            "votes": {
+                "1": 5,
+                "2": 2,
+                "4": 4,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2368,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Student Retention",
+            "slug": "student-retention",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 9,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2128,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Gear Back",
+            "slug": "gear-back",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2127,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Meet the Teacher",
+            "slug": "meet-the-teacher",
+            "votes": {
+                "4": 3,
+                "5": 3
+            },
+            "type": "email"
+        },
+        {
+            "id": 2126,
+            "premium": false,
+            "rating": null,
+            "previewUrl": null,
+            "name": "Kindergarten Books",
+            "slug": "kindergarten-books",
+            "votes": [],
+            "type": "email"
+        },
+        {
+            "id": 2123,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Snack Smarter",
+            "slug": "snack-smarter",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2121,
+            "premium": false,
+            "rating": 4.25,
+            "previewUrl": null,
+            "name": "Back to School Gifts",
+            "slug": "back-to-school-gifts",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 6,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2118,
+            "premium": false,
+            "rating": 4.17,
+            "previewUrl": null,
+            "name": "Delicious Cookies",
+            "slug": "delicious-cookies",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 4,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 2116,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Back to School Fashion Trends",
+            "slug": "back-to-school-fashion-trends",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2070,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Mid-Year Check-In",
+            "slug": "mid-year-check-in",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 841,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "Back to School Dress Offer",
+            "slug": "back-to-school-dress-offer",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "5": 6
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "category": "Earth Day",
+    "templates": [
+        {
+            "id": 2685,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Protect Our Planet",
+            "slug": "protect-our-planet",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 7,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 2683,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Recycle and Reuse",
+            "slug": "recycle-and-reuse",
+            "votes": {
+                "1": 3,
+                "3": 3,
+                "4": 9,
+                "5": 45
+            },
+            "type": "email"
+        },
+        {
+            "id": 2680,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Environmental Impact",
+            "slug": "environmental-impact",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1955,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "A Favorite Green Tip",
+            "slug": "a-favorite-green-tip",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 2,
+                "4": 10,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 1947,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Celebrate Earth Day",
+            "slug": "celebrate-earth-day",
+            "votes": {
+                "3": 3,
+                "4": 9,
+                "5": 39
+            },
+            "type": "email"
+        },
+        {
+            "id": 1029,
+            "premium": false,
+            "rating": 4.21,
+            "previewUrl": null,
+            "name": "Skin Care Earth Day Discount",
+            "slug": "skin-care-earth-day-discount",
+            "votes": {
+                "1": 1,
+                "3": 8,
+                "4": 6,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1015,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Vegan Restaurants Earth Day Special",
+            "slug": "vegan-restaurants-earth-day-special",
+            "votes": {
+                "4": 2,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 1013,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Fundraising For Earth Day",
+            "slug": "fundraising-for-earth-day",
+            "votes": {
+                "4": 2,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 1010,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Earth Day Clothing Sale",
+            "slug": "earth-day-clothing-sale",
+            "votes": {
+                "3": 2,
+                "4": 6,
+                "5": 16
+            },
+            "type": "email"
+        }
+    ]
+}

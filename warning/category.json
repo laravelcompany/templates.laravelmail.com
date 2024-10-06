@@ -1,0 +1,183 @@
+{
+    "category": "Warning",
+    "templates": [
+        {
+            "id": 2502,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Security Challenge ",
+            "slug": "security-challenge",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 4,
+                "4": 15,
+                "5": 71
+            },
+            "type": "email"
+        },
+        {
+            "id": 1850,
+            "premium": false,
+            "rating": 4.35,
+            "previewUrl": null,
+            "name": "Warning Email to Employee for Leave Without Information",
+            "slug": "warning-email-to-employee-for-leave-without-information",
+            "votes": {
+                "1": 21,
+                "2": 8,
+                "3": 8,
+                "4": 43,
+                "5": 177
+            },
+            "type": "email"
+        },
+        {
+            "id": 1846,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Warning Email to Employee for Unacceptable Behavior",
+            "slug": "warning-email-to-employee-for-unacceptable-behavior",
+            "votes": {
+                "1": 2,
+                "3": 7,
+                "4": 9,
+                "5": 65
+            },
+            "type": "email"
+        },
+        {
+            "id": 1505,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Warning for Not Following Instructions",
+            "slug": "warning-for-not-following-instructions",
+            "votes": {
+                "2": 1,
+                "3": 5,
+                "4": 12,
+                "5": 50
+            },
+            "type": "email"
+        },
+        {
+            "id": 1504,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Warning for Not Wearing Mask ",
+            "slug": "warning-for-not-wearing-mask",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1502,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Suspicious Activity ",
+            "slug": "suspicious-activity",
+            "votes": {
+                "1": 1,
+                "4": 11,
+                "5": 74
+            },
+            "type": "email"
+        },
+        {
+            "id": 1501,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Unacceptable Behavior",
+            "slug": "unacceptable-behavior",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 7,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 1497,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Ransomware Warning",
+            "slug": "ransomware-warning",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 3,
+                "5": 47
+            },
+            "type": "email"
+        },
+        {
+            "id": 1495,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Scam Email Warning",
+            "slug": "scam-email-warning",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 1494,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Warning Email to Employee for Poor Performance",
+            "slug": "warning-email-to-employee-for-poor-performance",
+            "votes": {
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 1490,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Secure Email Greeting Warning",
+            "slug": "secure-email-greeting-warning",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 13,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 1489,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Professional Warning",
+            "slug": "professional-warning",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        }
+    ]
+}

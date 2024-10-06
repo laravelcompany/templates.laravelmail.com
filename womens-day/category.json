@@ -1,0 +1,96 @@
+{
+    "category": "Women's Day",
+    "templates": [
+        {
+            "id": 2594,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Women's Achievements",
+            "slug": "womens-achievements",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2591,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Women's voices",
+            "slug": "womens-voices",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 16,
+                "5": 38
+            },
+            "type": "email"
+        },
+        {
+            "id": 1889,
+            "premium": false,
+            "rating": 4.36,
+            "previewUrl": null,
+            "name": "Women's Day Sale",
+            "slug": "womens-day-sale",
+            "votes": {
+                "1": 6,
+                "2": 2,
+                "3": 2,
+                "4": 13,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 1880,
+            "premium": false,
+            "rating": 4.41,
+            "previewUrl": null,
+            "name": "Diversity and Inclusion",
+            "slug": "diversity-and-inclusion",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 3,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1877,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Empowerment",
+            "slug": "empowerment",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 3,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1550,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Women's Day Webinar",
+            "slug": "womens-day-webinar",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 18
+            },
+            "type": "email"
+        }
+    ]
+}

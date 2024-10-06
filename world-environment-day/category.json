@@ -1,0 +1,50 @@
+{
+    "category": "World Environment Day",
+    "templates": [
+        {
+            "id": 2685,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Protect Our Planet",
+            "slug": "protect-our-planet",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 7,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 2683,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Recycle and Reuse",
+            "slug": "recycle-and-reuse",
+            "votes": {
+                "1": 3,
+                "3": 3,
+                "4": 9,
+                "5": 45
+            },
+            "type": "email"
+        },
+        {
+            "id": 2680,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Environmental Impact",
+            "slug": "environmental-impact",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 15
+            },
+            "type": "email"
+        }
+    ]
+}

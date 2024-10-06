@@ -1,0 +1,50 @@
+{
+    "category": "Infographic",
+    "templates": [
+        {
+            "id": 2583,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Education Infographic",
+            "slug": "education-infographic",
+            "votes": {
+                "3": 3,
+                "4": 3,
+                "5": 47
+            },
+            "type": "email"
+        },
+        {
+            "id": 2581,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Storytelling with Infographics",
+            "slug": "storytelling-with-infographics",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 9,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 2178,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Infographic Promotion Email",
+            "slug": "infographic-promotion-email",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 36
+            },
+            "type": "email"
+        }
+    ]
+}

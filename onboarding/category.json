@@ -1,0 +1,81 @@
+{
+    "category": "Onboarding",
+    "templates": [
+        {
+            "id": 2307,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Free Trial Onboarding",
+            "slug": "free-trial-onboarding",
+            "votes": {
+                "3": 2,
+                "4": 11,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1702,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Employees",
+            "slug": "thanksgiving-email-to-employees",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 8,
+                "4": 6,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1578,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "Deploy",
+            "slug": "deploy",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 6,
+                "4": 8,
+                "5": 68
+            },
+            "type": "email"
+        },
+        {
+            "id": 1575,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Introducing New Feature",
+            "slug": "introducing-new-feature",
+            "votes": {
+                "1": 1,
+                "3": 5,
+                "4": 12,
+                "5": 58
+            },
+            "type": "email"
+        },
+        {
+            "id": 1572,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "New Account Detail",
+            "slug": "New-Account-Detail",
+            "votes": {
+                "1": 2,
+                "3": 5,
+                "4": 29,
+                "5": 166
+            },
+            "type": "email"
+        }
+    ]
+}

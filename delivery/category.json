@@ -1,0 +1,148 @@
+{
+    "category": "Delivery",
+    "templates": [
+        {
+            "id": 1646,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Quick Services",
+            "slug": "quick-services",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 50
+            },
+            "type": "email"
+        },
+        {
+            "id": 1176,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Apology For Late Payment To Supplier",
+            "slug": "apology-for-late-payment-to-supplier",
+            "votes": {
+                "1": 5,
+                "2": 4,
+                "3": 6,
+                "4": 24,
+                "5": 115
+            },
+            "type": "email"
+        },
+        {
+            "id": 1161,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Proof Of Product Delivery",
+            "slug": "proof-of-product-delivery",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 8,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 1160,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Food Items Delivery Notification",
+            "slug": "food-items-delivery-notification",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 2,
+                "4": 14,
+                "5": 97
+            },
+            "type": "email"
+        },
+        {
+            "id": 1159,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Product Delivery Update",
+            "slug": "product-delivery-update",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 19,
+                "5": 76
+            },
+            "type": "email"
+        },
+        {
+            "id": 1156,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Delivery Confirmation Email",
+            "slug": "delivery-confirmation-email",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 6,
+                "4": 17,
+                "5": 87
+            },
+            "type": "email"
+        },
+        {
+            "id": 1155,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Business Service Delivery Details",
+            "slug": "business-service-delivery-details",
+            "votes": {
+                "1": 17,
+                "2": 8,
+                "3": 24,
+                "4": 113,
+                "5": 634
+            },
+            "type": "email"
+        },
+        {
+            "id": 1154,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Project Delivery Details",
+            "slug": "project-delivery-details",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 5,
+                "4": 20,
+                "5": 107
+            },
+            "type": "email"
+        },
+        {
+            "id": 1145,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Delay In Order Delivery",
+            "slug": "delay-in-order-delivery",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 15,
+                "5": 144
+            },
+            "type": "email"
+        }
+    ]
+}

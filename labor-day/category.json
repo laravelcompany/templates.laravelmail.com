@@ -1,0 +1,241 @@
+{
+    "category": "Labor Day",
+    "templates": [
+        {
+            "id": 2788,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Labor Day Parade",
+            "slug": "labor-day-parade",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 9,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2787,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Labor Day Weekend Sale",
+            "slug": "labor-day-weekend-sale",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2786,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Labor Day Invitation",
+            "slug": "labor-day-invitation",
+            "votes": {
+                "2": 1,
+                "4": 3,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2785,
+            "premium": false,
+            "rating": 4.08,
+            "previewUrl": null,
+            "name": "Labor Day Road Trip",
+            "slug": "labor-day-road-trip",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2783,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Labour Day",
+            "slug": "labour-day",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 5,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2259,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Labor Day Long Awaited Rest",
+            "slug": "labor-day-long-awaited-rest",
+            "votes": {
+                "4": 5,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2254,
+            "premium": false,
+            "rating": 3.94,
+            "previewUrl": null,
+            "name": "Labor Day Decoration Ideas",
+            "slug": "labor-day-decoration-ideas",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 4,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2246,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Labor Day Comfortable Trips",
+            "slug": "labor-day-comfortable-trips",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 2239,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Labor Day Greetings",
+            "slug": "labor-day-greetings",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 2236,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Labor Day Email to Employees",
+            "slug": "labor-day-email-to-employees",
+            "votes": {
+                "1": 6,
+                "2": 1,
+                "3": 9,
+                "4": 10,
+                "5": 94
+            },
+            "type": "email"
+        },
+        {
+            "id": 2218,
+            "premium": false,
+            "rating": 4.25,
+            "previewUrl": null,
+            "name": "Labor Day for Workers",
+            "slug": "labor-day-for-workers",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2215,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Labor Day Activities",
+            "slug": "labor-day-activities",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 9,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 2195,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Labor Day Travel Discount",
+            "slug": "labor-day-travel-discount",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2189,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Labor Day Newsletter",
+            "slug": "labor-day-newsletter",
+            "votes": {
+                "4": 5,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 895,
+            "premium": false,
+            "rating": 4.18,
+            "previewUrl": null,
+            "name": "Labor Day Discount For Tourism",
+            "slug": "labor-day-discount-for-tourism",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 4,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 415,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Labor Day ",
+            "slug": "labor-day",
+            "votes": {
+                "1": 2,
+                "5": 20
+            },
+            "type": "email"
+        }
+    ]
+}

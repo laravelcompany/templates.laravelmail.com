@@ -1,0 +1,50 @@
+{
+    "category": "Save the Date",
+    "templates": [
+        {
+            "id": 1551,
+            "premium": false,
+            "rating": 4.07,
+            "previewUrl": null,
+            "name": "New Year's Eve ",
+            "slug": "new-years-eve",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 3,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 1550,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Women's Day Webinar",
+            "slug": "womens-day-webinar",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1548,
+            "premium": false,
+            "rating": 4.51,
+            "previewUrl": null,
+            "name": "New Event ",
+            "slug": "new-event",
+            "votes": {
+                "1": 4,
+                "2": 5,
+                "3": 2,
+                "4": 7,
+                "5": 67
+            },
+            "type": "email"
+        }
+    ]
+}

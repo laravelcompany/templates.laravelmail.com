@@ -1,0 +1,83 @@
+{
+    "category": "Airline",
+    "templates": [
+        {
+            "id": 2635,
+            "premium": false,
+            "rating": 4.29,
+            "previewUrl": null,
+            "name": "Flight Discounts",
+            "slug": "flight-discounts",
+            "votes": {
+                "1": 2,
+                "2": 4,
+                "3": 1,
+                "4": 2,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 2629,
+            "premium": false,
+            "rating": 4.31,
+            "previewUrl": null,
+            "name": "Vacation Packages",
+            "slug": "vacation-packages",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 4,
+                "4": 12,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 1837,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Flight Confirmation",
+            "slug": "flight-confirmation",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "3": 7,
+                "4": 13,
+                "5": 58
+            },
+            "type": "email"
+        },
+        {
+            "id": 1789,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Flight Date Change",
+            "slug": "flight-date-change",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1786,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Trip Confirmation",
+            "slug": "trip-confirmation",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 3,
+                "5": 23
+            },
+            "type": "email"
+        }
+    ]
+}

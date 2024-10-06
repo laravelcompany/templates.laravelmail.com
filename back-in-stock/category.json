@@ -1,0 +1,35 @@
+{
+    "category": "Back in Stock",
+    "templates": [
+        {
+            "id": 1380,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Back in Stock Announcement ",
+            "slug": "back-in-stock-announcement",
+            "votes": {
+                "3": 5,
+                "4": 9,
+                "5": 60
+            },
+            "type": "email"
+        },
+        {
+            "id": 1373,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Beauty Products Back in Stock",
+            "slug": "beauty-products-back-in-stock",
+            "votes": {
+                "1": 5,
+                "2": 3,
+                "3": 4,
+                "4": 11,
+                "5": 61
+            },
+            "type": "email"
+        }
+    ]
+}

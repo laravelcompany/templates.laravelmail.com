@@ -1,0 +1,93 @@
+{
+    "category": "Creative",
+    "templates": [
+        {
+            "id": 1753,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "New Sticker Collection",
+            "slug": "new-sticker-collection",
+            "votes": {
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1744,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Christmas Toys Sale",
+            "slug": "christmas-toys-sale",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 1730,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Hello Winter",
+            "slug": "hello-winter",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 4,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1695,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Last Minute",
+            "slug": "last-minute",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 6,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1685,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Book Lovers",
+            "slug": "book-lovers",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 2,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 1682,
+            "premium": false,
+            "rating": 4.1,
+            "previewUrl": null,
+            "name": "Honoring Our Veterans",
+            "slug": "honoring-our-veterans",
+            "votes": {
+                "1": 2,
+                "2": 3,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        }
+    ]
+}

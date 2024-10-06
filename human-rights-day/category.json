@@ -1,0 +1,59 @@
+{
+    "category": "Human Rights Day",
+    "templates": [
+        {
+            "id": 2466,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Equality For All",
+            "slug": "equality-for-all",
+            "votes": {
+                "3": 2,
+                "4": 2,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2465,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Human Right for All",
+            "slug": "human-right-for-all",
+            "votes": {
+                "4": 2,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 1716,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Human Rights Month",
+            "slug": "human-rights-month",
+            "votes": {
+                "3": 2,
+                "4": 3,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1707,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Human Rights Exhibition",
+            "slug": "human-rights-exhibition",
+            "votes": {
+                "4": 4,
+                "5": 14
+            },
+            "type": "email"
+        }
+    ]
+}

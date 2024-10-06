@@ -1,0 +1,96 @@
+{
+    "category": "Re-Engagement",
+    "templates": [
+        {
+            "id": 2369,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Retention Offer",
+            "slug": "retention-offer",
+            "votes": {
+                "3": 1,
+                "4": 9,
+                "5": 58
+            },
+            "type": "email"
+        },
+        {
+            "id": 1589,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Re-Engagement Gift Card",
+            "slug": "re-engagement-gift-card",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 1282,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Finance Newsletter Re-Engagement Email Template",
+            "slug": "Finance-newsletter-re-engagement-email-template",
+            "votes": {
+                "2": 1,
+                "4": 21,
+                "5": 109
+            },
+            "type": "email"
+        },
+        {
+            "id": 1281,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Real estate newsletter re-engagement",
+            "slug": "real-estate-newsletter-re-engagement",
+            "votes": {
+                "1": 3,
+                "2": 4,
+                "3": 7,
+                "4": 24,
+                "5": 123
+            },
+            "type": "email"
+        },
+        {
+            "id": 1279,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Subscription software re-engagement",
+            "slug": "subscription-software-re-engagement",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 25,
+                "5": 153
+            },
+            "type": "email"
+        },
+        {
+            "id": 1277,
+            "premium": false,
+            "rating": 4.49,
+            "previewUrl": null,
+            "name": "Clothing store re-engagement",
+            "slug": "clothing-store-re-engagement",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 9,
+                "5": 38
+            },
+            "type": "email"
+        }
+    ]
+}

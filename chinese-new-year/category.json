@@ -1,0 +1,33 @@
+{
+    "category": "Chinese New Year",
+    "templates": [
+        {
+            "id": 1783,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Year of the Rabbit",
+            "slug": "year-of-the-rabbit",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 1781,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Chinese New Year Sale",
+            "slug": "chinese-new-year-sale",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "category": "Rewards",
+    "templates": [
+        {
+            "id": 1569,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Free Food",
+            "slug": "free-food",
+            "votes": {
+                "3": 2,
+                "4": 12,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 1567,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Sneak Peek",
+            "slug": "sneak-peek",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 14,
+                "5": 61
+            },
+            "type": "email"
+        },
+        {
+            "id": 1565,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "50 Test Points",
+            "slug": "50-test-points",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 7,
+                "4": 24,
+                "5": 129
+            },
+            "type": "email"
+        },
+        {
+            "id": 1562,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Free Shipping Discount",
+            "slug": "free-shipping-discount",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 2,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 615,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Prize Winner Announcement",
+            "slug": "prize-winner-announcement",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 10,
+                "4": 34,
+                "5": 218
+            },
+            "type": "email"
+        }
+    ]
+}

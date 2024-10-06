@@ -1,0 +1,50 @@
+{
+    "category": "Dentists",
+    "templates": [
+        {
+            "id": 1484,
+            "premium": false,
+            "rating": 4.13,
+            "previewUrl": null,
+            "name": "Dental Checkup Discount Card",
+            "slug": "dental-checkup-discount-card",
+            "votes": {
+                "1": 3,
+                "3": 4,
+                "4": 6,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1482,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Dental Treatment Reminder",
+            "slug": "dental-treatment-reminder",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 3,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1480,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "Dental Implants Discount ",
+            "slug": "dental-implants-discount",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "4": 3,
+                "5": 37
+            },
+            "type": "email"
+        }
+    ]
+}

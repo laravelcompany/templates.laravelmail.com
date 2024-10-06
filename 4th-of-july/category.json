@@ -1,0 +1,75 @@
+{
+    "category": "4th of July",
+    "templates": [
+        {
+            "id": 2699,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Flag Day Discounts",
+            "slug": "flag-day-discounts",
+            "votes": {
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2081,
+            "premium": false,
+            "rating": 4.94,
+            "previewUrl": null,
+            "name": "Independence Sale",
+            "slug": "independence-sale",
+            "votes": {
+                "4": 1,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2079,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "4th of July Menu",
+            "slug": "4th-of-july-menu",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 3,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 598,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "4th of July Flash Sales",
+            "slug": "4th-of-july-flash-sales",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 4,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 596,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "4th of July Promotion",
+            "slug": "4th-of-july-promotion",
+            "votes": {
+                "2": 1,
+                "4": 2,
+                "5": 15
+            },
+            "type": "email"
+        }
+    ]
+}

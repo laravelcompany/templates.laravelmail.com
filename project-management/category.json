@@ -1,0 +1,119 @@
+{
+    "category": "Project Management",
+    "templates": [
+        {
+            "id": 2163,
+            "premium": false,
+            "rating": 4.09,
+            "previewUrl": null,
+            "name": "Stakeholder Communication",
+            "slug": "stakeholder-communication",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 4,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2159,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Request for Project Resources",
+            "slug": "request-for-project-resources",
+            "votes": {
+                "1": 8,
+                "3": 6,
+                "4": 16,
+                "5": 83
+            },
+            "type": "email"
+        },
+        {
+            "id": 2158,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Project Meeting Agenda",
+            "slug": "project-meeting-agenda",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 2156,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Task Assignment",
+            "slug": "task-assignment",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2153,
+            "premium": false,
+            "rating": 4.26,
+            "previewUrl": null,
+            "name": "Team Recognition",
+            "slug": "team-recognition",
+            "votes": {
+                "2": 5,
+                "3": 2,
+                "4": 4,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2151,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Project Budget Update Email",
+            "slug": "project-budget-update-email",
+            "votes": {
+                "2": 1,
+                "4": 8,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 2148,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Project Status Report",
+            "slug": "project-status-report",
+            "votes": {
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2147,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Change Request Email",
+            "slug": "change-request-email",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "5": 39
+            },
+            "type": "email"
+        }
+    ]
+}

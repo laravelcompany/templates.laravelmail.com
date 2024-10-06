@@ -1,0 +1,131 @@
+{
+    "category": "Consultation",
+    "templates": [
+        {
+            "id": 2763,
+            "premium": false,
+            "rating": 4.24,
+            "previewUrl": null,
+            "name": "Community Health Events Calendar",
+            "slug": "community-health-events-calendar",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2146,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Relationship Consultation",
+            "slug": "relationship-consultation",
+            "votes": {
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2144,
+            "premium": false,
+            "rating": 4.93,
+            "previewUrl": null,
+            "name": "Parenting Consultation",
+            "slug": "parenting-consultation",
+            "votes": {
+                "4": 5,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 2142,
+            "premium": false,
+            "rating": 4.38,
+            "previewUrl": null,
+            "name": "Business Consultation",
+            "slug": "business-consultation",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 17,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2140,
+            "premium": false,
+            "rating": 4.15,
+            "previewUrl": null,
+            "name": "Travel Consultation",
+            "slug": "travel-consultation",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 4,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2138,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Legal Consultation",
+            "slug": "legal-consultation",
+            "votes": {
+                "4": 1,
+                "5": 2
+            },
+            "type": "email"
+        },
+        {
+            "id": 2137,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "Career Consultation",
+            "slug": "career-consultation",
+            "votes": {
+                "1": 2,
+                "4": 7,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2135,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Real Estate Consultation",
+            "slug": "real-estate-consultation",
+            "votes": {
+                "1": 2,
+                "4": 5,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2131,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Financial Consultation ",
+            "slug": "financial-consultation",
+            "votes": {
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        }
+    ]
+}

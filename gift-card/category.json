@@ -1,0 +1,327 @@
+{
+    "category": "Gift Card",
+    "templates": [
+        {
+            "id": 2677,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Digital Gifts for Mom",
+            "slug": "digital-gifts-for-mom",
+            "votes": {
+                "3": 2,
+                "4": 7,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2675,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Mother's Day Message",
+            "slug": "mothers-day-message",
+            "votes": {
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2618,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Easter Gift Ideas",
+            "slug": "easter-gift-ideas",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 9,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2528,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Valentine's Countdown",
+            "slug": "valentines-countdown",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 4,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 2511,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Gift List",
+            "slug": "gift-list",
+            "votes": {
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2509,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Gift Ideas",
+            "slug": "gift-ideas",
+            "votes": {
+                "2": 2,
+                "3": 1,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2501,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Secret Envelop",
+            "slug": "secrete-envelop",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 6,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 2342,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Special Occasion",
+            "slug": "special-occasion",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2259,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Labor Day Long Awaited Rest",
+            "slug": "labor-day-long-awaited-rest",
+            "votes": {
+                "4": 5,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2121,
+            "premium": false,
+            "rating": 4.25,
+            "previewUrl": null,
+            "name": "Back to School Gifts",
+            "slug": "back-to-school-gifts",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 6,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1848,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Birthday Special Surprise",
+            "slug": "birthday-special-surprise",
+            "votes": {
+                "1": 4,
+                "2": 3,
+                "3": 4,
+                "4": 13,
+                "5": 56
+            },
+            "type": "email"
+        },
+        {
+            "id": 1737,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Final Hours Boxing Day",
+            "slug": "final-hours-boxing-day",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 3,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1731,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Boxing Day Extended",
+            "slug": "boxing-day-extended",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1591,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Winter Gift Card",
+            "slug": "winter-gift-card",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1590,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Valentine's Day Gift Card",
+            "slug": "valentines-day-gift-card",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 4,
+                "4": 9,
+                "5": 43
+            },
+            "type": "email"
+        },
+        {
+            "id": 1589,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Re-Engagement Gift Card",
+            "slug": "re-engagement-gift-card",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 1586,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "New Collection Gift Card",
+            "slug": "new-collection-gift-card",
+            "votes": {
+                "1": 1,
+                "4": 7,
+                "5": 76
+            },
+            "type": "email"
+        },
+        {
+            "id": 1585,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Referral Gift Card",
+            "slug": "referral-gift-card",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 14,
+                "5": 82
+            },
+            "type": "email"
+        },
+        {
+            "id": 1582,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Holiday Gift Card",
+            "slug": "holiday-gift-card",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1579,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Mother's Day Gift Card",
+            "slug": "mothers-day-gift-card",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1563,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Gift for You",
+            "slug": "gift-for-you",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 4,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1562,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Free Shipping Discount",
+            "slug": "free-shipping-discount",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 2,
+                "5": 40
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "category": "Coming Soon",
+    "templates": [
+        {
+            "id": 1660,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Software Product Launch",
+            "slug": "software-product-launch",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 8,
+                "4": 10,
+                "5": 90
+            },
+            "type": "email"
+        },
+        {
+            "id": 1655,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Big Sale",
+            "slug": "big-sale",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 3,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 1654,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Announcement for New Feature",
+            "slug": "announcement-for-new-feature",
+            "votes": {
+                "1": 3,
+                "3": 1,
+                "4": 9,
+                "5": 45
+            },
+            "type": "email"
+        }
+    ]
+}

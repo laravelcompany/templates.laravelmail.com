@@ -1,0 +1,46 @@
+{
+    "category": "Transport",
+    "templates": [
+        {
+            "id": 415,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Labor Day ",
+            "slug": "labor-day",
+            "votes": {
+                "1": 2,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 261,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Moving company",
+            "slug": "moving-company",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 9,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 197,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Automobile",
+            "slug": "automobile",
+            "votes": {
+                "4": 5,
+                "5": 24
+            },
+            "type": "email"
+        }
+    ]
+}

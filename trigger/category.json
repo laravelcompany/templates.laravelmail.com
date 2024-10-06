@@ -1,0 +1,35 @@
+{
+    "category": "Trigger",
+    "templates": [
+        {
+            "id": 1934,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Rate Delivery",
+            "slug": "rate-delivery",
+            "votes": {
+                "1": 3,
+                "2": 4,
+                "3": 2,
+                "4": 4,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1933,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "You Forgot to Order",
+            "slug": "you-forgot-to-order",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 45
+            },
+            "type": "email"
+        }
+    ]
+}

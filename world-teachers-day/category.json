@@ -1,0 +1,46 @@
+{
+    "category": "World Teachers' Day",
+    "templates": [
+        {
+            "id": 2127,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Meet the Teacher",
+            "slug": "meet-the-teacher",
+            "votes": {
+                "4": 3,
+                "5": 3
+            },
+            "type": "email"
+        },
+        {
+            "id": 1547,
+            "premium": false,
+            "rating": 4.38,
+            "previewUrl": null,
+            "name": "Teachers Appreciation ",
+            "slug": "teachers-appreciation",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 1511,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Best Teacher",
+            "slug": "best-teacher",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 36
+            },
+            "type": "email"
+        }
+    ]
+}

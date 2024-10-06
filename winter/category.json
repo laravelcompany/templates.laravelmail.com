@@ -1,0 +1,112 @@
+{
+    "category": "Winter",
+    "templates": [
+        {
+            "id": 2468,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "Winter Tale",
+            "slug": "winter-tale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 7,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 1841,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Eco Toys",
+            "slug": "eco-toys",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1838,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Happy Holidays",
+            "slug": "happy-holidays",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 6,
+                "4": 16,
+                "5": 58
+            },
+            "type": "email"
+        },
+        {
+            "id": 1732,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Christmas Jumper Day",
+            "slug": "christmas-jumper-day",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 1730,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Hello Winter",
+            "slug": "hello-winter",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 4,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1729,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Winter Break",
+            "slug": "winter-break",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 11,
+                "5": 66
+            },
+            "type": "email"
+        },
+        {
+            "id": 1728,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Winter Wardrobe",
+            "slug": "winter-wardrobe",
+            "votes": {
+                "3": 1,
+                "4": 7,
+                "5": 9
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "category": "Fundraising",
+    "templates": [
+        {
+            "id": 2418,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Giving Tuesday Stories",
+            "slug": "giving-tuesday-stories",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 2411,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Food Donation",
+            "slug": "food-donation",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 2,
+                "4": 9,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 2392,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Donation Request",
+            "slug": "donation-request",
+            "votes": {
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2313,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Real Stories",
+            "slug": "real-stories",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2203,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Volunteers Needed Email",
+            "slug": "volunteers-needed-email",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 2199,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Volunteer Fundraising Campaign Email",
+            "slug": "volunteer-fundraising-campaign-email",
+            "votes": {
+                "4": 6,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1716,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Human Rights Month",
+            "slug": "human-rights-month",
+            "votes": {
+                "3": 2,
+                "4": 3,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1707,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Human Rights Exhibition",
+            "slug": "human-rights-exhibition",
+            "votes": {
+                "4": 4,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1677,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Donation for Veterans",
+            "slug": "donation-for-veterans",
+            "votes": {
+                "1": 1,
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 1621,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Wear Pink",
+            "slug": "wear-pink",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 3,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1606,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Clothing Donation",
+            "slug": "clothing-donation",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 3,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1605,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Donate With Us",
+            "slug": "donate-with-us",
+            "votes": {
+                "1": 1,
+                "4": 2,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1024,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Clean Water NGO Promotion",
+            "slug": "clean-water-ngo-promotion",
+            "votes": {
+                "1": 1,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1023,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Support Clean Water Drive",
+            "slug": "support-clean-water-drive",
+            "votes": {
+                "3": 2,
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1020,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Fundraising For Clean Water",
+            "slug": "fundraising-for-clean-water",
+            "votes": {
+                "4": 3,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1013,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Fundraising For Earth Day",
+            "slug": "fundraising-for-earth-day",
+            "votes": {
+                "4": 2,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 952,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Support Cancer Research",
+            "slug": "support-cancer-research",
+            "votes": {
+                "4": 2,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 949,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Fundraising Drive For Cancer Day",
+            "slug": "fundraising-drive-for-cancer-day",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 943,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Donate for Cancer",
+            "slug": "donate-for-cancer",
+            "votes": {
+                "4": 3,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 549,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Startup Fund",
+            "slug": "startup-fund",
+            "votes": {
+                "1": 1,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 539,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Giving Tuesday",
+            "slug": "giving-tuesday",
+            "votes": {
+                "3": 7,
+                "4": 7,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 524,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Peer to Peer Fundraising",
+            "slug": "peer-to-peer-fundraising",
+            "votes": {
+                "4": 4,
+                "5": 18
+            },
+            "type": "email"
+        }
+    ]
+}

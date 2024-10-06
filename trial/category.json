@@ -1,0 +1,74 @@
+{
+    "category": "Trial",
+    "templates": [
+        {
+            "id": 2348,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Special Trial Offer",
+            "slug": "special-trial-offer",
+            "votes": {
+                "2": 1,
+                "4": 10,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2322,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Proactive Support",
+            "slug": "proactive-support",
+            "votes": {
+                "2": 1,
+                "4": 1,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2317,
+            "premium": false,
+            "rating": 4.94,
+            "previewUrl": null,
+            "name": "Trial Ended Email",
+            "slug": "trial-ended-email",
+            "votes": {
+                "4": 1,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2307,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Free Trial Onboarding",
+            "slug": "free-trial-onboarding",
+            "votes": {
+                "3": 2,
+                "4": 11,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 314,
+            "premium": false,
+            "rating": 4.15,
+            "previewUrl": null,
+            "name": "Trial Ended",
+            "slug": "trial-ended",
+            "votes": {
+                "1": 2,
+                "4": 3,
+                "5": 8
+            },
+            "type": "email"
+        }
+    ]
+}

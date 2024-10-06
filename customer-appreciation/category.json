@@ -1,0 +1,78 @@
+{
+    "category": "Customer Appreciation",
+    "templates": [
+        {
+            "id": 1720,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "FIFA Player Card",
+            "slug": "FIFA-Player-Card",
+            "votes": {
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1571,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Upgrade Your Plan",
+            "slug": "upgrade-your-plan",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "3": 6,
+                "4": 40,
+                "5": 135
+            },
+            "type": "email"
+        },
+        {
+            "id": 1563,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Gift for You",
+            "slug": "gift-for-you",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 4,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1559,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Customer Review",
+            "slug": "customer-review",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 8,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 1556,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Grab your Discount",
+            "slug": "grab-your-discount",
+            "votes": {
+                "1": 1,
+                "5": 22
+            },
+            "type": "email"
+        }
+    ]
+}

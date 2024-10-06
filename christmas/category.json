@@ -1,0 +1,174 @@
+{
+    "category": "Christmas",
+    "templates": [
+        {
+            "id": 2481,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Ring in The Savings",
+            "slug": "ring-in-the-savings",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 3,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 2474,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Holiday Cheer",
+            "slug": "holiday-cheer",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 2473,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Membership Discount",
+            "slug": "membership-discount",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 5,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 2471,
+            "premium": false,
+            "rating": 4.13,
+            "previewUrl": null,
+            "name": "Movies for Christmas",
+            "slug": "movies-for-christmas",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 6,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2468,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "Winter Tale",
+            "slug": "winter-tale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 7,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 1744,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Christmas Toys Sale",
+            "slug": "christmas-toys-sale",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 1733,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Christmas Movie Night",
+            "slug": "christmas-movie-night",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 7,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1732,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Christmas Jumper Day",
+            "slug": "christmas-jumper-day",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 1665,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Sweet Treat",
+            "slug": "sweet-treat",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 1303,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Christmas Party",
+            "slug": "christmas-party",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 13,
+                "5": 144
+            },
+            "type": "email"
+        },
+        {
+            "id": 284,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Christmas Discount",
+            "slug": "christmas-discount",
+            "votes": {
+                "1": 2,
+                "2": 4,
+                "3": 5,
+                "4": 25,
+                "5": 130
+            },
+            "type": "email"
+        }
+    ]
+}

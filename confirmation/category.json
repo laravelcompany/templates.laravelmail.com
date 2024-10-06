@@ -1,0 +1,452 @@
+{
+    "category": "Confirmation",
+    "templates": [
+        {
+            "id": 2634,
+            "premium": false,
+            "rating": 4.06,
+            "previewUrl": null,
+            "name": "Don't Miss Out",
+            "slug": "dont-miss-out",
+            "votes": {
+                "1": 4,
+                "2": 4,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2625,
+            "premium": false,
+            "rating": 4.51,
+            "previewUrl": null,
+            "name": "Steps to Activate",
+            "slug": "steps-to-activate",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 6,
+                "4": 18,
+                "5": 56
+            },
+            "type": "email"
+        },
+        {
+            "id": 2622,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Urgency and Limited Time",
+            "slug": "urgency-and-limited-time",
+            "votes": {
+                "1": 5,
+                "2": 1,
+                "3": 6,
+                "4": 23,
+                "5": 113
+            },
+            "type": "email"
+        },
+        {
+            "id": 2459,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Webinar Confirmation Reminder",
+            "slug": "webinar-confirmation-reminder",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 5,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 2265,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Order Confirmation Emails",
+            "slug": "order-confirmation-emails",
+            "votes": {
+                "1": 1,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 2262,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Purchase Confirmation",
+            "slug": "purchase-confirmation",
+            "votes": {
+                "3": 1,
+                "4": 6,
+                "5": 47
+            },
+            "type": "email"
+        },
+        {
+            "id": 1912,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Client Acquisition",
+            "slug": "client-acquisition",
+            "votes": {
+                "1": 7,
+                "2": 1,
+                "3": 10,
+                "4": 28,
+                "5": 177
+            },
+            "type": "email"
+        },
+        {
+            "id": 1837,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Flight Confirmation",
+            "slug": "flight-confirmation",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "3": 7,
+                "4": 13,
+                "5": 58
+            },
+            "type": "email"
+        },
+        {
+            "id": 1786,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Trip Confirmation",
+            "slug": "trip-confirmation",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 3,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1609,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "SaaS Cart Abandoned",
+            "slug": "saas-cart-abandoned",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 2,
+                "4": 16,
+                "5": 98
+            },
+            "type": "email"
+        },
+        {
+            "id": 1449,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Order Confirmation",
+            "slug": "order-confirmation",
+            "votes": {
+                "1": 18,
+                "2": 4,
+                "3": 22,
+                "4": 50,
+                "5": 321
+            },
+            "type": "email"
+        },
+        {
+            "id": 1432,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "SPA Reservation",
+            "slug": "spa-reservation",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 5,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1161,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Proof Of Product Delivery",
+            "slug": "proof-of-product-delivery",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 8,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 1156,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Delivery Confirmation Email",
+            "slug": "delivery-confirmation-email",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 6,
+                "4": 17,
+                "5": 87
+            },
+            "type": "email"
+        },
+        {
+            "id": 1155,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Business Service Delivery Details",
+            "slug": "business-service-delivery-details",
+            "votes": {
+                "1": 17,
+                "2": 8,
+                "3": 24,
+                "4": 113,
+                "5": 634
+            },
+            "type": "email"
+        },
+        {
+            "id": 1154,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Project Delivery Details",
+            "slug": "project-delivery-details",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 5,
+                "4": 20,
+                "5": 107
+            },
+            "type": "email"
+        },
+        {
+            "id": 1136,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Appointment Verification Request",
+            "slug": "apointment-verification-request",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 12,
+                "4": 20,
+                "5": 180
+            },
+            "type": "email"
+        },
+        {
+            "id": 1135,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Education Verification",
+            "slug": "education-verification",
+            "votes": {
+                "1": 11,
+                "2": 7,
+                "3": 4,
+                "4": 31,
+                "5": 230
+            },
+            "type": "email"
+        },
+        {
+            "id": 793,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Interview Follow Up",
+            "slug": "interview-follow-up",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 790,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Hotel Booking Confirmation",
+            "slug": "hotel-booking-confirmation",
+            "votes": {
+                "1": 4,
+                "2": 4,
+                "3": 11,
+                "4": 19,
+                "5": 165
+            },
+            "type": "email"
+        },
+        {
+            "id": 682,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Meeting Reminder",
+            "slug": "meeting-reminder",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 8,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 644,
+            "premium": false,
+            "rating": 4.13,
+            "previewUrl": null,
+            "name": "Photographer Contract Signing",
+            "slug": "photographer-contract-signing",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 563,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Event Confirmation",
+            "slug": "event-confirmation",
+            "votes": {
+                "1": 6,
+                "2": 1,
+                "3": 4,
+                "4": 35,
+                "5": 249
+            },
+            "type": "email"
+        },
+        {
+            "id": 562,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Delivery Confirmed",
+            "slug": "delivery-confirmed",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 558,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Registration Confirmation",
+            "slug": "registration-confirmation",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 13,
+                "5": 89
+            },
+            "type": "email"
+        },
+        {
+            "id": 556,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Shipping Confirmation",
+            "slug": "shipping-confirmation",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 16,
+                "5": 137
+            },
+            "type": "email"
+        },
+        {
+            "id": 531,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Payment Confirmation",
+            "slug": "payment-confirmation",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "4": 10,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 238,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Sales Boot Camp",
+            "slug": "sales-boot-camp",
+            "votes": {
+                "3": 2,
+                "4": 8,
+                "5": 56
+            },
+            "type": "email"
+        },
+        {
+            "id": 6,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Delivery Confirmation",
+            "slug": "delivery-confirmation",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 2,
+                "4": 20,
+                "5": 166
+            },
+            "type": "email"
+        }
+    ]
+}

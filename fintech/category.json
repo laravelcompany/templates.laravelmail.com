@@ -1,0 +1,51 @@
+{
+    "category": "Fintech",
+    "templates": [
+        {
+            "id": 2590,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Fintech Startups Email",
+            "slug": "fintech-startups-email",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 2588,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Personal Finance Newsletter",
+            "slug": "personal-finance-newsletter",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2586,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Banking Email",
+            "slug": "banking-email",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 22
+            },
+            "type": "email"
+        }
+    ]
+}

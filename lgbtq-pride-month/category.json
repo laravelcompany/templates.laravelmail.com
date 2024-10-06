@@ -1,0 +1,120 @@
+{
+    "category": "LGBTQ Pride Month",
+    "templates": [
+        {
+            "id": 2037,
+            "premium": false,
+            "rating": 4.14,
+            "previewUrl": null,
+            "name": "Pride Month Festival",
+            "slug": "pride-month-festival",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2027,
+            "premium": false,
+            "rating": 4.1,
+            "previewUrl": null,
+            "name": "Pride Month Film Fest",
+            "slug": "pride-month-film-fest",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 7,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 2018,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Colors of Love ",
+            "slug": "colors-of-love",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 929,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "LGBTQ Jewellery Sale",
+            "slug": "lgbtq-jewellery-sale",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "4": 8,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 926,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Pride Month Parade Invitation",
+            "slug": "pride-month-parade-invitation",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 921,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "LGBTQ Parade Announcement",
+            "slug": "lgbtq-parade-announcement",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 920,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Pride Month Makeup Brand Promotion",
+            "slug": "pride-month-makeup-brand-promotion",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 919,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Pride Month Cosmetics Discount",
+            "slug": "pride-month-cosmetics-discount",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "5": 16
+            },
+            "type": "email"
+        }
+    ]
+}

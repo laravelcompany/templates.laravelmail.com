@@ -1,0 +1,93 @@
+{
+    "category": "Price List",
+    "templates": [
+        {
+            "id": 1650,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Subscription Plan",
+            "slug": "subscription-plan",
+            "votes": {
+                "3": 1,
+                "4": 8,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1649,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Pricing and Plan",
+            "slug": "pricing-and-plan",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1646,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Quick Services",
+            "slug": "quick-services",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 50
+            },
+            "type": "email"
+        },
+        {
+            "id": 1645,
+            "premium": false,
+            "rating": 4.37,
+            "previewUrl": null,
+            "name": "SPA Offers ",
+            "slug": "spa-offers",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1643,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "New Pricing Plans",
+            "slug": "new-pricing-plans",
+            "votes": {
+                "3": 3,
+                "4": 4,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 1449,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Order Confirmation",
+            "slug": "order-confirmation",
+            "votes": {
+                "1": 18,
+                "2": 4,
+                "3": 22,
+                "4": 50,
+                "5": 321
+            },
+            "type": "email"
+        }
+    ]
+}

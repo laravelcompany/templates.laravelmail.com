@@ -1,0 +1,152 @@
+{
+    "category": "Boxing Day",
+    "templates": [
+        {
+            "id": 2473,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Membership Discount",
+            "slug": "membership-discount",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 5,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 2468,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "Winter Tale",
+            "slug": "winter-tale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 7,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 1737,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Final Hours Boxing Day",
+            "slug": "final-hours-boxing-day",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 3,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1735,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Last Day Sale",
+            "slug": "last-day-sale",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 1,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1731,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Boxing Day Extended",
+            "slug": "boxing-day-extended",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1591,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Winter Gift Card",
+            "slug": "winter-gift-card",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 865,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Boxing Day Gym Membership Discount",
+            "slug": "boxing-day-gym-membership-discount",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 864,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Boxing Day Fitness Costumes sale",
+            "slug": "boxing-day-fitness-costumes-sale",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 4,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 862,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Boxing Equipment On Boxing Day ",
+            "slug": "boxing-equipment-on-boxing-day",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 842,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Boxing Day Furniture Sale",
+            "slug": "boxing-day-furniture-sale",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 11,
+                "5": 20
+            },
+            "type": "email"
+        }
+    ]
+}

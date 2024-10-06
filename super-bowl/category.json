@@ -1,0 +1,104 @@
+{
+    "category": "Super Bowl",
+    "templates": [
+        {
+            "id": 2530,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Game Day special",
+            "slug": "game-day-special",
+            "votes": {
+                "3": 2,
+                "4": 5,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1797,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Super Bowl Tickets",
+            "slug": "super-bowl-tickets",
+            "votes": {
+                "1": 10,
+                "2": 1,
+                "3": 3,
+                "4": 8,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1793,
+            "premium": false,
+            "rating": 2,
+            "previewUrl": null,
+            "name": "Super Bowl Fun",
+            "slug": "super-bowl-fun",
+            "votes": {
+                "1": 2,
+                "4": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 904,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Super Bowl Beer Store Promotion",
+            "slug": "super-bowl-beer-store-promotion",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 903,
+            "premium": false,
+            "rating": 4.12,
+            "previewUrl": null,
+            "name": "Super Bowl Football Equipment Sale",
+            "slug": "super-bowl-football-equipment-sale",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 1,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 902,
+            "premium": false,
+            "rating": 4.95,
+            "previewUrl": null,
+            "name": "Super Bowl Live Streaming",
+            "slug": "super-bowl-live-streaming",
+            "votes": {
+                "4": 1,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 894,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Super Bowl Sports Goods Discount ",
+            "slug": "super-bowl-sports-goods-discount",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        }
+    ]
+}

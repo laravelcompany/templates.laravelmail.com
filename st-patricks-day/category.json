@@ -1,0 +1,88 @@
+{
+    "category": "St. Patrick\u2019s Day",
+    "templates": [
+        {
+            "id": 2602,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "St. Paddy's Day Treats",
+            "slug": "st-paddys-day-treats",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 2599,
+            "premium": false,
+            "rating": 4.24,
+            "previewUrl": null,
+            "name": "Irish Traditions",
+            "slug": "irish-traditions",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 7,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2597,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Green-themed Deals",
+            "slug": "green-themed-deals",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 1905,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Irish Heritage",
+            "slug": "irish-heritage",
+            "votes": {
+                "2": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 1902,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Pot of Gold",
+            "slug": "pot-of-gold",
+            "votes": {
+                "3": 2,
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1288,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "St. Patrick's Day Greetings",
+            "slug": "st-patricks-day-greetings",
+            "votes": {
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        }
+    ]
+}

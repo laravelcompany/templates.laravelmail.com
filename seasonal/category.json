@@ -1,0 +1,442 @@
+{
+    "category": "Seasonal",
+    "templates": [
+        {
+            "id": 2618,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Easter Gift Ideas",
+            "slug": "easter-gift-ideas",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 9,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2485,
+            "premium": false,
+            "rating": 4.06,
+            "previewUrl": null,
+            "name": "Wrap Up the Savings",
+            "slug": "wrap-up-the-savings",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2474,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Holiday Cheer",
+            "slug": "holiday-cheer",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 1854,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Stylish Summer",
+            "slug": "stylish-summer",
+            "votes": {
+                "3": 1,
+                "4": 6,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1838,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Happy Holidays",
+            "slug": "happy-holidays",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 6,
+                "4": 16,
+                "5": 58
+            },
+            "type": "email"
+        },
+        {
+            "id": 1797,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Super Bowl Tickets",
+            "slug": "super-bowl-tickets",
+            "votes": {
+                "1": 10,
+                "2": 1,
+                "3": 3,
+                "4": 8,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1793,
+            "premium": false,
+            "rating": 2,
+            "previewUrl": null,
+            "name": "Super Bowl Fun",
+            "slug": "super-bowl-fun",
+            "votes": {
+                "1": 2,
+                "4": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 1739,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "New Year Deal",
+            "slug": "new-year-deal",
+            "votes": {
+                "3": 2,
+                "4": 4,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1733,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Christmas Movie Night",
+            "slug": "christmas-movie-night",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 7,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1732,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Christmas Jumper Day",
+            "slug": "christmas-jumper-day",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 1730,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Hello Winter",
+            "slug": "hello-winter",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 4,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1729,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Winter Break",
+            "slug": "winter-break",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 11,
+                "5": 66
+            },
+            "type": "email"
+        },
+        {
+            "id": 1728,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Winter Wardrobe",
+            "slug": "winter-wardrobe",
+            "votes": {
+                "3": 1,
+                "4": 7,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 1710,
+            "premium": false,
+            "rating": 4.49,
+            "previewUrl": null,
+            "name": "Final Countdown",
+            "slug": "final-countdown",
+            "votes": {
+                "1": 6,
+                "2": 5,
+                "3": 12,
+                "4": 24,
+                "5": 124
+            },
+            "type": "email"
+        },
+        {
+            "id": 1704,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Happy Thanksgiving",
+            "slug": "happy-thanksgiving",
+            "votes": {
+                "1": 3,
+                "3": 2,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1702,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Employees",
+            "slug": "thanksgiving-email-to-employees",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 8,
+                "4": 6,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1701,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Your Subscribers",
+            "slug": "thanksgiving-email-to-your-subscribers",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 7,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 1628,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Halloween Movie Night",
+            "slug": "halloween-movie-night",
+            "votes": {
+                "4": 4,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1567,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Sneak Peek",
+            "slug": "sneak-peek",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 14,
+                "5": 61
+            },
+            "type": "email"
+        },
+        {
+            "id": 1550,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Women's Day Webinar",
+            "slug": "womens-day-webinar",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1508,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "National Pet Day",
+            "slug": "national-pet-day",
+            "votes": {
+                "1": 3,
+                "3": 4,
+                "4": 11,
+                "5": 53
+            },
+            "type": "email"
+        },
+        {
+            "id": 1422,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Holiday Season Real Estate Discount ",
+            "slug": "holiday-season-real-estate-discount",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 3,
+                "4": 21,
+                "5": 87
+            },
+            "type": "email"
+        },
+        {
+            "id": 1314,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Mother's Day Cosmetics Sale",
+            "slug": "mothers-day-cosmetics-sale",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 25,
+                "4": 17,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 1312,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Mother's Day Shoes Sale",
+            "slug": "mothers-day-shoes-sale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "4": 2,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1309,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Mother's Day Appliance Sale",
+            "slug": "mothers-day-appliance-sale",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 2,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1308,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Mother's Day Jewelry Sale",
+            "slug": "mothers-day-jewelry-sale",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 4,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 917,
+            "premium": false,
+            "rating": 4.32,
+            "previewUrl": null,
+            "name": "Cyber Monday Cosmetics Sale",
+            "slug": "cyber-monday-cosmetics-sale",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 1,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 385,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Seasonal Recipes",
+            "slug": "seasonal-recipes",
+            "votes": {
+                "4": 5,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 239,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Mid Season Sale",
+            "slug": "mid-season-sale",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 2,
+                "5": 11
+            },
+            "type": "email"
+        }
+    ]
+}

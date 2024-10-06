@@ -1,0 +1,58 @@
+{
+    "category": "World Art Day",
+    "templates": [
+        {
+            "id": 1006,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Art Day Invitation for Kindergarteners",
+            "slug": "art-day-invitation-for-kindergarteners",
+            "votes": {
+                "4": 2,
+                "5": 2
+            },
+            "type": "email"
+        },
+        {
+            "id": 962,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Art Day Discount On Art Work",
+            "slug": "art-day-discount-on-art-work",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 955,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "Art Day Sale On Art Supplies",
+            "slug": "art-day-sale-on-art-supplies",
+            "votes": {
+                "4": 2,
+                "5": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 953,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Art Day Event Invitation",
+            "slug": "art-day-event-invitation",
+            "votes": {
+                "3": 1,
+                "5": 1
+            },
+            "type": "email"
+        }
+    ]
+}

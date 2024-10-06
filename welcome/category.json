@@ -1,0 +1,97 @@
+{
+    "category": "Welcome",
+    "templates": [
+        {
+            "id": 2374,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Team Member Introduction Email",
+            "slug": "team-member-introduction-email",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 10,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 1288,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "St. Patrick's Day Greetings",
+            "slug": "st-patricks-day-greetings",
+            "votes": {
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 662,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Welcome Email for Watch Store",
+            "slug": "welcome-email-for-watch-store",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 406,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Welcome Email",
+            "slug": "welcome-email",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 6,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 129,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Job Welcome ",
+            "slug": "job-welcome",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 7,
+                "4": 21,
+                "5": 161
+            },
+            "type": "email"
+        },
+        {
+            "id": 117,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Customer Welcome",
+            "slug": "customer-welcome",
+            "votes": {
+                "1": 5,
+                "2": 3,
+                "3": 4,
+                "4": 21,
+                "5": 87
+            },
+            "type": "email"
+        }
+    ]
+}

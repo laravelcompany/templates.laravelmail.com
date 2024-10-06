@@ -1,0 +1,329 @@
+{
+    "category": "News, Blog & Magazines",
+    "templates": [
+        {
+            "id": 2776,
+            "premium": false,
+            "rating": 4.12,
+            "previewUrl": null,
+            "name": "Back To School News",
+            "slug": "back-to-school-news",
+            "votes": {
+                "1": 5,
+                "2": 2,
+                "4": 4,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2759,
+            "premium": false,
+            "rating": 4.22,
+            "previewUrl": null,
+            "name": "AI and Machine Learning Trends",
+            "slug": "ai-and-machine-learning-trends",
+            "votes": {
+                "1": 4,
+                "3": 3,
+                "4": 10,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2599,
+            "premium": false,
+            "rating": 4.24,
+            "previewUrl": null,
+            "name": "Irish Traditions",
+            "slug": "irish-traditions",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 7,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2397,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Employee Appreciation",
+            "slug": "employee-appreciation",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "5": 3
+            },
+            "type": "email"
+        },
+        {
+            "id": 2393,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Gratitude and Appreciation",
+            "slug": "gratitude-and-appreciation",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 6,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 2199,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Volunteer Fundraising Campaign Email",
+            "slug": "volunteer-fundraising-campaign-email",
+            "votes": {
+                "4": 6,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2189,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Labor Day Newsletter",
+            "slug": "labor-day-newsletter",
+            "votes": {
+                "4": 5,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2144,
+            "premium": false,
+            "rating": 4.93,
+            "previewUrl": null,
+            "name": "Parenting Consultation",
+            "slug": "parenting-consultation",
+            "votes": {
+                "4": 5,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 2003,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Memorial Day Stories",
+            "slug": "memorial-day-stories",
+            "votes": {
+                "3": 1,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 1905,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Irish Heritage",
+            "slug": "irish-heritage",
+            "votes": {
+                "2": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 1365,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "News Subscription",
+            "slug": "news-subscription",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 17,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 1288,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "St. Patrick's Day Greetings",
+            "slug": "st-patricks-day-greetings",
+            "votes": {
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 820,
+            "premium": false,
+            "rating": 4.38,
+            "previewUrl": null,
+            "name": "A Country For Every Citizen",
+            "slug": "a-country-for-every-citizen",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 479,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "World Water Day",
+            "slug": "world-water-day",
+            "votes": {
+                "1": 1,
+                "4": 5,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 406,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Welcome Email",
+            "slug": "welcome-email",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 6,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 371,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Global Generosity",
+            "slug": "global-generosity",
+            "votes": {
+                "4": 3,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 369,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "New Blog Post",
+            "slug": "new-blog-post",
+            "votes": {
+                "4": 4,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 329,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Food Blogger",
+            "slug": "food-blogger",
+            "votes": {
+                "3": 3,
+                "4": 2,
+                "5": 45
+            },
+            "type": "email"
+        },
+        {
+            "id": 252,
+            "premium": false,
+            "rating": 4.13,
+            "previewUrl": null,
+            "name": "Latest News",
+            "slug": "latest-news",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 1,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 246,
+            "premium": false,
+            "rating": 4.44,
+            "previewUrl": null,
+            "name": "Promotional Newsletter",
+            "slug": "promotional-newsletter",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 8,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 241,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Top Stories",
+            "slug": "top-stories",
+            "votes": {
+                "1": 1,
+                "4": 9,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 80,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Video Newsletter",
+            "slug": "video-newsletter",
+            "votes": {
+                "4": 7,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 4,
+            "premium": false,
+            "rating": 3.75,
+            "previewUrl": null,
+            "name": "Magazine Newsletter",
+            "slug": "magazine-news-email-template",
+            "votes": {
+                "1": 4,
+                "3": 4,
+                "4": 6,
+                "5": 10
+            },
+            "type": "email"
+        }
+    ]
+}

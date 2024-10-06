@@ -1,0 +1,76 @@
+{
+    "category": "Martin Luther King Jr Day",
+    "templates": [
+        {
+            "id": 2498,
+            "premium": false,
+            "rating": 3.88,
+            "previewUrl": null,
+            "name": "Civil Rights Deals",
+            "slug": "civil-rights-deals",
+            "votes": {
+                "1": 4,
+                "4": 2,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 2495,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Equality Discounts",
+            "slug": "equality-discounts",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 1776,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Martin Luther King Jr. Day Discount",
+            "slug": "martin-luther-king-jr-day-discount",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 6,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 972,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Guitar Center Martin Luther King Jr. Day",
+            "slug": "guitar-center-martin-luther-king-jr-day",
+            "votes": {
+                "3": 1,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 971,
+            "premium": false,
+            "rating": 3.56,
+            "previewUrl": null,
+            "name": "Martin Luther King Jr. Day Furniture Sale",
+            "slug": "martin-luther-king-jr-day-furniture-sale",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 3,
+                "5": 2
+            },
+            "type": "email"
+        }
+    ]
+}

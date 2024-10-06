@@ -1,0 +1,35 @@
+{
+    "category": "Home & Garden",
+    "templates": [
+        {
+            "id": 2021,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "National Garden Month",
+            "slug": "national-garden-month",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 2020,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Spring Plant Sale",
+            "slug": "spring-plant-sale",
+            "votes": {
+                "2": 1,
+                "4": 2,
+                "5": 32
+            },
+            "type": "email"
+        }
+    ]
+}

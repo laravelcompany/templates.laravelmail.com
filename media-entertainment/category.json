@@ -1,0 +1,640 @@
+{
+    "category": "Media & Entertainment",
+    "templates": [
+        {
+            "id": 2612,
+            "premium": false,
+            "rating": 3.95,
+            "previewUrl": null,
+            "name": "Holi Invitation",
+            "slug": "holi-invitation",
+            "votes": {
+                "1": 2,
+                "3": 5,
+                "4": 2,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 2517,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Recap of the Year",
+            "slug": "recap-of-the-year",
+            "votes": {
+                "1": 1,
+                "5": 3
+            },
+            "type": "email"
+        },
+        {
+            "id": 2492,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Top Moments",
+            "slug": "top-moments",
+            "votes": {
+                "3": 2,
+                "4": 3,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 2471,
+            "premium": false,
+            "rating": 4.13,
+            "previewUrl": null,
+            "name": "Movies for Christmas",
+            "slug": "movies-for-christmas",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 6,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2368,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Student Retention",
+            "slug": "student-retention",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 9,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2335,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Easter Sneak Peek",
+            "slug": "easter-sneak-peek",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2171,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Barbie The Movie Toys",
+            "slug": "barbie-the-movie-toys",
+            "votes": {
+                "1": 1,
+                "4": 2,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 2077,
+            "premium": false,
+            "rating": 4.25,
+            "previewUrl": null,
+            "name": "World Music Day",
+            "slug": "world-music-day",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 2069,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Summer Playlist",
+            "slug": "summer-playlist",
+            "votes": {
+                "3": 1,
+                "4": 6,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 2055,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Limited Edition",
+            "slug": "limited-edition",
+            "votes": {
+                "3": 2,
+                "4": 3,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2027,
+            "premium": false,
+            "rating": 4.1,
+            "previewUrl": null,
+            "name": "Pride Month Film Fest",
+            "slug": "pride-month-film-fest",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 7,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 1876,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Color of Peace and Happiness",
+            "slug": "color-of-peace-and-happiness",
+            "votes": {
+                "1": 1,
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1798,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Valentine\u2019s Movie Night",
+            "slug": "valentines-movie-night",
+            "votes": {
+                "4": 2,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 1753,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "New Sticker Collection",
+            "slug": "new-sticker-collection",
+            "votes": {
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1733,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Christmas Movie Night",
+            "slug": "christmas-movie-night",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 7,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1628,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Halloween Movie Night",
+            "slug": "halloween-movie-night",
+            "votes": {
+                "4": 4,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1649,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Pricing and Plan",
+            "slug": "pricing-and-plan",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 883,
+            "premium": false,
+            "rating": 4.36,
+            "previewUrl": null,
+            "name": "Halloween Celebration Announcement",
+            "slug": "halloween-celebration-announcement",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1616,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Movie Streaming",
+            "slug": "movie-streaming",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 1551,
+            "premium": false,
+            "rating": 4.07,
+            "previewUrl": null,
+            "name": "New Year's Eve ",
+            "slug": "new-years-eve",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 3,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 1420,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Save the Date Holiday Party",
+            "slug": "save-the-date-holiday-party",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1399,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Juneteenth Invitation ",
+            "slug": "juneteenth-invitation",
+            "votes": {
+                "1": 5,
+                "2": 5,
+                "3": 9,
+                "4": 14,
+                "5": 101
+            },
+            "type": "email"
+        },
+        {
+            "id": 1303,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Christmas Party",
+            "slug": "christmas-party",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 13,
+                "5": 144
+            },
+            "type": "email"
+        },
+        {
+            "id": 1276,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Music Production Services Discount",
+            "slug": "music-production-services-discount",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 9,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1274,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Music Day Studio Promotion",
+            "slug": "music-day-studio-promotion",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 1258,
+            "premium": false,
+            "rating": 4.16,
+            "previewUrl": null,
+            "name": "Music School Admission Promotion",
+            "slug": "music-school-admission-promotion",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 9,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 1253,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Music Day Discount",
+            "slug": "music-day-discount",
+            "votes": {
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 1153,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Social Media Event Promotion",
+            "slug": "social-media-event-promotion",
+            "votes": {
+                "2": 1,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1006,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Art Day Invitation for Kindergarteners",
+            "slug": "art-day-invitation-for-kindergarteners",
+            "votes": {
+                "4": 2,
+                "5": 2
+            },
+            "type": "email"
+        },
+        {
+            "id": 972,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Guitar Center Martin Luther King Jr. Day",
+            "slug": "guitar-center-martin-luther-king-jr-day",
+            "votes": {
+                "3": 1,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 962,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Art Day Discount On Art Work",
+            "slug": "art-day-discount-on-art-work",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 955,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "Art Day Sale On Art Supplies",
+            "slug": "art-day-sale-on-art-supplies",
+            "votes": {
+                "4": 2,
+                "5": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 953,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Art Day Event Invitation",
+            "slug": "art-day-event-invitation",
+            "votes": {
+                "3": 1,
+                "5": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 902,
+            "premium": false,
+            "rating": 4.95,
+            "previewUrl": null,
+            "name": "Super Bowl Live Streaming",
+            "slug": "super-bowl-live-streaming",
+            "votes": {
+                "4": 1,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 789,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Music Playlist Promotion",
+            "slug": "music-playlist-promotion",
+            "votes": {
+                "4": 5,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 746,
+            "premium": false,
+            "rating": 4.91,
+            "previewUrl": null,
+            "name": "Music Band Event Promotion",
+            "slug": "music-band-event-promotion",
+            "votes": {
+                "4": 1,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 713,
+            "premium": false,
+            "rating": 4.93,
+            "previewUrl": null,
+            "name": "Music Concert Event",
+            "slug": "music-concert-event",
+            "votes": {
+                "4": 4,
+                "5": 54
+            },
+            "type": "email"
+        },
+        {
+            "id": 577,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "A Night To Remember",
+            "slug": "a-night-to-remember",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "4": 2,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 400,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Video promotion",
+            "slug": "video-promotion",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 5,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 390,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Sports Channel",
+            "slug": "sports-channel",
+            "votes": {
+                "4": 4,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 389,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Content Creator",
+            "slug": "content-creator",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 328,
+            "premium": false,
+            "rating": 4.98,
+            "previewUrl": null,
+            "name": "Week\u2019s trending",
+            "slug": "weeks-trending",
+            "votes": {
+                "4": 1,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 251,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Concert Event",
+            "slug": "concert-event",
+            "votes": {
+                "4": 4,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 189,
+            "premium": false,
+            "rating": 3.71,
+            "previewUrl": null,
+            "name": "Online Music Event",
+            "slug": "online-music-event",
+            "votes": {
+                "3": 2,
+                "4": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 32,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Music Promotion",
+            "slug": "music-promotion",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 21
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "category": "Juneteenth",
+    "templates": [
+        {
+            "id": 2705,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Juneteenth Festival",
+            "slug": "juneteenth-festival",
+            "votes": {
+                "4": 4,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2703,
+            "premium": false,
+            "rating": 4.91,
+            "previewUrl": null,
+            "name": "Juneteenth History",
+            "slug": "juneteenth-history",
+            "votes": {
+                "4": 2,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2046,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Juneteenth Sale",
+            "slug": "juneteenth-sale",
+            "votes": {
+                "1": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2043,
+            "premium": false,
+            "rating": 3.37,
+            "previewUrl": null,
+            "name": "Juneteenth Newsletter",
+            "slug": "juneteenth-newsletter",
+            "votes": {
+                "1": 10,
+                "2": 2,
+                "3": 9,
+                "4": 3,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1399,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Juneteenth Invitation ",
+            "slug": "juneteenth-invitation",
+            "votes": {
+                "1": 5,
+                "2": 5,
+                "3": 9,
+                "4": 14,
+                "5": 101
+            },
+            "type": "email"
+        },
+        {
+            "id": 1398,
+            "premium": false,
+            "rating": 4.19,
+            "previewUrl": null,
+            "name": "Juneteenth Pre School Activates ",
+            "slug": "juneteenth-pre-school-activates",
+            "votes": {
+                "1": 6,
+                "2": 3,
+                "3": 4,
+                "4": 9,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 1397,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Juneteenth March Announcement",
+            "slug": "juneteenth-march-announcement",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 14,
+                "5": 76
+            },
+            "type": "email"
+        }
+    ]
+}

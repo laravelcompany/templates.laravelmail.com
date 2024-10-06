@@ -1,0 +1,33 @@
+{
+    "category": "Mental Health Awareness Month",
+    "templates": [
+        {
+            "id": 2010,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Mental Health Services",
+            "slug": "mental-health-services",
+            "votes": {
+                "4": 10,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 1608,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Email Marketing Fundamentals",
+            "slug": "email-marketing-fundamentals",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 9,
+                "5": 43
+            },
+            "type": "email"
+        }
+    ]
+}

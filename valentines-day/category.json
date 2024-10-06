@@ -1,0 +1,178 @@
+{
+    "category": "Valentines Day",
+    "templates": [
+        {
+            "id": 2539,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Love- Struck Savings",
+            "slug": "love-struck-savings",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2535,
+            "premium": false,
+            "rating": 4.92,
+            "previewUrl": null,
+            "name": "Valentine's Day to Him",
+            "slug": "valentines-day-to-him",
+            "votes": {
+                "4": 1,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 2532,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Valentine's Day to Teacher",
+            "slug": "valentines-day-to-teacher",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2528,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Valentine's Countdown",
+            "slug": "valentines-countdown",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 4,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 2511,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Gift List",
+            "slug": "gift-list",
+            "votes": {
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2509,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Gift Ideas",
+            "slug": "gift-ideas",
+            "votes": {
+                "2": 2,
+                "3": 1,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 1799,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Valentine's Coffee Break",
+            "slug": "valentines-coffee-break",
+            "votes": {
+                "4": 2,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1798,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Valentine\u2019s Movie Night",
+            "slug": "valentines-movie-night",
+            "votes": {
+                "4": 2,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 1590,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Valentine's Day Gift Card",
+            "slug": "valentines-day-gift-card",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 4,
+                "4": 9,
+                "5": 43
+            },
+            "type": "email"
+        },
+        {
+            "id": 323,
+            "premium": false,
+            "rating": 3.75,
+            "previewUrl": null,
+            "name": "Valentine Day Sale",
+            "slug": "valentine-day-sale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 4,
+                "4": 2,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 293,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Valentine's Day Promotion",
+            "slug": "valentines-day-promotion",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 281,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Happy Valentines",
+            "slug": "happy-valentine",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 3,
+                "4": 12,
+                "5": 64
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "category": "Fathers Day",
+    "templates": [
+        {
+            "id": 2700,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Father's Day Cards",
+            "slug": "fathers-day-cards",
+            "votes": {
+                "3": 2,
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2053,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Father's Day Newsletter",
+            "slug": "fathers-day-newsletter",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 2,
+                "4": 10,
+                "5": 86
+            },
+            "type": "email"
+        },
+        {
+            "id": 2050,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Father's Day Discount",
+            "slug": "fathers-day-discount",
+            "votes": {
+                "3": 3,
+                "4": 5,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 1402,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Father's Day Perfume Sale",
+            "slug": "fathers-day-perfume-sale",
+            "votes": {
+                "1": 5,
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 693,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Father's Day Business Development Event",
+            "slug": "fathers-day-business-development-event",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 12,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 690,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Father's Day Fashion Accessories ",
+            "slug": "fathers-day-fashion-accessories",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 13
+            },
+            "type": "email"
+        }
+    ]
+}

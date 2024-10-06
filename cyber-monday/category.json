@@ -1,0 +1,119 @@
+{
+    "category": "Cyber Monday",
+    "templates": [
+        {
+            "id": 2406,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Cyber Monday Gym Discount",
+            "slug": "cyber-monday-gym-discount",
+            "votes": {
+                "4": 3,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 1710,
+            "premium": false,
+            "rating": 4.49,
+            "previewUrl": null,
+            "name": "Final Countdown",
+            "slug": "final-countdown",
+            "votes": {
+                "1": 6,
+                "2": 5,
+                "3": 12,
+                "4": 24,
+                "5": 124
+            },
+            "type": "email"
+        },
+        {
+            "id": 917,
+            "premium": false,
+            "rating": 4.32,
+            "previewUrl": null,
+            "name": "Cyber Monday Cosmetics Sale",
+            "slug": "cyber-monday-cosmetics-sale",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 1,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 916,
+            "premium": false,
+            "rating": 4.26,
+            "previewUrl": null,
+            "name": "Cyber Monday Tourism Trip Discount",
+            "slug": "cyber-monday-tourism-trip-discount",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 6,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 910,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Cyber Monday Fashion Winter Collection",
+            "slug": "cyber-monday-fashion-winter-collection",
+            "votes": {
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 900,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Cyber Monday Tech Gadgets Sale",
+            "slug": "cyber-monday-tech-gadgets-sale",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 178,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Cyber Monday Offer",
+            "slug": "cyber-monday-offer",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 5,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Cyber Monday Sale",
+            "slug": "cyber-monday-sale",
+            "votes": {
+                "3": 2,
+                "4": 10,
+                "5": 105
+            },
+            "type": "email"
+        }
+    ]
+}

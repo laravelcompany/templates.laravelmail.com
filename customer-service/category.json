@@ -1,0 +1,323 @@
+{
+    "category": "Customer Service",
+    "templates": [
+        {
+            "id": 2329,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Praise and Recognition",
+            "slug": "praise-and-recognition",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2311,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Testimonial Showcase",
+            "slug": "testimonial-showcase",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2309,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Voices of Customers",
+            "slug": "voices-of-customers",
+            "votes": {
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2248,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Quality Assurance Compliance Reminder Email",
+            "slug": "quality-assurance-compliance-reminder-email",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 4,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 2220,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Quality Assurance Documentation",
+            "slug": "quality-assurance-documentation",
+            "votes": {
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 2210,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Team Update",
+            "slug": "team-update",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2201,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Quality Audit Findings Email",
+            "slug": "quality-audit-findings-email",
+            "votes": {
+                "4": 2,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 2177,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Schedule a Demo",
+            "slug": "schedule-a-demo",
+            "votes": {
+                "2": 1,
+                "4": 3,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 2147,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Change Request Email",
+            "slug": "change-request-email",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "5": 39
+            },
+            "type": "email"
+        },
+        {
+            "id": 2001,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Subscription is Expiring Soon",
+            "slug": "subscription-is-expiring-soon",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1997,
+            "premium": false,
+            "rating": 4.36,
+            "previewUrl": null,
+            "name": "Client Feedback",
+            "slug": "client-feedback",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 6,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1937,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Customer Support",
+            "slug": "customer-support",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 10,
+                "5": 85
+            },
+            "type": "email"
+        },
+        {
+            "id": 1918,
+            "premium": false,
+            "rating": 4.51,
+            "previewUrl": null,
+            "name": "Customer Success Stories",
+            "slug": "customer-success-stories",
+            "votes": {
+                "1": 3,
+                "3": 6,
+                "4": 11,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 1916,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Book a Demo",
+            "slug": "book-a-demo",
+            "votes": {
+                "1": 5,
+                "2": 4,
+                "3": 8,
+                "4": 28,
+                "5": 150
+            },
+            "type": "email"
+        },
+        {
+            "id": 826,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Customers Feedback Request",
+            "slug": "customers-feedback-request",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 16,
+                "5": 82
+            },
+            "type": "email"
+        },
+        {
+            "id": 797,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Tech Support Follow Up",
+            "slug": "tech-support-follow-up",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 4,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 725,
+            "premium": false,
+            "rating": 4.29,
+            "previewUrl": null,
+            "name": "Tech Shop Customer Service",
+            "slug": "tech-shop-customer-service",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 3
+            },
+            "type": "email"
+        },
+        {
+            "id": 723,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Housekeeping Customer Service",
+            "slug": "housekeeping-customer-service",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 719,
+            "premium": false,
+            "rating": 4.51,
+            "previewUrl": null,
+            "name": "Car Wash Customer Service ",
+            "slug": "car-wash-customer-service",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 21,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 715,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Salon Customer Service",
+            "slug": "salon-customer-service",
+            "votes": {
+                "4": 3,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 707,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Hotel Customer Service",
+            "slug": "hotel-customer-service",
+            "votes": {
+                "2": 2,
+                "3": 2,
+                "4": 8,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 704,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Restaurant Customer Service",
+            "slug": "restaurant-customer-service",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 1,
+                "5": 16
+            },
+            "type": "email"
+        }
+    ]
+}

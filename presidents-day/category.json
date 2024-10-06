@@ -1,0 +1,173 @@
+{
+    "category": "Presidents Day",
+    "templates": [
+        {
+            "id": 2579,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Presidential Flash Sale",
+            "slug": "presidential-flash-sale",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 4,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2576,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Celebrate Presidents' Day",
+            "slug": "celebrate-presidents-day",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 1805,
+            "premium": false,
+            "rating": 4.38,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Discounts",
+            "slug": "presidents-day-discounts",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 8,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 878,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Holiday Announcement ",
+            "slug": "presidents-day-holiday-announcement",
+            "votes": {
+                "4": 5,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 876,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Sale Kitchen Appliances",
+            "slug": "presidents-day-sale-kitchen-appliances",
+            "votes": {
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 874,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Sale Jewelry",
+            "slug": "presidents-day-sale-jewelry",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 869,
+            "premium": false,
+            "rating": 4.95,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Toys Sale",
+            "slug": "presidents-day-toys-sale",
+            "votes": {
+                "4": 1,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 867,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Smart Watch Sale",
+            "slug": "presidents-day-smart-watch-sale",
+            "votes": {
+                "3": 4,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 861,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Laptops Sale ",
+            "slug": "presidents-day-laptops-sale",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 860,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Furniture Sale",
+            "slug": "presidents-day-furniture-sale",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 859,
+            "premium": false,
+            "rating": 4.21,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Electronics Sale",
+            "slug": "presidents-day-electronics-sale",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 858,
+            "premium": false,
+            "rating": 3.8,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day New Fashion Arrival",
+            "slug": "presidents-day-new-fashion-arrival",
+            "votes": {
+                "1": 1,
+                "4": 2,
+                "5": 2
+            },
+            "type": "email"
+        }
+    ]
+}

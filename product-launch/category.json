@@ -1,0 +1,282 @@
+{
+    "category": "Product Launch",
+    "templates": [
+        {
+            "id": 2399,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Thanksgiving Food",
+            "slug": "thanksgiving-food",
+            "votes": {
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2378,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Stay Tuned",
+            "slug": "stay-tuned",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 2,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2355,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "New Collection Launch",
+            "slug": "new-collection-launch",
+            "votes": {
+                "3": 4,
+                "4": 9,
+                "5": 42
+            },
+            "type": "email"
+        },
+        {
+            "id": 2352,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Sneak Peek Unlocked",
+            "slug": "sneak-peek-unlocked",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2339,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Sneak Preview",
+            "slug": "sneak-preview",
+            "votes": {
+                "3": 2,
+                "4": 3,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 2243,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Opening Soon",
+            "slug": "opening-soon",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 6,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 2077,
+            "premium": false,
+            "rating": 4.25,
+            "previewUrl": null,
+            "name": "World Music Day",
+            "slug": "world-music-day",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 2069,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Summer Playlist",
+            "slug": "summer-playlist",
+            "votes": {
+                "3": 1,
+                "4": 6,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 2055,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Limited Edition",
+            "slug": "limited-edition",
+            "votes": {
+                "3": 2,
+                "4": 3,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 1660,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Software Product Launch",
+            "slug": "software-product-launch",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 8,
+                "4": 10,
+                "5": 90
+            },
+            "type": "email"
+        },
+        {
+            "id": 1654,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Announcement for New Feature",
+            "slug": "announcement-for-new-feature",
+            "votes": {
+                "1": 3,
+                "3": 1,
+                "4": 9,
+                "5": 45
+            },
+            "type": "email"
+        },
+        {
+            "id": 823,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Mobile App Launch Announcement",
+            "slug": "mobile-app-launch-announcement",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 8,
+                "5": 60
+            },
+            "type": "email"
+        },
+        {
+            "id": 516,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "Car Dealer",
+            "slug": "car-dealer",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 10,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 396,
+            "premium": false,
+            "rating": 4.94,
+            "previewUrl": null,
+            "name": "Organic Product",
+            "slug": "organic-product",
+            "votes": {
+                "4": 2,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 308,
+            "premium": false,
+            "rating": 4.41,
+            "previewUrl": null,
+            "name": "New Product",
+            "slug": "new-product",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 5,
+                "4": 7,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 282,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Product Advertisement",
+            "slug": "product-advertisement",
+            "votes": {
+                "1": 6,
+                "2": 2,
+                "3": 6,
+                "4": 18,
+                "5": 110
+            },
+            "type": "email"
+        },
+        {
+            "id": 240,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Launch New App",
+            "slug": "launch-new-app",
+            "votes": {
+                "3": 4,
+                "4": 10,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 197,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Automobile",
+            "slug": "automobile",
+            "votes": {
+                "4": 5,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 26,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Soft Drinks",
+            "slug": "soft-drinks",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 8,
+                "5": 20
+            },
+            "type": "email"
+        }
+    ]
+}

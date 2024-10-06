@@ -1,0 +1,152 @@
+{
+    "category": "Referral",
+    "templates": [
+        {
+            "id": 2519,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Referral Introduction Email",
+            "slug": "referral-introduction-email",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 4,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 2414,
+            "premium": false,
+            "rating": 4.95,
+            "previewUrl": null,
+            "name": "Client Referral",
+            "slug": "client-referral",
+            "votes": {
+                "4": 4,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 1585,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Referral Gift Card",
+            "slug": "referral-gift-card",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 14,
+                "5": 82
+            },
+            "type": "email"
+        },
+        {
+            "id": 1144,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "CV Referral for Employment ",
+            "slug": "cv-referral-for-employment",
+            "votes": {
+                "3": 2,
+                "4": 5,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 1098,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Car Sales Referral",
+            "slug": "car-sales-referral",
+            "votes": {
+                "3": 2,
+                "4": 6,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 1094,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "B2B Sales Referral",
+            "slug": "b2b-sales-referral",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1093,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Generic Business Referral",
+            "slug": "generic-business-referral",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1091,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Client Acquisition Referral for Business",
+            "slug": "client-acquisition-referral-for-business",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1090,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Employees Hiring Referral Bonus",
+            "slug": "employees-hiring-referral-bonus",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 4,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 1086,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "HR Interview Referral",
+            "slug": "hr-interview-referral",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 4,
+                "4": 19,
+                "5": 133
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "category": "Friendship Day",
+    "templates": [
+        {
+            "id": 1069,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Event Space On Friendship Day",
+            "slug": "event-space-on-friendship-day",
+            "votes": {
+                "4": 2,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1067,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Friendship Day  Jewellery Sale",
+            "slug": "friendship-day-jewellery-sale",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 20
+            },
+            "type": "email"
+        }
+    ]
+}

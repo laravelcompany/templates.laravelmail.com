@@ -1,0 +1,117 @@
+{
+    "category": "Hospitality",
+    "templates": [
+        {
+            "id": 2720,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Pet-Friendly Accommodations",
+            "slug": "pet-friendly-accommodations",
+            "votes": {
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2714,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Event Venue Specials",
+            "slug": "event-venue-specials",
+            "votes": {
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 2706,
+            "premium": false,
+            "rating": 4.18,
+            "previewUrl": null,
+            "name": "Local Attractions Guide",
+            "slug": "local-attractions-guide",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2697,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Seasonal Promotions for Hotel Stays",
+            "slug": "seasonal-promotions-for-hotel-stays",
+            "votes": {
+                "4": 5,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 812,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Hotel Advance Booking",
+            "slug": "hotel-advance-booking",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 808,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Single Property & Apartment Booking",
+            "slug": "single-property-apartment-booking",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 3,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 807,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Travel & Tourism Advance Booking",
+            "slug": "travel-and-tourism-advance-booking",
+            "votes": {
+                "2": 2,
+                "3": 2,
+                "4": 3,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 790,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Hotel Booking Confirmation",
+            "slug": "hotel-booking-confirmation",
+            "votes": {
+                "1": 4,
+                "2": 4,
+                "3": 11,
+                "4": 19,
+                "5": 165
+            },
+            "type": "email"
+        }
+    ]
+}

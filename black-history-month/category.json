@@ -1,0 +1,102 @@
+{
+    "category": "Black History Month",
+    "templates": [
+        {
+            "id": 2375,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Black History Month Newsletter",
+            "slug": "black-history-month-newsletter",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 6,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 2350,
+            "premium": false,
+            "rating": 4.44,
+            "previewUrl": null,
+            "name": "Black History Month Art Exhibition",
+            "slug": "black-history-month-art-exhibition",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 968,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Black History Month Trivia Announcement",
+            "slug": "black-history-month-trivia-announcement",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 967,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Black History Month Middle School Activities",
+            "slug": "black-history-month-middle-school-activities",
+            "votes": {
+                "4": 4,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 963,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Black History Month Activities for College Students",
+            "slug": "black-history-month-activities-for-college-students",
+            "votes": {
+                "1": 1,
+                "4": 9,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 961,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Black History Month Celebration Invitation",
+            "slug": "black-history-month-celebration-invitation",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 960,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Black History Month March Announcement",
+            "slug": "black-history-month-march-announcement",
+            "votes": {
+                "5": 4
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "category": "Invoice",
+    "templates": [
+        {
+            "id": 1364,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Marketing Agency Invoice",
+            "slug": "marketing-agency-invoice",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 10,
+                "5": 57
+            },
+            "type": "email"
+        },
+        {
+            "id": 1360,
+            "premium": false,
+            "rating": 4.17,
+            "previewUrl": null,
+            "name": "Cafe Invoice",
+            "slug": "cafe-invoice",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 1357,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Stock Invoice",
+            "slug": "stock-invoice",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 46
+            },
+            "type": "email"
+        },
+        {
+            "id": 1316,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Consulting Service Invoice ",
+            "slug": "consulting-service-invoice",
+            "votes": {
+                "1": 6,
+                "2": 3,
+                "3": 5,
+                "4": 25,
+                "5": 200
+            },
+            "type": "email"
+        },
+        {
+            "id": 1306,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Appliances Purchase Invoice",
+            "slug": "real-estate-commission-invoice",
+            "votes": {
+                "1": 6,
+                "2": 1,
+                "3": 4,
+                "4": 15,
+                "5": 154
+            },
+            "type": "email"
+        },
+        {
+            "id": 675,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Invoice Payment Reminder ",
+            "slug": "invoice-payment-reminder",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 16,
+                "4": 33,
+                "5": 177
+            },
+            "type": "email"
+        },
+        {
+            "id": 551,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Past Due Invoice",
+            "slug": "past-due-invoice",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 22,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 248,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Invoice",
+            "slug": "invoice",
+            "votes": {
+                "1": 3,
+                "3": 7,
+                "4": 29,
+                "5": 144
+            },
+            "type": "email"
+        }
+    ]
+}

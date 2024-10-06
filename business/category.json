@@ -1,0 +1,1529 @@
+{
+    "category": "Business",
+    "templates": [
+        {
+            "id": 2581,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Storytelling with Infographics",
+            "slug": "storytelling-with-infographics",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 9,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 2523,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Progress and Success",
+            "slug": "progress-and-success",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2516,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Conference Introduction Email",
+            "slug": "conference-introduction-email",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 51
+            },
+            "type": "email"
+        },
+        {
+            "id": 2513,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Looking Back",
+            "slug": "looking-back",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 7,
+                "5": 42
+            },
+            "type": "email"
+        },
+        {
+            "id": 2370,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Weekly Update",
+            "slug": "weekly-update",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 4,
+                "4": 19,
+                "5": 147
+            },
+            "type": "email"
+        },
+        {
+            "id": 2311,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Testimonial Showcase",
+            "slug": "testimonial-showcase",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2220,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Quality Assurance Documentation",
+            "slug": "quality-assurance-documentation",
+            "votes": {
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 2210,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Team Update",
+            "slug": "team-update",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2183,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Pitch your Services",
+            "slug": "pitch-your-services",
+            "votes": {
+                "3": 2,
+                "4": 7,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 2181,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Alumni Reunion Invitation",
+            "slug": "alumni-reunion-invitation",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 2,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 2180,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Message from CEO",
+            "slug": "message-from-ceo",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 9,
+                "5": 61
+            },
+            "type": "email"
+        },
+        {
+            "id": 2163,
+            "premium": false,
+            "rating": 4.09,
+            "previewUrl": null,
+            "name": "Stakeholder Communication",
+            "slug": "stakeholder-communication",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 4,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2159,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Request for Project Resources",
+            "slug": "request-for-project-resources",
+            "votes": {
+                "1": 8,
+                "3": 6,
+                "4": 16,
+                "5": 83
+            },
+            "type": "email"
+        },
+        {
+            "id": 2158,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Project Meeting Agenda",
+            "slug": "project-meeting-agenda",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 2156,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Task Assignment",
+            "slug": "task-assignment",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2153,
+            "premium": false,
+            "rating": 4.26,
+            "previewUrl": null,
+            "name": "Team Recognition",
+            "slug": "team-recognition",
+            "votes": {
+                "2": 5,
+                "3": 2,
+                "4": 4,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2151,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Project Budget Update Email",
+            "slug": "project-budget-update-email",
+            "votes": {
+                "2": 1,
+                "4": 8,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 2142,
+            "premium": false,
+            "rating": 4.38,
+            "previewUrl": null,
+            "name": "Business Consultation",
+            "slug": "business-consultation",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 17,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1916,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Book a Demo",
+            "slug": "book-a-demo",
+            "votes": {
+                "1": 5,
+                "2": 4,
+                "3": 8,
+                "4": 28,
+                "5": 150
+            },
+            "type": "email"
+        },
+        {
+            "id": 1912,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Client Acquisition",
+            "slug": "client-acquisition",
+            "votes": {
+                "1": 7,
+                "2": 1,
+                "3": 10,
+                "4": 28,
+                "5": 177
+            },
+            "type": "email"
+        },
+        {
+            "id": 1899,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Dispute Resolution",
+            "slug": "dispute-resolution",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 12,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 1774,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Building Maintenance",
+            "slug": "building-maintenance",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 6,
+                "4": 11,
+                "5": 120
+            },
+            "type": "email"
+        },
+        {
+            "id": 1759,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Health and Safety Guidelines",
+            "slug": "health-and-safety-guidelines",
+            "votes": {
+                "1": 2,
+                "2": 4,
+                "3": 1,
+                "4": 17,
+                "5": 69
+            },
+            "type": "email"
+        },
+        {
+            "id": 1756,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "New Employee Announcement",
+            "slug": "new-employee-announcement",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1755,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Pulse Survey",
+            "slug": "pulse-survey",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 7,
+                "4": 47,
+                "5": 200
+            },
+            "type": "email"
+        },
+        {
+            "id": 1747,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Event Announcement",
+            "slug": "event-announcement",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 13,
+                "5": 109
+            },
+            "type": "email"
+        },
+        {
+            "id": 1702,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Employees",
+            "slug": "thanksgiving-email-to-employees",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 8,
+                "4": 6,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1643,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "New Pricing Plans",
+            "slug": "new-pricing-plans",
+            "votes": {
+                "3": 3,
+                "4": 4,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 1641,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "B2B Newsletter",
+            "slug": "b2b-newsletter",
+            "votes": {
+                "3": 5,
+                "4": 18,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 1632,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Business Outreach",
+            "slug": "business-outreach",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 2,
+                "4": 12,
+                "5": 76
+            },
+            "type": "email"
+        },
+        {
+            "id": 1390,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Corporate Anniversary",
+            "slug": "corporate-anniversary",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 2,
+                "4": 5,
+                "5": 75
+            },
+            "type": "email"
+        },
+        {
+            "id": 1369,
+            "premium": false,
+            "rating": 4.37,
+            "previewUrl": null,
+            "name": "Retirement Party",
+            "slug": "retirement-party",
+            "votes": {
+                "1": 9,
+                "3": 3,
+                "4": 12,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 1364,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Marketing Agency Invoice",
+            "slug": "marketing-agency-invoice",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 10,
+                "5": 57
+            },
+            "type": "email"
+        },
+        {
+            "id": 1357,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Stock Invoice",
+            "slug": "stock-invoice",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 46
+            },
+            "type": "email"
+        },
+        {
+            "id": 1316,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Consulting Service Invoice ",
+            "slug": "consulting-service-invoice",
+            "votes": {
+                "1": 6,
+                "2": 3,
+                "3": 5,
+                "4": 25,
+                "5": 200
+            },
+            "type": "email"
+        },
+        {
+            "id": 1282,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Finance Newsletter Re-Engagement Email Template",
+            "slug": "Finance-newsletter-re-engagement-email-template",
+            "votes": {
+                "2": 1,
+                "4": 21,
+                "5": 109
+            },
+            "type": "email"
+        },
+        {
+            "id": 1249,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Apology For Cancellation Of Meeting",
+            "slug": "apology-for-cancellation-of-meeting",
+            "votes": {
+                "1": 3,
+                "4": 23,
+                "5": 38
+            },
+            "type": "email"
+        },
+        {
+            "id": 1246,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Apology For Late Customer Response",
+            "slug": "apology-for-late-customer-response",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 1245,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Apology For Not Attending Call",
+            "slug": "apology-for-not-attending-call",
+            "votes": {
+                "4": 5,
+                "5": 25
+            },
+            "type": "email"
+        },
+        {
+            "id": 1210,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Apology To Customer For Delay In Delivery",
+            "slug": "apology-to-customer-for-delay-in-delivery",
+            "votes": {
+                "3": 2,
+                "4": 12,
+                "5": 38
+            },
+            "type": "email"
+        },
+        {
+            "id": 1208,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Apology to Fellow Colleague",
+            "slug": "apology-to-fellow-colleague",
+            "votes": {
+                "1": 3,
+                "2": 2,
+                "3": 5,
+                "4": 25,
+                "5": 89
+            },
+            "type": "email"
+        },
+        {
+            "id": 1205,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Apology to Ecommerce Customer",
+            "slug": "apology-to-ecommerce-customer",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 8,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 1183,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Apology Email to Company Boss",
+            "slug": "apology-email-to-company-boss",
+            "votes": {
+                "1": 1,
+                "2": 5,
+                "3": 3,
+                "4": 4,
+                "5": 53
+            },
+            "type": "email"
+        },
+        {
+            "id": 1181,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Apology For Not Attending Meeting",
+            "slug": "apology-for-not-attending-meeting",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 3,
+                "4": 5,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1179,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Apology For Sending Wrong Email",
+            "slug": "apology-for-sending-wrong-email",
+            "votes": {
+                "1": 7,
+                "2": 7,
+                "3": 19,
+                "4": 70,
+                "5": 344
+            },
+            "type": "email"
+        },
+        {
+            "id": 1176,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Apology For Late Payment To Supplier",
+            "slug": "apology-for-late-payment-to-supplier",
+            "votes": {
+                "1": 5,
+                "2": 4,
+                "3": 6,
+                "4": 24,
+                "5": 115
+            },
+            "type": "email"
+        },
+        {
+            "id": 1163,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Formal Business Apology",
+            "slug": "formal-business-apology",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 5,
+                "4": 12,
+                "5": 82
+            },
+            "type": "email"
+        },
+        {
+            "id": 1161,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Proof Of Product Delivery",
+            "slug": "proof-of-product-delivery",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 8,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 1159,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Product Delivery Update",
+            "slug": "product-delivery-update",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 19,
+                "5": 76
+            },
+            "type": "email"
+        },
+        {
+            "id": 1156,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Delivery Confirmation Email",
+            "slug": "delivery-confirmation-email",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 6,
+                "4": 17,
+                "5": 87
+            },
+            "type": "email"
+        },
+        {
+            "id": 1155,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Business Service Delivery Details",
+            "slug": "business-service-delivery-details",
+            "votes": {
+                "1": 17,
+                "2": 8,
+                "3": 24,
+                "4": 113,
+                "5": 634
+            },
+            "type": "email"
+        },
+        {
+            "id": 1154,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Project Delivery Details",
+            "slug": "project-delivery-details",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 5,
+                "4": 20,
+                "5": 107
+            },
+            "type": "email"
+        },
+        {
+            "id": 1138,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Client Background Verification",
+            "slug": "client-background-verification",
+            "votes": {
+                "1": 5,
+                "2": 2,
+                "3": 11,
+                "4": 32,
+                "5": 184
+            },
+            "type": "email"
+        },
+        {
+            "id": 1136,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Appointment Verification Request",
+            "slug": "apointment-verification-request",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 12,
+                "4": 20,
+                "5": 180
+            },
+            "type": "email"
+        },
+        {
+            "id": 1134,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Employee Background Verification",
+            "slug": "employee-background-verification",
+            "votes": {
+                "1": 2,
+                "3": 13,
+                "4": 51,
+                "5": 269
+            },
+            "type": "email"
+        },
+        {
+            "id": 1094,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "B2B Sales Referral",
+            "slug": "b2b-sales-referral",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1093,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Generic Business Referral",
+            "slug": "generic-business-referral",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1091,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Client Acquisition Referral for Business",
+            "slug": "client-acquisition-referral-for-business",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 1055,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Women\u2019s Day Company Announcement",
+            "slug": "womens-day-company-announcement",
+            "votes": {
+                "4": 5,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 1045,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Women\u2019s Day Corporate Event Announcement",
+            "slug": "womens-day-corporate-event-announcement",
+            "votes": {
+                "4": 3,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 893,
+            "premium": false,
+            "rating": 4.92,
+            "previewUrl": null,
+            "name": "Newsletter for Business Consulting",
+            "slug": "newsletter-for-business-consulting",
+            "votes": {
+                "4": 4,
+                "5": 46
+            },
+            "type": "email"
+        },
+        {
+            "id": 889,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Veterans Day Remembering Heroes",
+            "slug": "veterans-day-remembering-heroes",
+            "votes": {
+                "3": 4,
+                "4": 6,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 878,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Holiday Announcement ",
+            "slug": "presidents-day-holiday-announcement",
+            "votes": {
+                "4": 5,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 842,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Boxing Day Furniture Sale",
+            "slug": "boxing-day-furniture-sale",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 11,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 812,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Hotel Advance Booking",
+            "slug": "hotel-advance-booking",
+            "votes": {
+                "1": 1,
+                "4": 3,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 810,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "IT Solutions & Services Company",
+            "slug": "it-solutions-services-company",
+            "votes": {
+                "4": 6,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 804,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Meeting Follow Up",
+            "slug": "meeting-follow-up",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 1,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 796,
+            "premium": false,
+            "rating": 4.36,
+            "previewUrl": null,
+            "name": "Trade Show Follow Up",
+            "slug": "trade-show-follow-up",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 748,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Business Conference Reminder",
+            "slug": "business-conference-reminder",
+            "votes": {
+                "2": 1,
+                "4": 4,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 723,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Housekeeping Customer Service",
+            "slug": "housekeeping-customer-service",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 712,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Sports Equipment Shop",
+            "slug": "sports-equipment-shop",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 710,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Insurance Promotion",
+            "slug": "Insurance-promotion",
+            "votes": {
+                "4": 4,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 702,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Beauty Cosmetics Shop",
+            "slug": "beauty-cosmetics-shop",
+            "votes": {
+                "3": 2,
+                "4": 6,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 696,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Employee Engagement Survey",
+            "slug": "employee-engagement-survey",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 14,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 693,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Father's Day Business Development Event",
+            "slug": "fathers-day-business-development-event",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 12,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 683,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Compliance Training Reminder",
+            "slug": "compliance-training-reminder",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 682,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Meeting Reminder",
+            "slug": "meeting-reminder",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 8,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 678,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Appointment Reminder",
+            "slug": "appointment-reminder",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 10,
+                "4": 61,
+                "5": 231
+            },
+            "type": "email"
+        },
+        {
+            "id": 676,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Legal Consultancy Service",
+            "slug": "legal-consultancy-service",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 675,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Invoice Payment Reminder ",
+            "slug": "invoice-payment-reminder",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 16,
+                "4": 33,
+                "5": 177
+            },
+            "type": "email"
+        },
+        {
+            "id": 667,
+            "premium": false,
+            "rating": 4.24,
+            "previewUrl": null,
+            "name": "Furniture Promotion",
+            "slug": "furniture-promotion",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 661,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "New Client Onboarding",
+            "slug": "new-client-onboarding",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 576,
+            "premium": false,
+            "rating": 4.38,
+            "previewUrl": null,
+            "name": "Elevator Pitch",
+            "slug": "elevator-pitch",
+            "votes": {
+                "3": 1,
+                "4": 22,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 575,
+            "premium": false,
+            "rating": 4.38,
+            "previewUrl": null,
+            "name": "Generic Sales Follow Up",
+            "slug": "generic-sales-follow-up",
+            "votes": {
+                "3": 3,
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 566,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Thanks Subscriber",
+            "slug": "thanks-subscriber",
+            "votes": {
+                "1": 2,
+                "3": 4,
+                "4": 5,
+                "5": 47
+            },
+            "type": "email"
+        },
+        {
+            "id": 558,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Registration Confirmation",
+            "slug": "registration-confirmation",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 13,
+                "5": 89
+            },
+            "type": "email"
+        },
+        {
+            "id": 556,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Shipping Confirmation",
+            "slug": "shipping-confirmation",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 16,
+                "5": 137
+            },
+            "type": "email"
+        },
+        {
+            "id": 549,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Startup Fund",
+            "slug": "startup-fund",
+            "votes": {
+                "1": 1,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 522,
+            "premium": false,
+            "rating": 4.3,
+            "previewUrl": null,
+            "name": "Webinar Follow Up",
+            "slug": "webinar-follow-up",
+            "votes": {
+                "1": 3,
+                "4": 4,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 460,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Food Offer",
+            "slug": "offers",
+            "votes": {
+                "4": 6,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 386,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Online Store",
+            "slug": "online-store",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 378,
+            "premium": false,
+            "rating": 4.94,
+            "previewUrl": null,
+            "name": "Business Advertising",
+            "slug": "business-advertising",
+            "votes": {
+                "4": 2,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 374,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Birthday Discount ",
+            "slug": "birthday-special-discount",
+            "votes": {
+                "1": 1,
+                "4": 2,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 331,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Agency Services",
+            "slug": "agency-services",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 308,
+            "premium": false,
+            "rating": 4.41,
+            "previewUrl": null,
+            "name": "New Product",
+            "slug": "new-product",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 5,
+                "4": 7,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 285,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Online Shop",
+            "slug": "online-shop",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 254,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Corporate Services",
+            "slug": "corporate-services",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 6,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 238,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Sales Boot Camp",
+            "slug": "sales-boot-camp",
+            "votes": {
+                "3": 2,
+                "4": 8,
+                "5": 56
+            },
+            "type": "email"
+        },
+        {
+            "id": 178,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Cyber Monday Offer",
+            "slug": "cyber-monday-offer",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 6,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Delivery Confirmation",
+            "slug": "delivery-confirmation",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 2,
+                "4": 20,
+                "5": 166
+            },
+            "type": "email"
+        },
+        {
+            "id": 12,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Business Promotion Newsletter",
+            "slug": "business-promotion-newsletter",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 1,
+                "4": 11,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 19,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Simple Offer",
+            "slug": "simple-offer",
+            "votes": {
+                "1": 5,
+                "2": 4,
+                "3": 10,
+                "4": 38,
+                "5": 260
+            },
+            "type": "email"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "category": "Awareness",
+    "templates": [
+        {
+            "id": 2797,
+            "premium": false,
+            "rating": null,
+            "previewUrl": null,
+            "name": "Join us this October",
+            "slug": "join-us-this-october",
+            "votes": [],
+            "type": "email"
+        },
+        {
+            "id": 2763,
+            "premium": false,
+            "rating": 4.24,
+            "previewUrl": null,
+            "name": "Community Health Events Calendar",
+            "slug": "community-health-events-calendar",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2722,
+            "premium": false,
+            "rating": 4.29,
+            "previewUrl": null,
+            "name": "Patient Education Webinars",
+            "slug": "patient-education-webinars",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 6,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2719,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Wellness Workshop Registration",
+            "slug": "wellness-workshop-registration",
+            "votes": {
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2705,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Juneteenth Festival",
+            "slug": "juneteenth-festival",
+            "votes": {
+                "4": 4,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2703,
+            "premium": false,
+            "rating": 4.91,
+            "previewUrl": null,
+            "name": "Juneteenth History",
+            "slug": "juneteenth-history",
+            "votes": {
+                "4": 2,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2683,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Recycle and Reuse",
+            "slug": "recycle-and-reuse",
+            "votes": {
+                "1": 3,
+                "3": 3,
+                "4": 9,
+                "5": 45
+            },
+            "type": "email"
+        },
+        {
+            "id": 2680,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Environmental Impact",
+            "slug": "environmental-impact",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 3,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2607,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Climate Change and Water",
+            "slug": "climate-change-and-water",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2591,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Women's voices",
+            "slug": "womens-voices",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 16,
+                "5": 38
+            },
+            "type": "email"
+        },
+        {
+            "id": 2364,
+            "premium": false,
+            "rating": 4.49,
+            "previewUrl": null,
+            "name": "Breast Health Resources",
+            "slug": "breast-health-resources",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2010,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Mental Health Services",
+            "slug": "mental-health-services",
+            "votes": {
+                "4": 10,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 1622,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Breast Cancer Fundraising",
+            "slug": "breast-cancer-fundraising",
+            "votes": {
+                "1": 1,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1621,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Wear Pink",
+            "slug": "wear-pink",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 3,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1495,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Scam Email Warning",
+            "slug": "scam-email-warning",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 1475,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Phishing Awareness",
+            "slug": "phishing-awareness",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 5,
+                "5": 47
+            },
+            "type": "email"
+        },
+        {
+            "id": 1466,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Drug Awareness",
+            "slug": "drug-awareness",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 35
+            },
+            "type": "email"
+        },
+        {
+            "id": 1465,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Diabetes Awareness ",
+            "slug": "diabetes-awareness",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 1429,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Cybersecurity Awareness",
+            "slug": "cybersecurity-awareness",
+            "votes": {
+                "3": 4,
+                "4": 7,
+                "5": 33
+            },
+            "type": "email"
+        }
+    ]
+}

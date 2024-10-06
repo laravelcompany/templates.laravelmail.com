@@ -1,0 +1,48 @@
+{
+    "category": "Hanukkah",
+    "templates": [
+        {
+            "id": 1726,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Hanukkah Promotion Discounts",
+            "slug": "hanukkah-promotion-discounts",
+            "votes": {
+                "4": 1,
+                "5": 1
+            },
+            "type": "email"
+        },
+        {
+            "id": 1725,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Hanukkah Sale",
+            "slug": "hanukkah-sale",
+            "votes": {
+                "1": 5,
+                "2": 2,
+                "3": 5,
+                "4": 11,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 1292,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Hanukkah Invitation",
+            "slug": "hanukah-invitation",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 24
+            },
+            "type": "email"
+        }
+    ]
+}

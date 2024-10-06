@@ -1,0 +1,818 @@
+{
+    "category": "Food & Beverage",
+    "templates": [
+        {
+            "id": 2602,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "St. Paddy's Day Treats",
+            "slug": "st-paddys-day-treats",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 2509,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Gift Ideas",
+            "slug": "gift-ideas",
+            "votes": {
+                "2": 2,
+                "3": 1,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2490,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "New Year Recipe",
+            "slug": "new-year-recipe",
+            "votes": {
+                "1": 2,
+                "3": 2,
+                "4": 7,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 2402,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Thanksgiving Dessert",
+            "slug": "thanksgiving-dessert",
+            "votes": {
+                "1": 1,
+                "4": 1,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2400,
+            "premium": false,
+            "rating": 4.87,
+            "previewUrl": null,
+            "name": "Thanksgiving Dinner",
+            "slug": "thanksgiving-dinner",
+            "votes": {
+                "4": 2,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2399,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Thanksgiving Food",
+            "slug": "thanksgiving-food",
+            "votes": {
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 2396,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Vegan Recipes",
+            "slug": "vegan-recipes",
+            "votes": {
+                "2": 1,
+                "4": 4,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2389,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Plant-Based Diet",
+            "slug": "plant-based-diet",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 6,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 2359,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Spooky Halloween",
+            "slug": "spooky-halloween",
+            "votes": {
+                "2": 2,
+                "3": 3,
+                "4": 5,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 2215,
+            "premium": false,
+            "rating": 4.45,
+            "previewUrl": null,
+            "name": "Labor Day Activities",
+            "slug": "labor-day-activities",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 9,
+                "5": 32
+            },
+            "type": "email"
+        },
+        {
+            "id": 2207,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Exclusive Discounts",
+            "slug": "exclusive-discounts",
+            "votes": {
+                "2": 2,
+                "4": 7,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 2168,
+            "premium": false,
+            "rating": 4.44,
+            "previewUrl": null,
+            "name": "Public Relation Outreach",
+            "slug": "public-relation-outreach",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 2123,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Snack Smarter",
+            "slug": "snack-smarter",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 2118,
+            "premium": false,
+            "rating": 4.17,
+            "previewUrl": null,
+            "name": "Delicious Cookies",
+            "slug": "delicious-cookies",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 4,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 2079,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "4th of July Menu",
+            "slug": "4th-of-july-menu",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 3,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2066,
+            "premium": false,
+            "rating": 3.29,
+            "previewUrl": null,
+            "name": "Family Meal Month",
+            "slug": "family-meal-month",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 2,
+                "5": 2
+            },
+            "type": "email"
+        },
+        {
+            "id": 2018,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Colors of Love ",
+            "slug": "colors-of-love",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2009,
+            "premium": false,
+            "rating": 4.94,
+            "previewUrl": null,
+            "name": "Memorial Day Deals",
+            "slug": "memorial-day-deals",
+            "votes": {
+                "4": 2,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 1934,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Rate Delivery",
+            "slug": "rate-delivery",
+            "votes": {
+                "1": 3,
+                "2": 4,
+                "3": 2,
+                "4": 4,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1799,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Valentine's Coffee Break",
+            "slug": "valentines-coffee-break",
+            "votes": {
+                "4": 2,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1704,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Happy Thanksgiving",
+            "slug": "happy-thanksgiving",
+            "votes": {
+                "1": 3,
+                "3": 2,
+                "4": 5,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1701,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Thanksgiving Email to Your Subscribers",
+            "slug": "thanksgiving-email-to-your-subscribers",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 7,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 1698,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "Black Friday Starts Now ",
+            "slug": "black-friday-starts-now",
+            "votes": {
+                "1": 7,
+                "2": 3,
+                "3": 2,
+                "4": 15,
+                "5": 57
+            },
+            "type": "email"
+        },
+        {
+            "id": 1665,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Sweet Treat",
+            "slug": "sweet-treat",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 1624,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Halloween Fair Shop",
+            "slug": "halloween-fair-shop",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 6,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 1638,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "Diwali Deals",
+            "slug": "diwali-deals",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 8,
+                "5": 39
+            },
+            "type": "email"
+        },
+        {
+            "id": 881,
+            "premium": false,
+            "rating": 4.29,
+            "previewUrl": null,
+            "name": "Halloween Pets Treat Discount",
+            "slug": "halloween-pets-treat-discount",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1590,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Valentine's Day Gift Card",
+            "slug": "valentines-day-gift-card",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 4,
+                "4": 9,
+                "5": 43
+            },
+            "type": "email"
+        },
+        {
+            "id": 1569,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Free Food",
+            "slug": "free-food",
+            "votes": {
+                "3": 2,
+                "4": 12,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 1567,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Sneak Peek",
+            "slug": "sneak-peek",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 14,
+                "5": 61
+            },
+            "type": "email"
+        },
+        {
+            "id": 1413,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Birthday Discounts",
+            "slug": "birthday-discounts",
+            "votes": {
+                "1": 2,
+                "3": 6,
+                "4": 4,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 1360,
+            "premium": false,
+            "rating": 4.17,
+            "previewUrl": null,
+            "name": "Cafe Invoice",
+            "slug": "cafe-invoice",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 1296,
+            "premium": false,
+            "rating": 4.49,
+            "previewUrl": null,
+            "name": "Best Recipes for Easter",
+            "slug": "best-recipes-for-easter",
+            "votes": {
+                "1": 2,
+                "2": 4,
+                "3": 3,
+                "4": 2,
+                "5": 44
+            },
+            "type": "email"
+        },
+        {
+            "id": 1194,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Feedback For Restaurant Customer Service",
+            "slug": "feedback-for-restaurant-customer-service",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 8,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 1160,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Food Items Delivery Notification",
+            "slug": "food-items-delivery-notification",
+            "votes": {
+                "1": 1,
+                "2": 3,
+                "3": 2,
+                "4": 14,
+                "5": 97
+            },
+            "type": "email"
+        },
+        {
+            "id": 1078,
+            "premium": false,
+            "rating": 4.46,
+            "previewUrl": null,
+            "name": "Restaurant Bad Service Apology",
+            "slug": "restaurant-bad-service-apology",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1044,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Women\u2019s Day Restaurant Discount ",
+            "slug": "womens-day-restaurant-discount",
+            "votes": {
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 1015,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Vegan Restaurants Earth Day Special",
+            "slug": "vegan-restaurants-earth-day-special",
+            "votes": {
+                "4": 2,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 939,
+            "premium": false,
+            "rating": 3.93,
+            "previewUrl": null,
+            "name": "Memorial Day Deserts Discount",
+            "slug": "memorial-day-deserts-discount",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 3,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 904,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Super Bowl Beer Store Promotion",
+            "slug": "super-bowl-beer-store-promotion",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 854,
+            "premium": false,
+            "rating": 4.27,
+            "previewUrl": null,
+            "name": "Easter Discount for Beverages ",
+            "slug": "easter-discount-for-beverages",
+            "votes": {
+                "1": 1,
+                "4": 7,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 704,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Restaurant Customer Service",
+            "slug": "restaurant-customer-service",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "4": 1,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 677,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Culinary Weekend Event Reminder",
+            "slug": "culinary-weekend-event-reminder",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 5,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 641,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Food Photography",
+            "slug": "food-photography",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 467,
+            "premium": false,
+            "rating": 4.25,
+            "previewUrl": null,
+            "name": "Best Coffee",
+            "slug": "best-coffee",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 457,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Cinco de Mayo",
+            "slug": "cinco-de-mayo",
+            "votes": {
+                "1": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 397,
+            "premium": false,
+            "rating": 3.87,
+            "previewUrl": null,
+            "name": "Fast Food",
+            "slug": "fast-food",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 4,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 385,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Seasonal Recipes",
+            "slug": "seasonal-recipes",
+            "votes": {
+                "4": 5,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 294,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Restaurant Delivery",
+            "slug": "holiday-sale",
+            "votes": {
+                "3": 4,
+                "4": 4,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 284,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Christmas Discount",
+            "slug": "christmas-discount",
+            "votes": {
+                "1": 2,
+                "2": 4,
+                "3": 5,
+                "4": 25,
+                "5": 130
+            },
+            "type": "email"
+        },
+        {
+            "id": 192,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Witch Hats Optional",
+            "slug": "witch-hats-optional",
+            "votes": {
+                "4": 2,
+                "5": 16
+            },
+            "type": "email"
+        },
+        {
+            "id": 112,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Agriculture",
+            "slug": "agriculture",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 4,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 8,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Free Drink",
+            "slug": "reward-free-giveaway",
+            "votes": {
+                "1": 3,
+                "3": 6,
+                "4": 26,
+                "5": 152
+            },
+            "type": "email"
+        },
+        {
+            "id": 26,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Soft Drinks",
+            "slug": "soft-drinks",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 8,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 48,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Wine",
+            "slug": "wine",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 4,
+                "5": 31
+            },
+            "type": "email"
+        }
+    ]
+}

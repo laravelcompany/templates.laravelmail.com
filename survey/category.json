@@ -1,0 +1,99 @@
+{
+    "category": "Survey",
+    "templates": [
+        {
+            "id": 2193,
+            "premium": false,
+            "rating": 4.53,
+            "previewUrl": null,
+            "name": "Alumni Survey",
+            "slug": "alumni-survey",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 4,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 1769,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Quick Question",
+            "slug": "quick-question",
+            "votes": {
+                "1": 5,
+                "2": 1,
+                "3": 3,
+                "4": 11,
+                "5": 95
+            },
+            "type": "email"
+        },
+        {
+            "id": 1755,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Pulse Survey",
+            "slug": "pulse-survey",
+            "votes": {
+                "1": 4,
+                "2": 2,
+                "3": 7,
+                "4": 47,
+                "5": 200
+            },
+            "type": "email"
+        },
+        {
+            "id": 1613,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Black and White Short Survey Invitation",
+            "slug": "black-and-white-short-survey-invitation",
+            "votes": {
+                "1": 2,
+                "3": 5,
+                "4": 16,
+                "5": 55
+            },
+            "type": "email"
+        },
+        {
+            "id": 696,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Employee Engagement Survey",
+            "slug": "employee-engagement-survey",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 14,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 9,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Google Review",
+            "slug": "google-review",
+            "votes": {
+                "1": 10,
+                "2": 6,
+                "3": 18,
+                "4": 83,
+                "5": 596
+            },
+            "type": "email"
+        }
+    ]
+}

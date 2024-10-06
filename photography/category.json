@@ -1,0 +1,103 @@
+{
+    "category": "Photography",
+    "templates": [
+        {
+            "id": 645,
+            "premium": false,
+            "rating": 4.84,
+            "previewUrl": null,
+            "name": "Birthday Photography",
+            "slug": "birthday-photography",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 644,
+            "premium": false,
+            "rating": 4.13,
+            "previewUrl": null,
+            "name": "Photographer Contract Signing",
+            "slug": "photographer-contract-signing",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 1,
+                "5": 5
+            },
+            "type": "email"
+        },
+        {
+            "id": 643,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Creative Portrait Photography",
+            "slug": "creative-portrait-photography",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 641,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Food Photography",
+            "slug": "food-photography",
+            "votes": {
+                "1": 1,
+                "4": 4,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 515,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Product Photography",
+            "slug": "product-photography",
+            "votes": {
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 481,
+            "premium": false,
+            "rating": 4.85,
+            "previewUrl": null,
+            "name": "Portrait Photography",
+            "slug": "portrait-photography",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 30,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Camera",
+            "slug": "camera",
+            "votes": {
+                "3": 1,
+                "4": 7,
+                "5": 15
+            },
+            "type": "email"
+        }
+    ]
+}

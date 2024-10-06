@@ -1,0 +1,77 @@
+{
+    "category": "Teaser",
+    "templates": [
+        {
+            "id": 2378,
+            "premium": false,
+            "rating": 4.6,
+            "previewUrl": null,
+            "name": "Stay Tuned",
+            "slug": "stay-tuned",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 2,
+                "5": 20
+            },
+            "type": "email"
+        },
+        {
+            "id": 2355,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "New Collection Launch",
+            "slug": "new-collection-launch",
+            "votes": {
+                "3": 4,
+                "4": 9,
+                "5": 42
+            },
+            "type": "email"
+        },
+        {
+            "id": 2352,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Sneak Peek Unlocked",
+            "slug": "sneak-peek-unlocked",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2339,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Sneak Preview",
+            "slug": "sneak-preview",
+            "votes": {
+                "3": 2,
+                "4": 3,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 2335,
+            "premium": false,
+            "rating": 4.57,
+            "previewUrl": null,
+            "name": "Easter Sneak Peek",
+            "slug": "easter-sneak-peek",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 16
+            },
+            "type": "email"
+        }
+    ]
+}

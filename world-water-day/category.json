@@ -1,0 +1,105 @@
+{
+    "category": "World Water Day",
+    "templates": [
+        {
+            "id": 2607,
+            "premium": false,
+            "rating": 4,
+            "previewUrl": null,
+            "name": "Climate Change and Water",
+            "slug": "climate-change-and-water",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 1032,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Giving Charity For Each Water Bottle Sold",
+            "slug": "giving-charity-for-each-water-bottle-sold",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1030,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Water Day Awareness Event Invitation ",
+            "slug": "water-day-awareness-event-invitation",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 5,
+                "5": 33
+            },
+            "type": "email"
+        },
+        {
+            "id": 1028,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "World Water Crisis Awareness",
+            "slug": "world-water-crisis-awareness",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1024,
+            "premium": false,
+            "rating": 4.83,
+            "previewUrl": null,
+            "name": "Clean Water NGO Promotion",
+            "slug": "clean-water-ngo-promotion",
+            "votes": {
+                "1": 1,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 1023,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Support Clean Water Drive",
+            "slug": "support-clean-water-drive",
+            "votes": {
+                "3": 2,
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1020,
+            "premium": false,
+            "rating": 4.86,
+            "previewUrl": null,
+            "name": "Fundraising For Clean Water",
+            "slug": "fundraising-for-clean-water",
+            "votes": {
+                "4": 3,
+                "5": 19
+            },
+            "type": "email"
+        }
+    ]
+}

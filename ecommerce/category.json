@@ -1,0 +1,996 @@
+{
+    "category": "Ecommerce",
+    "templates": [
+        {
+            "id": 2700,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Father's Day Cards",
+            "slug": "fathers-day-cards",
+            "votes": {
+                "3": 2,
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2699,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Flag Day Discounts",
+            "slug": "flag-day-discounts",
+            "votes": {
+                "4": 2,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2696,
+            "premium": false,
+            "rating": 4.73,
+            "previewUrl": null,
+            "name": "Bundle Deals and Packages",
+            "slug": "bundle-deals-and-packages",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 2,
+                "4": 6,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 2693,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "New Arrivals Showcase",
+            "slug": "new-arrivals-showcase",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 1,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2689,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Memorial Day Weekend",
+            "slug": "memorial-day-weekend",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 2,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 2677,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Digital Gifts for Mom",
+            "slug": "digital-gifts-for-mom",
+            "votes": {
+                "3": 2,
+                "4": 7,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2618,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Easter Gift Ideas",
+            "slug": "easter-gift-ideas",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 9,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2615,
+            "premium": false,
+            "rating": 4.18,
+            "previewUrl": null,
+            "name": "Spring Flowers",
+            "slug": "spring-flowers",
+            "votes": {
+                "1": 2,
+                "3": 3,
+                "4": 4,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2610,
+            "premium": false,
+            "rating": 4.92,
+            "previewUrl": null,
+            "name": "Eco-friendly Holi",
+            "slug": "eco-friendly-holi",
+            "votes": {
+                "4": 2,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2604,
+            "premium": false,
+            "rating": 4.89,
+            "previewUrl": null,
+            "name": "Flash Sales",
+            "slug": "flash-sales",
+            "votes": {
+                "4": 1,
+                "5": 8
+            },
+            "type": "email"
+        },
+        {
+            "id": 2597,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Green-themed Deals",
+            "slug": "green-themed-deals",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 2528,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Valentine's Countdown",
+            "slug": "valentines-countdown",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 4,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 2511,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Gift List",
+            "slug": "gift-list",
+            "votes": {
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 2509,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Gift Ideas",
+            "slug": "gift-ideas",
+            "votes": {
+                "2": 2,
+                "3": 1,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2498,
+            "premium": false,
+            "rating": 3.88,
+            "previewUrl": null,
+            "name": "Civil Rights Deals",
+            "slug": "civil-rights-deals",
+            "votes": {
+                "1": 4,
+                "4": 2,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 2468,
+            "premium": false,
+            "rating": 4.11,
+            "previewUrl": null,
+            "name": "Winter Tale",
+            "slug": "winter-tale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "3": 7,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2416,
+            "premium": false,
+            "rating": 4.24,
+            "previewUrl": null,
+            "name": "Black Friday Books Sale",
+            "slug": "black-friday-books-sale",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2409,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Black Friday Coupons",
+            "slug": "black-friday-coupons",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 2381,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Halloween Grand Sale",
+            "slug": "halloween-grand-sale",
+            "votes": {
+                "3": 1,
+                "4": 3,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 2373,
+            "premium": false,
+            "rating": 4.95,
+            "previewUrl": null,
+            "name": "Product Usage Tips",
+            "slug": "product-usage-tips",
+            "votes": {
+                "4": 2,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 2355,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "New Collection Launch",
+            "slug": "new-collection-launch",
+            "votes": {
+                "3": 4,
+                "4": 9,
+                "5": 42
+            },
+            "type": "email"
+        },
+        {
+            "id": 2344,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Happy Hour",
+            "slug": "happy-hour",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 11,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2342,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Special Occasion",
+            "slug": "special-occasion",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 27
+            },
+            "type": "email"
+        },
+        {
+            "id": 2331,
+            "premium": false,
+            "rating": 4.56,
+            "previewUrl": null,
+            "name": "Your Wishlist Come True",
+            "slug": "your-wishlist-come-true",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 1805,
+            "premium": false,
+            "rating": 4.38,
+            "previewUrl": null,
+            "name": "Presidents\u2019 Day Discounts",
+            "slug": "presidents-day-discounts",
+            "votes": {
+                "1": 1,
+                "3": 4,
+                "4": 8,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1732,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Christmas Jumper Day",
+            "slug": "christmas-jumper-day",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 1668,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Investor Update",
+            "slug": "investor-update",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 14,
+                "5": 85
+            },
+            "type": "email"
+        },
+        {
+            "id": 1562,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Free Shipping Discount",
+            "slug": "free-shipping-discount",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 2,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 1473,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "One Day Offer",
+            "slug": "one-day-offer",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 6,
+                "5": 50
+            },
+            "type": "email"
+        },
+        {
+            "id": 1427,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Mountain Bikes Tourism Day Deal",
+            "slug": "mountain-bikes-tourism-day-deal",
+            "votes": {
+                "4": 7,
+                "5": 60
+            },
+            "type": "email"
+        },
+        {
+            "id": 1373,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Beauty Products Back in Stock",
+            "slug": "beauty-products-back-in-stock",
+            "votes": {
+                "1": 5,
+                "2": 3,
+                "3": 4,
+                "4": 11,
+                "5": 61
+            },
+            "type": "email"
+        },
+        {
+            "id": 1279,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Subscription software re-engagement",
+            "slug": "subscription-software-re-engagement",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 25,
+                "5": 153
+            },
+            "type": "email"
+        },
+        {
+            "id": 1277,
+            "premium": false,
+            "rating": 4.49,
+            "previewUrl": null,
+            "name": "Clothing store re-engagement",
+            "slug": "clothing-store-re-engagement",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 9,
+                "5": 38
+            },
+            "type": "email"
+        },
+        {
+            "id": 1205,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Apology to Ecommerce Customer",
+            "slug": "apology-to-ecommerce-customer",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 8,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 1159,
+            "premium": false,
+            "rating": 4.62,
+            "previewUrl": null,
+            "name": "Product Delivery Update",
+            "slug": "product-delivery-update",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 19,
+                "5": 76
+            },
+            "type": "email"
+        },
+        {
+            "id": 1145,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Delay In Order Delivery",
+            "slug": "delay-in-order-delivery",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 15,
+                "5": 144
+            },
+            "type": "email"
+        },
+        {
+            "id": 944,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Memorial Day Fashion Sale",
+            "slug": "memorial-day-fashion-sale",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 4,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 932,
+            "premium": false,
+            "rating": 4.94,
+            "previewUrl": null,
+            "name": "Memorial Day Appliances Sale",
+            "slug": "memorial-day-appliances-sale",
+            "votes": {
+                "4": 1,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 903,
+            "premium": false,
+            "rating": 4.12,
+            "previewUrl": null,
+            "name": "Super Bowl Football Equipment Sale",
+            "slug": "super-bowl-football-equipment-sale",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 1,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 894,
+            "premium": false,
+            "rating": 4.74,
+            "previewUrl": null,
+            "name": "Super Bowl Sports Goods Discount ",
+            "slug": "super-bowl-sports-goods-discount",
+            "votes": {
+                "3": 1,
+                "4": 5,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 864,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Boxing Day Fitness Costumes sale",
+            "slug": "boxing-day-fitness-costumes-sale",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 4,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 862,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Boxing Equipment On Boxing Day ",
+            "slug": "boxing-equipment-on-boxing-day",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 851,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Easter Sale on Furniture",
+            "slug": "easter-sale-on-furniture",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 4,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 712,
+            "premium": false,
+            "rating": 4.77,
+            "previewUrl": null,
+            "name": "Sports Equipment Shop",
+            "slug": "sports-equipment-shop",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "5": 41
+            },
+            "type": "email"
+        },
+        {
+            "id": 675,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Invoice Payment Reminder ",
+            "slug": "invoice-payment-reminder",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 16,
+                "4": 33,
+                "5": 177
+            },
+            "type": "email"
+        },
+        {
+            "id": 662,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Welcome Email for Watch Store",
+            "slug": "welcome-email-for-watch-store",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 34
+            },
+            "type": "email"
+        },
+        {
+            "id": 598,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "4th of July Flash Sales",
+            "slug": "4th-of-july-flash-sales",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 4,
+                "5": 30
+            },
+            "type": "email"
+        },
+        {
+            "id": 528,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "May Day Sale",
+            "slug": "may-day-sale",
+            "votes": {
+                "3": 1,
+                "4": 1,
+                "5": 4
+            },
+            "type": "email"
+        },
+        {
+            "id": 462,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Remote Working",
+            "slug": "special-offers",
+            "votes": {
+                "3": 1,
+                "5": 10
+            },
+            "type": "email"
+        },
+        {
+            "id": 460,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Food Offer",
+            "slug": "offers",
+            "votes": {
+                "4": 6,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 393,
+            "premium": false,
+            "rating": 4.92,
+            "previewUrl": null,
+            "name": "Nail Care",
+            "slug": "cosmetic-product",
+            "votes": {
+                "4": 1,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 386,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Online Store",
+            "slug": "online-store",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 23
+            },
+            "type": "email"
+        },
+        {
+            "id": 335,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Furnished Furniture",
+            "slug": "furnished-furniture",
+            "votes": {
+                "3": 1,
+                "4": 4,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 325,
+            "premium": false,
+            "rating": 4.33,
+            "previewUrl": null,
+            "name": "Technology Devices",
+            "slug": "notification",
+            "votes": {
+                "1": 5,
+                "2": 3,
+                "4": 10,
+                "5": 40
+            },
+            "type": "email"
+        },
+        {
+            "id": 285,
+            "premium": false,
+            "rating": 4.64,
+            "previewUrl": null,
+            "name": "Online Shop",
+            "slug": "online-shop",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 261,
+            "premium": false,
+            "rating": 4.68,
+            "previewUrl": null,
+            "name": "Moving company",
+            "slug": "moving-company",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 9,
+                "5": 36
+            },
+            "type": "email"
+        },
+        {
+            "id": 239,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Mid Season Sale",
+            "slug": "mid-season-sale",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 2,
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 247,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Summer Wardrobe",
+            "slug": "summer-wardrobe",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 12
+            },
+            "type": "email"
+        },
+        {
+            "id": 248,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Invoice",
+            "slug": "invoice",
+            "votes": {
+                "1": 3,
+                "3": 7,
+                "4": 29,
+                "5": 144
+            },
+            "type": "email"
+        },
+        {
+            "id": 244,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Black Friday Deal",
+            "slug": "black-friday-deal",
+            "votes": {
+                "1": 2,
+                "2": 3,
+                "3": 3,
+                "4": 11,
+                "5": 94
+            },
+            "type": "email"
+        },
+        {
+            "id": 178,
+            "premium": false,
+            "rating": 4.48,
+            "previewUrl": null,
+            "name": "Cyber Monday Offer",
+            "slug": "cyber-monday-offer",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 117,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Customer Welcome",
+            "slug": "customer-welcome",
+            "votes": {
+                "1": 5,
+                "2": 3,
+                "3": 4,
+                "4": 21,
+                "5": 87
+            },
+            "type": "email"
+        },
+        {
+            "id": 116,
+            "premium": false,
+            "rating": 4.5,
+            "previewUrl": null,
+            "name": "Follow-Up Cart",
+            "slug": "abandon-cart",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 7
+            },
+            "type": "email"
+        },
+        {
+            "id": 81,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Women's Day Discount",
+            "slug": "womens-day-discount",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 5,
+                "5": 55
+            },
+            "type": "email"
+        },
+        {
+            "id": 75,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Beauty Brand",
+            "slug": "beauty-brand",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 64
+            },
+            "type": "email"
+        },
+        {
+            "id": 5,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "Cyber Monday Sale",
+            "slug": "cyber-monday-sale",
+            "votes": {
+                "3": 2,
+                "4": 10,
+                "5": 105
+            },
+            "type": "email"
+        },
+        {
+            "id": 19,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Simple Offer",
+            "slug": "simple-offer",
+            "votes": {
+                "1": 5,
+                "2": 4,
+                "3": 10,
+                "4": 38,
+                "5": 260
+            },
+            "type": "email"
+        }
+    ]
+}

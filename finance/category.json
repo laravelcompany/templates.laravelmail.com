@@ -1,0 +1,285 @@
+{
+    "category": "Finance",
+    "templates": [
+        {
+            "id": 2590,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Fintech Startups Email",
+            "slug": "fintech-startups-email",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 2,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 2588,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Personal Finance Newsletter",
+            "slug": "personal-finance-newsletter",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 4,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2586,
+            "premium": false,
+            "rating": 4.39,
+            "previewUrl": null,
+            "name": "Banking Email",
+            "slug": "banking-email",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 22
+            },
+            "type": "email"
+        },
+        {
+            "id": 2366,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Motivation Retention",
+            "slug": "motivation-retention",
+            "votes": {
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 65
+            },
+            "type": "email"
+        },
+        {
+            "id": 2148,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Project Status Report",
+            "slug": "project-status-report",
+            "votes": {
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 2138,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Legal Consultation",
+            "slug": "legal-consultation",
+            "votes": {
+                "4": 1,
+                "5": 2
+            },
+            "type": "email"
+        },
+        {
+            "id": 2131,
+            "premium": false,
+            "rating": 4.9,
+            "previewUrl": null,
+            "name": "Financial Consultation ",
+            "slug": "financial-consultation",
+            "votes": {
+                "3": 1,
+                "5": 19
+            },
+            "type": "email"
+        },
+        {
+            "id": 1891,
+            "premium": false,
+            "rating": 4.75,
+            "previewUrl": null,
+            "name": "Legal Agreement",
+            "slug": "legal-agreement",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 4,
+                "5": 56
+            },
+            "type": "email"
+        },
+        {
+            "id": 1673,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Finance Annual Report ",
+            "slug": "finance-annual-report",
+            "votes": {
+                "1": 4,
+                "3": 3,
+                "4": 7,
+                "5": 119
+            },
+            "type": "email"
+        },
+        {
+            "id": 1668,
+            "premium": false,
+            "rating": 4.76,
+            "previewUrl": null,
+            "name": "Investor Update",
+            "slug": "investor-update",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 14,
+                "5": 85
+            },
+            "type": "email"
+        },
+        {
+            "id": 1488,
+            "premium": false,
+            "rating": 4.79,
+            "previewUrl": null,
+            "name": "Education Loan",
+            "slug": "education-loan",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "4": 8,
+                "5": 60
+            },
+            "type": "email"
+        },
+        {
+            "id": 1282,
+            "premium": false,
+            "rating": 4.82,
+            "previewUrl": null,
+            "name": "Finance Newsletter Re-Engagement Email Template",
+            "slug": "Finance-newsletter-re-engagement-email-template",
+            "votes": {
+                "2": 1,
+                "4": 21,
+                "5": 109
+            },
+            "type": "email"
+        },
+        {
+            "id": 822,
+            "premium": false,
+            "rating": 4.55,
+            "previewUrl": null,
+            "name": "Banking Credit Card Experience",
+            "slug": "banking-credit-card-experience",
+            "votes": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "4": 7,
+                "5": 31
+            },
+            "type": "email"
+        },
+        {
+            "id": 817,
+            "premium": false,
+            "rating": 4.59,
+            "previewUrl": null,
+            "name": "You Just Received Money!",
+            "slug": "you-just-received-money",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 15,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 552,
+            "premium": false,
+            "rating": 4.78,
+            "previewUrl": null,
+            "name": "Payment Reminder",
+            "slug": "payment-reminder",
+            "votes": {
+                "3": 5,
+                "4": 7,
+                "5": 67
+            },
+            "type": "email"
+        },
+        {
+            "id": 551,
+            "premium": false,
+            "rating": 4.63,
+            "previewUrl": null,
+            "name": "Past Due Invoice",
+            "slug": "past-due-invoice",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 22,
+                "5": 72
+            },
+            "type": "email"
+        },
+        {
+            "id": 549,
+            "premium": false,
+            "rating": 4.43,
+            "previewUrl": null,
+            "name": "Startup Fund",
+            "slug": "startup-fund",
+            "votes": {
+                "1": 1,
+                "5": 6
+            },
+            "type": "email"
+        },
+        {
+            "id": 531,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "Payment Confirmation",
+            "slug": "payment-confirmation",
+            "votes": {
+                "1": 4,
+                "2": 1,
+                "4": 10,
+                "5": 70
+            },
+            "type": "email"
+        },
+        {
+            "id": 248,
+            "premium": false,
+            "rating": 4.7,
+            "previewUrl": null,
+            "name": "Invoice",
+            "slug": "invoice",
+            "votes": {
+                "1": 3,
+                "3": 7,
+                "4": 29,
+                "5": 144
+            },
+            "type": "email"
+        }
+    ]
+}

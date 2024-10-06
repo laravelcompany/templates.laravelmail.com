@@ -1,0 +1,151 @@
+{
+    "category": "Mother's Day",
+    "templates": [
+        {
+            "id": 2677,
+            "premium": false,
+            "rating": 4.71,
+            "previewUrl": null,
+            "name": "Digital Gifts for Mom",
+            "slug": "digital-gifts-for-mom",
+            "votes": {
+                "3": 2,
+                "4": 7,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 2675,
+            "premium": false,
+            "rating": 5,
+            "previewUrl": null,
+            "name": "Mother's Day Message",
+            "slug": "mothers-day-message",
+            "votes": {
+                "5": 11
+            },
+            "type": "email"
+        },
+        {
+            "id": 1993,
+            "premium": false,
+            "rating": 4.81,
+            "previewUrl": null,
+            "name": "Mother's Day Gift",
+            "slug": "mothers-day-gift",
+            "votes": {
+                "1": 2,
+                "4": 2,
+                "5": 49
+            },
+            "type": "email"
+        },
+        {
+            "id": 1990,
+            "premium": false,
+            "rating": 4.51,
+            "previewUrl": null,
+            "name": "Mother's Day Discounts",
+            "slug": "mothers-day-discounts",
+            "votes": {
+                "1": 2,
+                "2": 2,
+                "4": 4,
+                "5": 29
+            },
+            "type": "email"
+        },
+        {
+            "id": 1579,
+            "premium": false,
+            "rating": 4.52,
+            "previewUrl": null,
+            "name": "Mother's Day Gift Card",
+            "slug": "mothers-day-gift-card",
+            "votes": {
+                "2": 1,
+                "3": 2,
+                "4": 6,
+                "5": 18
+            },
+            "type": "email"
+        },
+        {
+            "id": 1314,
+            "premium": false,
+            "rating": 4.2,
+            "previewUrl": null,
+            "name": "Mother's Day Cosmetics Sale",
+            "slug": "mothers-day-cosmetics-sale",
+            "votes": {
+                "1": 3,
+                "2": 3,
+                "3": 25,
+                "4": 17,
+                "5": 62
+            },
+            "type": "email"
+        },
+        {
+            "id": 1312,
+            "premium": false,
+            "rating": 4.47,
+            "previewUrl": null,
+            "name": "Mother's Day Shoes Sale",
+            "slug": "mothers-day-shoes-sale",
+            "votes": {
+                "1": 3,
+                "2": 1,
+                "4": 2,
+                "5": 26
+            },
+            "type": "email"
+        },
+        {
+            "id": 1309,
+            "premium": false,
+            "rating": 4.54,
+            "previewUrl": null,
+            "name": "Mother's Day Appliance Sale",
+            "slug": "mothers-day-appliance-sale",
+            "votes": {
+                "1": 2,
+                "3": 1,
+                "4": 2,
+                "5": 21
+            },
+            "type": "email"
+        },
+        {
+            "id": 1308,
+            "premium": false,
+            "rating": 4.4,
+            "previewUrl": null,
+            "name": "Mother's Day Jewelry Sale",
+            "slug": "mothers-day-jewelry-sale",
+            "votes": {
+                "1": 1,
+                "3": 2,
+                "4": 4,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 1307,
+            "premium": false,
+            "rating": 4.65,
+            "previewUrl": null,
+            "name": "Fashion Store Discount for Moms",
+            "slug": "fashion-store-discount-for-moms",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 1,
+                "5": 17
+            },
+            "type": "email"
+        }
+    ]
+}

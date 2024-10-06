@@ -1,0 +1,183 @@
+{
+    "category": "Feedback",
+    "templates": [
+        {
+            "id": 2329,
+            "premium": false,
+            "rating": 4.69,
+            "previewUrl": null,
+            "name": "Praise and Recognition",
+            "slug": "praise-and-recognition",
+            "votes": {
+                "3": 2,
+                "4": 1,
+                "5": 13
+            },
+            "type": "email"
+        },
+        {
+            "id": 2313,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Real Stories",
+            "slug": "real-stories",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 9
+            },
+            "type": "email"
+        },
+        {
+            "id": 2311,
+            "premium": false,
+            "rating": 4.8,
+            "previewUrl": null,
+            "name": "Testimonial Showcase",
+            "slug": "testimonial-showcase",
+            "votes": {
+                "3": 1,
+                "4": 2,
+                "5": 17
+            },
+            "type": "email"
+        },
+        {
+            "id": 1997,
+            "premium": false,
+            "rating": 4.36,
+            "previewUrl": null,
+            "name": "Client Feedback",
+            "slug": "client-feedback",
+            "votes": {
+                "1": 1,
+                "3": 3,
+                "4": 6,
+                "5": 15
+            },
+            "type": "email"
+        },
+        {
+            "id": 1720,
+            "premium": false,
+            "rating": 4.88,
+            "previewUrl": null,
+            "name": "FIFA Player Card",
+            "slug": "FIFA-Player-Card",
+            "votes": {
+                "4": 2,
+                "5": 14
+            },
+            "type": "email"
+        },
+        {
+            "id": 1672,
+            "premium": false,
+            "rating": 4.72,
+            "previewUrl": null,
+            "name": "Passenger Review",
+            "slug": "passenger-review",
+            "votes": {
+                "2": 1,
+                "3": 4,
+                "4": 13,
+                "5": 67
+            },
+            "type": "email"
+        },
+        {
+            "id": 1669,
+            "premium": false,
+            "rating": 4.66,
+            "previewUrl": null,
+            "name": "User Review",
+            "slug": "user-review",
+            "votes": {
+                "1": 3,
+                "3": 7,
+                "4": 29,
+                "5": 125
+            },
+            "type": "email"
+        },
+        {
+            "id": 1559,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Customer Review",
+            "slug": "customer-review",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 8,
+                "5": 24
+            },
+            "type": "email"
+        },
+        {
+            "id": 1474,
+            "premium": false,
+            "rating": 4.67,
+            "previewUrl": null,
+            "name": "Customer Feedback",
+            "slug": "customer-feedback",
+            "votes": {
+                "1": 1,
+                "3": 1,
+                "4": 6,
+                "5": 28
+            },
+            "type": "email"
+        },
+        {
+            "id": 1200,
+            "premium": false,
+            "rating": 4.58,
+            "previewUrl": null,
+            "name": "Feedback For Electronics Customers",
+            "slug": "feedback-for-electronics-customers",
+            "votes": {
+                "1": 2,
+                "2": 1,
+                "3": 3,
+                "4": 16,
+                "5": 57
+            },
+            "type": "email"
+        },
+        {
+            "id": 1198,
+            "premium": false,
+            "rating": 4.42,
+            "previewUrl": null,
+            "name": "Feedback For Automotive Customers",
+            "slug": "feedback-for-automotive-customers",
+            "votes": {
+                "1": 4,
+                "3": 4,
+                "4": 5,
+                "5": 37
+            },
+            "type": "email"
+        },
+        {
+            "id": 1194,
+            "premium": false,
+            "rating": 4.61,
+            "previewUrl": null,
+            "name": "Feedback For Restaurant Customer Service",
+            "slug": "feedback-for-restaurant-customer-service",
+            "votes": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 8,
+                "5": 37
+            },
+            "type": "email"
+        }
+    ]
+}
