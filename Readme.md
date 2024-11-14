@@ -1,18 +1,12 @@
-# Free Newsletters Templates
+# Free Mail Templates
 
-This is a free newsletter templates website built with Astro.
-Contains over 1000 free newsletter templates to get you started.
+## About 
+Contains a database of over 750 free newsletter templates to help you started.
+The templates have been colected from different sources.
 
+## Demo 
+A live version of the templates can bee seen in our famous Laravel Package [Laravel Mail](https://laravelmail.com/templates)
 
-## TODO
+## License
 
-Make subdomain for deployment
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-
-## 📄 License
-
-Copyright © 2023 [Stefan Izdrail](https://izdrail.com)
+Copyright © 2024 [Stefan Izdrail](https://izdrail.com) & [Laravel Company](https://laravelcompany.com)
