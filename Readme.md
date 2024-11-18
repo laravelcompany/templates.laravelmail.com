@@ -2,7 +2,7 @@
 
 ## About 
 Contains a database of over 750 free newsletter templates to help you started.
-The templates have been colected from different sources.
+The templates have been collected from different sources.
 
 ## Demo 
 A live version of the templates can bee seen in our famous Laravel Package [Laravel Mail](https://laravelmail.com/templates)
